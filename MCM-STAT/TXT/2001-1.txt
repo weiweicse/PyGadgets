@@ -1,0 +1,5121 @@
+2001 Mathematical Contest in Modeling 
+Press Release(cid:151)March 21, 2001 
+ 
+
+COMAP is pleased to announce the results of the 17th Annual 
+Mathematical Contest in Modeling (MCM)). This year, 496 
+teams representing 238 institutions from 11 countries 
+participated in the contest.  
+ 
+
+2001 MCM OUTSTANDING WINNERS 
+
+This year(cid:146)s Problem A was about bicycle wheels and what edge 
+they may give to a race. Before any contest, professional 
+cyclists make educated guesses about which one of two basic 
+types of wheels to choose for any given competition.  The 
+team(cid:146)s Sports Director has asked them to come up with a better 
+system to help determine which kind of wheel (cid:150) wire spoke or 
+solid disk (cid:150) should be used for any given race course. 
+ 
+Problem B addressed the evacuation of Charleston, South 
+Carolina during 1999(cid:146)s Hurricane Floyd.  Maps, population 
+data, and other specific details were given to the teams.  They 
+were tasked with constructing a model to investigate potential 
+strategies.  In addition, they were asked to submit a news article 
+that would be used to explain their plan to the public. 
+ 
+
+ 
+Problem A 
+•  U.S. Military Academy (NY) 
+•  University Cork College (Ireland) 
+•  Stellenbosch University (South Africa) 
+Problem B 
+•  Duke University (NC) 
+•  Governor(cid:146)s School (VA) 
+•  Wake Forest University (NC) 
+•  Harvey Mudd College (CA) 
+•  Lawrence Technological University (MI) 
+•  Bethel College (MN) 
+ 
+The 2001 MCM began at 12:01 a.m. on Friday, February 9 and 
+officially ended at 11:59 p.m. on Monday, February 12, 2001. 
+During that time, teams of up to three undergraduates were to 
+research and submit an optimal solution for one of two open-
+ended modeling problems.  The 2001 MCM marked the 
+inaugural year for the new on-line contest, and it was a great 
+success.  Students were able to effectively register, obtain 
+contest materials, download the problems at the appropriate 
+time, and enter data all through COMAP(cid:146)S MCM website.  This 
+new on-line contest procedure is age and economically 
+appropriate, and encourages a more efficient MCM for the 
+future. 
+ 
+In additional to MCM, COMAP also sponsors the Interdisciplinary Contest in Modeling (ICM), which runs concurrently with MCM.  
+This contest offers a modeling problem involving concepts in mathematics, environmental science, environmental engineering, and/or 
+resource management. Results of this year(cid:146)s ICM can be found on COMAP(cid:146)s website at www.comap.com/undergraduate/contests/icm. 
+ 
+To obtain additional information about the MCM and to obtain a complete listing of all team designations, please visit the MCM web 
+site at:  www.comap.com/undergraduate/contests/mcm, or contact Clarice Callahan, Contest Coordinator, at:  
+c.callahan@mail.comap.com. 
+ 
+Major funding for the MCM is provided by a grant from the National Security Agency and COMAP. Additional support is provided by The  
+Institute  for Operations  Research  and  the Management  Sciences  (INFORMS),  the  Society  for  Industrial  and Applied Mathematics  (SIAM),  and  the 
+Mathematical Association of America  (MAA). COMAP’s Mathematical Contest  in Modeling  is unique among modeling competitions  in  that  it  is  the 
+only  international  contest  in  which  students  work  in  teams  to  find  a  solution.  Centering  its  educational  philosophy  on  mathematical  modeling, 
+COMAP  uses  mathematical  tools  to  explore  real-world  problems.  It  serves  the  educational  community  as  well  as  the  world  of  work  by  preparing 
+students to become better informed(cid:151)and prepared(cid:151)citizens. 
+ 
+
+ 
+2001 MCM Statistics 
+ 
+768 teams registered  and 496 participated (65%) 
+264 U.S. Teams (53%) from 163 institutions 
+232 Foreign Teams (47%) from  Australia, Canada, England, 
+Finland, Hong Kong, Ireland, Lithuania, P.R. China, Singapore 
+and South Africa 
+215 Problem A entries (43%) 
+281 Problem B entries (57%) 
+9 Outstanding Winners (2%) - 3 A, 6 B 
+70 Meritorious Winners (14%) - 27 A, 43 B 
+123 Honorable Mentions (25%) - 58 A, 65 B 
+294 Successful Participants (59%) - 127 A, 167 B 
+485 four-year institutions (98%) 
+5 two-year institutions (1%) 
+6 high schools (1%)
+
+• 
+• 
+• 
+
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+M ajor  fund ing p rovi ded by
+The Nat ional Security Age ncy
+
+ 
+Contest Director 
+Frank R. Giordano, COMAP, Inc., MA 
+Executive Director 
+Solomon A. Garfunkel, COMAP, Inc., MA 
+ 
+Founding Director 
+Bernard Fusaro, Florida State University, FL 
+Associate Directors 
+Bob Borrelli, Harvey Mudd College, CA 
+ 
+William Fox, Francis Marion University, SC 
+ 
+Michael Moody, Harvey Mudd College, CA 
+
+ 
+
+A dm ini ster ed b y
+T h e Co ns ort ium  fo r M ath emat ic s
+a nd  Its  A ppl ic ati ons
+
+ 
+
+ 
+
+ 
+Advisory Board 
+Courtney Coleman, Harvey Mudd College, CA 
+Bernard Fusaro, Florida State University, FL 
+Marvin S. Keener, Oklahoma State University, OK 
+Veena Mendiratta, AT&T Bell Labs, Lucent Technology, IL 
+Keith Miller, National Security Agency, MD 
+John S. Robertson, Georgia College, GA 
+Leon H. Seitelman, Pratt & Whitney, CT 
+Maynard Thompson, Indiana University, IN 
+Marie Vanisko, Carroll College, MT
+
+ 
+
+ #
+23413
+
+496
+
+297
+
+615
+
+132
+
+298
+
+15
+
+290
+
+74
+
+564
+
+803
+
+400
+
+396
+
+474
+
+606
+
+383
+
+714
+
+34
+
+394
+
+517
+
+263
+
+516
+
+246
+
+670
+
+671
+
+256
+
+83
+
+109
+
+108
+
+412
+
+342
+
+459
+
+114
+
+530
+
+531
+
+611
+
+612
+
+Institution
+
+Stellenbosch University
+
+University College Cork
+
+USMA
+
+Beijing University of Chemical
+
+Beijing University of Chemical
+
+Brandon University
+
+California Polytechnic State University
+
+Harbin Engineering Univ.
+
+Harbin Institute of Technology
+
+Harvey Mudd College
+
+James Madison University
+
+Jilin University of Technology
+
+John Carroll University
+
+Lafayette College
+
+Lake Superior State University
+
+Lewis and Clark College
+
+Southeast University
+
+Tianjin University
+
+Trinity University
+
+United States Air Force Academy
+
+University College Dublin
+
+University of Western Ontario
+
+Washington University
+
+Westminster College
+
+Westminster College
+
+Wright State University
+
+Youngstown State University
+
+Zhejiang University
+
+Zhejiang University
+
+Zhongshan University
+
+Angelo State University
+
+Asbury College
+
+Baylor University
+
+Claremont
+
+van Vuuren
+
+Cork
+
+West Point
+
+University
+
+Easton
+
+Sault Sainte
+
+Peichen
+
+Spalsbury
+
+Portland
+
+Nanjing
+
+Brandon
+
+San Luis
+
+Beijing
+
+Beijing
+
+Harbin
+
+Harbin
+
+Wenyan Yuan
+
+Shouting Shang
+
+James
+Grannell
+NY Donovan Phillips
+Guangfen Jiang
+
+Doug
+Pickering
+CA Thomas O’Neil
+Zhenbin
+Gao
+
+CA Michael Moody
+Harrisonburg VA James
+Sochacki
+Changchun
+Fang
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+A Outstanding Winner - INFORMS
+Jan
+Matieland
+A Outstanding Winner - MAA
+A Outstanding Winner - SIAM 
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+OH Angela
+A Meritorious
+PA Thomas Hill
+A Meritorious
+J. Jaroma and D. Baumann(cid:13)(cid:10)
+MI
+A Meritorious
+OR Robert
+Owens
+A Meritorious
+En-shui
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+
+Peter
+MO Hiro
+PA Barbara
+PA Barbara
+OH Thomas
+OH Thomas
+Yong
+
+Smith
+
+GD Zepeng
+TX Trey
+KY Kenneth Rietz
+TX Frank
+Mathis
+Yao
+
+TJ Wenjun Dong
+TX Fred
+Loxsom
+CO Jim
+Peter
+
+Duffy
+
+West
+
+Faires
+
+Faires
+
+Beijing
+
+Beijing
+
+Linping
+
+Linping
+
+USAF
+
+Dublin
+
+Poole
+
+Mukai
+
+Cuizhen
+
+Yihong
+
+He
+
+Yang
+
+Chen
+
+Waco
+
+Beijing
+
+Hangzhou
+
+Hangzhou
+
+London
+
+St. Louis
+
+Guangzhou
+
+San Angelo
+
+Svobodny
+
+Smotzer
+
+Youngstown
+
+New
+
+New
+
+Dayton
+
+Tianjin
+
+San Antonio
+
+Peng
+
+Peng
+
+Wilmore
+
+Qifan
+
+Chen
+
+Chen
+
+Page 1
+
+Beijing Institute of Technology
+
+Beijing Institute of Technology
+
+Beijing University of Aeronautics and
+
+Beijing University of Aeronautics and
+
+Beijing
+
+ #
+758
+
+128
+
+224
+
+96
+
+97
+
+553
+
+90
+
+190
+
+320
+
+288
+
+78
+
+343
+
+121
+
+271
+
+547
+
+654
+
+281
+
+282
+
+149
+
+369
+
+371
+
+505
+
+534
+
+527
+
+690
+
+372
+
+729
+
+239
+
+535
+
+242
+
+135
+
+218
+
+422
+
+651
+
+437
+
+573
+
+231
+
+Institution
+
+Chongqing University
+
+Colorado College
+
+Dalian University of Technology
+
+East China University of Science &
+
+East China University of Science &
+
+Eastern Oregon University
+
+Gettysburg College
+
+Goucher College
+
+Grinnell College
+
+Harbin Engineering Univ.
+
+Harbin Institute of Technology
+
+Hiram College
+
+Hong Kong Baptist University
+
+Hunter College of The City University of
+
+Indiana University
+
+Lawrence Technological University
+
+Mathematics School of Nankai University
+
+Mathematics School of Nankai University
+
+Nanjing Univ. of Science&Technology
+
+Nanjing
+
+Hiram
+
+Gubser
+
+Lewand
+
+Mingfeng
+
+Yuesheng
+
+Schneider
+
+New York
+
+Bloomington
+
+Southfield
+
+Colorado
+
+Dalian
+
+Baltimore
+
+Grinnell
+
+Chamberland
+
+La Grande
+
+Gettysburg
+
+Lezhou
+
+Staab
+
+Jiqun
+
+Shao
+
+Shiu
+
+Peluso
+
+Jolly
+
+ShangHai
+
+ShangHai
+
+Yuanhon Lu
+
+Harbin
+
+Harbin
+
+Kowloon Tong
+
+CO Peter
+He
+
+OH Brad
+W.C.
+
+NY Ada
+IN Michael
+Scott
+
+MI
+
+Yan
+Qin
+OR Anthony Tovar
+PA James
+Fink
+MD Robert
+IA Marc
+Luo
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+A Honorable Mention
+Zhan
+Chongqing
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+
+IA Werner
+Gua Zhu
+Cape Girardeau MO Robert
+New Haven
+CT Therese
+OK Virgil
+VA Crista
+Jun
+
+WA Mei
+Youshen Shu
+
+Zhu
+
+VA Jeffrey
+MD Steven
+Baorui
+
+Tianjin
+
+Tianjin
+
+Liang
+
+Zhou
+
+Chun
+
+Mengda
+
+Shirong
+
+Shanghai
+
+Shanghai
+
+Tacoma
+
+Beijing
+
+Bennett
+
+Turner
+
+Changsha
+
+Changsha
+
+Xi’an
+
+Xi’an
+
+Yang
+
+Xiaobin
+
+Hetzler
+
+Song
+
+Bi
+
+Min
+
+Dong
+
+Bethany
+
+Richmond
+
+Wu
+
+Lu
+
+Shi
+
+Liu
+
+Fengfeng
+
+Sheets
+
+Salem
+
+Salisbury
+
+Indianola
+
+Guangzhou
+
+ke
+
+Xu
+
+Hamilton
+
+Ye
+
+Taiyuan
+
+Yong
+
+Spielman
+
+Xingwei
+
+Beijing
+
+Kolln
+
+Page 2
+
+National University of Defence
+
+National University of Defence
+
+North China Institute of Technology
+
+Northwestern Polytechnical University
+
+Northwetern Polytechnical University
+
+Pacific Lutheran University
+
+Peking University
+
+Roanoke College
+
+Salisbury State University
+
+Shanghai Jiaotong University
+
+Shanghai University of Finance and
+
+Simpson College
+
+South China University of Technolgy
+
+Southeast Missouri State University
+
+Southern Connecticut State University
+
+Southern Nazarene University
+
+The Governor’s School
+
+Tsinghua University
+
+ #
+499
+
+498
+
+93
+
+230
+
+123
+
+327
+
+358
+
+765
+
+766
+
+142
+
+197
+
+198
+
+479
+
+410
+
+68
+
+525
+
+526
+
+600
+
+601
+
+208
+
+524
+
+502
+
+55
+
+512
+
+650
+
+674
+
+581
+
+351
+
+350
+
+280
+
+679
+
+112
+
+706
+
+776
+
+22
+
+146
+
+111
+
+Institution
+
+University College Cork
+
+University College Cork
+
+University of Colorado-Boulder
+
+University of Saskatchewan
+
+University of Saskatchewan
+
+University of Southern Colorado
+
+Weber State University
+
+Western Washington University
+
+Western Washington University
+
+Xi’an Jiaotong University
+
+Xidian University
+
+Xidian University
+
+Zhongshan University, China
+
+Zhongshan University, China
+
+Albertson College of Idaho
+
+Beijing Institute of Technology
+
+Beijing Institute of Technology
+
+Beijing Union University
+
+Beijing Union University
+
+Hurley
+
+Caldwell
+
+Hitchman
+
+Bao
+
+Li
+
+Yun
+
+Caiwei
+
+GuangZhou
+
+GuangZhou
+
+Bellingham
+
+Bellingham
+
+Saskatoon
+
+Saskatoon
+
+CORK
+
+Boulder
+
+Brooke
+
+Steele
+
+Twomey
+
+Fornberg
+
+Hui-chan
+
+Zhuo-kui
+
+Chen
+
+Zhang
+
+Pueblo
+
+Ogden
+
+Beijing
+
+Beijing
+
+Xi’an
+
+Xian
+
+Xi an
+
+ID Mike
+Cui
+
+Brian
+CO Bengt
+James
+
+Tom
+CO James
+Louisell
+UT Richard Miller
+WA Tjalling Ypma
+WA Tjalling Ypma
+Yicang
+Zhou
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+A Honorable Mention
+Donal
+Cork
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+
+CA Tibor
+PA John
+MO Cheryl
+Zhang
+
+Shanghai
+Lumin
+Harrisonburg VA John
+
+Liu
+
+Daming
+PA Kevin
+Ferland
+CA Matthew Moelter
+MT Philip
+Rose
+MT Holly
+Hong-ya Zhang
+
+Zullo
+
+Kaiyong Zhu
+
+Xiaodi
+
+Xiaodi
+
+Helena
+
+Helena
+
+Beijing
+
+Beijing
+
+Shoushan Luo
+
+Beijing
+
+Beijing
+
+Zongxian Wu
+
+Clarion
+
+Neosho
+
+Xuzhou
+
+Xuzhou
+
+Cui
+
+Jiang
+
+zeng
+
+Heard
+
+Ingram
+
+Gong
+
+Qu
+
+Yan
+
+Cheng
+
+Chongqing
+
+El Cajon
+
+Hefei
+
+ShangHai
+
+Bloomsburg
+
+San Luis
+
+Jiang
+
+Horst
+
+Yunshen Lu
+
+Quan-bing
+
+Changsha
+
+hua
+
+li
+
+Szarvas
+
+Beijing
+
+Page 3
+
+Beijing Univ. of Posts & Telecomm.
+
+Beijing University of Chemical
+
+Beijing University of Chemical
+
+Bloomsburg University
+
+California Polytechnic State University
+
+Carroll College
+
+Carroll College
+
+Central South University
+
+China University of Mining & Technology
+
+China University of Mining & Technology
+
+Chongqing University
+
+Christian Heritage College
+
+Clarion University of Pennsylvania
+
+Crowder College
+
+Dept. of Math of Anhui University
+
+Dong Hua University
+
+East China Normal University
+
+Eastern Mennonite University
+
+ #
+187
+
+769
+
+26
+
+27
+
+520
+
+672
+
+147
+
+148
+
+48
+
+189
+
+751
+
+321
+
+322
+
+181
+
+43
+
+259
+
+261
+
+262
+
+745
+
+175
+
+176
+
+796
+
+791
+
+627
+
+763
+
+778
+
+44
+
+805
+
+59
+
+790
+
+463
+
+276
+
+556
+
+409
+
+72
+
+519
+
+23415
+
+Institution
+
+Eastern Michigan University
+
+Eastern Oregon University
+
+Embry-Riddle Aeronautical University
+
+Embry-Riddle Aeronautical University
+
+Emporia State University
+
+Florida A&M University
+
+Fudan University
+
+Fudan University
+
+Georgetown University
+
+Goucher College
+
+Grand  View College
+
+Grinnell College
+
+Grinnell College
+
+Loch
+
+Zhijie
+
+Spradlin
+
+Cai
+
+Cai
+
+Tallahassee
+
+Guangzhou
+
+Hastings
+
+Washington
+
+Baltimore
+
+Des Moines
+
+Shanghai
+
+Shanghai
+
+Boerkoel
+
+Guerrieri
+
+Zigui
+
+Cooke
+
+Montgomery
+
+Grinnell
+
+Grinnell
+
+Hefei
+
+Hefei
+
+Hefei
+
+Montgomery
+
+NE David
+Xueqiao Du
+
+DC Andrew Vogt
+MD Robert
+Lewand
+IA Sergio
+IA Mark
+IA Mark
+Xiang
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+A Successful Participant
+MI Christop Hee
+Ypsilanti
+A Successful Participant
+OR Anthony Tovar
+La Grande
+A Successful Participant
+Daytona Beach FL Greg
+Spradlin
+A Successful Participant
+Daytona Beach FL Greg
+A Successful Participant
+KS Ton
+Emporia
+A Successful Participant
+FL Bruno
+A Successful Participant
+Zhijie
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+
+VT Glenn
+MI Howard Whitston
+TN Mark
+Miller
+MN A.
+NY Kathryn Weld
+AZ James
+Gibson
+Andy
+
+Joplin
+
+Oxford
+
+OH Doug
+MO Patrick
+Upper
+NJ Michael
+Emmitsburg MD Fred
+
+Zahia
+IL
+Hen Li
+Han
+
+Bloomington
+
+Bloomington
+
+Ning
+
+Drici
+
+Drici
+
+Huang
+
+Huang
+
+Youdu
+
+Youdu
+
+Foster
+
+Ward
+
+Jiamusi
+
+Jiamusi
+
+Jones
+
+Portier
+
+Lizhi
+
+Sproul
+
+Ye
+
+Bai
+
+(cid:146)Gu 
+
+Zhengzhou
+
+Zhengzhou
+
+Southfield
+
+Nashville
+
+St. Paul
+
+Riverdale
+
+Tempe
+
+St. John’s
+
+Shi Qi
+
+Fengshan
+
+IL
+
+Zahia
+
+Bin
+
+Zhonggeng
+
+Suzhou
+
+Hu
+
+Guangzhou
+
+Johnson
+
+Cassens
+
+Roberts
+
+Page 4
+
+Guangdong Commercial College
+
+Hastings College
+
+Hefei University of Technology
+
+Hefei University of Technology
+
+Hefei University of Technology
+
+Hu Ning
+
+Illinois Wesleyan University
+
+Illinois Wesleyan University
+
+Information & Engineering University
+
+Information & Engineering University
+
+Ji Nan University
+
+Jiamusi University
+
+Jiamusi University
+
+Johnson State College
+
+Lipscomb University
+
+Macalester College
+
+Manhattan College
+
+McClintock H S
+
+Lawrence Technological University
+
+Memorial University of Newfoundland
+
+Miami University
+
+Missouri Southern State College
+
+Montclair State University
+
+Mount St. Mary’s College
+
+ #
+639
+
+163
+
+164
+
+596
+
+501
+
+604
+
+211
+
+378
+
+42
+
+6
+
+300
+
+19
+
+637
+
+131
+
+265
+
+571
+
+586
+
+585
+
+398
+
+718
+
+774
+
+134
+
+129
+
+773
+
+506
+
+702
+
+476
+
+692
+
+313
+
+572
+
+442
+
+443
+
+32
+
+393
+
+126
+
+234
+
+389
+
+Institution
+
+Nanjing Normal University
+
+Nanjing Univ.of Sci.& Tech.
+
+Nanjing Univ.of Sci.& Tech.
+
+National University of Ireland, Galway
+
+North China Institute of Technology
+
+Northern Illinois University
+
+NorthWest Institution of Texile Sci. and
+
+Northwest Missouri State University
+
+Northwestern State University of LA
+
+Oberlin College
+
+Ohio University
+
+School of Mathematical Sciences, Peking
+
+School of Maths. & Computer
+
+Xin
+
+Zining
+
+Oberlin
+
+Nanjing
+
+Shanghai
+
+Xi’an
+
+Maryville
+
+Ma
+
+Zhengyuan
+
+IL
+
+Emil
+
+Cornea
+
+Zhu
+
+Qun-Sheng
+
+Yang
+
+Madden
+
+Jian
+
+Niall
+
+Galway
+
+Taiyuan
+
+DeKalb
+
+Natchitoches
+
+Jinan
+
+Jinan
+
+Ya-kui
+
+Xue
+
+Nanjing
+
+Nanjing
+
+Athens
+
+Beijing
+
+Piming Ma
+
+Xingmin Wu
+
+Euler
+
+XingShi
+
+He
+MO Russell
+LA Richard DeVault
+OH Elizabeth Wilmer
+OH David
+Keck
+Minghua Deng
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+A Successful Participant
+Chen
+Nanjing
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+
+PA Cheryl
+Jie
+MI Rick
+Trujillo
+IA Murphy Waggoner
+SD Kyle
+Riley
+TX Therese
+MT Mark
+GA Scott
+NY R. Bruce Mattingly
+OH Pamela
+Pierce
+VA John
+VA Crista
+Zhang
+
+TX Allen
+MO Steve
+Zhi-Ming Hu
+CO James
+
+JiLi Zhang
+Zeyi
+
+Olsen
+
+Zhou
+
+Shippensburg
+
+Sheng
+
+Jihong
+
+Aimin
+
+Taiyuan
+
+Taiyuan
+
+Holder
+
+Smith
+
+Beijing
+
+USAF
+
+Shelton
+
+Keeffe
+
+Gordon
+
+Cortland
+
+Wooster
+
+Fu Deyou
+
+Fu Deyou
+
+Richmond
+
+Richmond
+
+Li
+
+Zhao
+
+ChangChun
+
+ChangChun
+
+San Antonio
+
+Chengdu
+
+Adrian
+
+Indianola
+
+Barnes
+
+Hamilton
+
+Rapid City
+
+Georgetown
+
+Helena
+
+Carrollton
+
+Kirksville
+
+Tianjin
+
+Rolf
+
+Liu
+
+Shandong University
+
+Shandong University
+
+Shanghai Maritime University
+
+Shanxi University, P.R.China
+
+Shanxi University, P.R.China
+
+Shippensburg University
+
+Sichuan University
+
+Siena Heights University
+
+Simpson College
+
+South Dakota School of Mines and
+
+Southwestern University
+
+St. Andrew
+
+State University of West Georgia
+
+SUNY Cortland
+
+The College of Wooster
+
+The Governor’s School
+
+The Governor’s School
+
+The Second Aeronautical Institute of Air
+
+The Second Aeronautical Institute of Air
+
+Tianjin University
+
+Trinity University
+
+Truman State University
+
+Tsinghua University
+
+United States Air Force Academy
+
+Page 5
+
+ #
+324
+
+306
+
+304
+
+518
+
+56
+
+354
+
+255
+
+79
+
+664
+
+355
+
+63
+
+258
+
+721
+
+630
+
+4
+
+515
+
+699
+
+436
+
+460
+
+30
+
+31
+
+449
+
+174
+
+257
+
+61
+
+591
+
+140
+
+494
+
+561
+
+87
+
+652
+
+329
+
+567
+
+656
+
+185
+
+312
+
+206
+
+Institution
+
+Univ Colorado, Colorado Springs
+
+Univ.of Elec.Sci.&Tech.
+
+Univ. of Elec.Sci.& Tech.
+
+University of Central Oklahoma
+
+University of Houston
+
+University of Massachusetts Lowell
+
+University of Minnesota - Morris
+
+University of Nevada
+
+University of North Carolina at
+
+University of Portland
+
+University of Puget Sound
+
+University of Saskatchewan
+
+Ng
+
+Reno
+
+Jiangao
+
+Liu
+
+Ni
+
+Wise
+
+London
+
+Herman
+
+Judson
+
+Portland
+
+Tacoma
+
+Chengdu
+
+Chengdu
+
+Edmond
+
+Houston
+
+Lowell
+
+Morris
+
+Yang
+
+Yong
+
+Hefei
+
+Hefei
+
+Saskatoon
+
+Wilmington
+
+Meerschaert
+
+VA George Moss
+Poole
+Peter
+
+Wang
+OK Dan
+Endres
+TX Barbara Keyfitz
+MA James
+Graham-Eagle
+MN Peh
+NV Mark
+NC Russell
+OR Thomas
+WA DeWayn Derryberry
+James
+Brooke
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+A Successful Participant
+CO Gregory Morrow
+Colorado
+A Successful Participant
+Erjie
+Zhong
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Outstanding Winner - INFORMS
+B Outstanding Winner - SIAM & MAA
+B Outstanding Winner
+B Outstanding Winner
+B Outstanding Winner
+B Outstanding Winner
+B Meritorious
+
+PA Bruce
+WA Kit
+MO Jacquelin Maxwell
+NY Sheela Whelan
+NY Sheela Whelan
+Valhalla
+Williamstown MA Stewart
+Johnson
+Williamstown MA Frank
+OH Thomas
+Dayton
+Zhang-C Huang
+
+Pollack-Johnson
+
+Libeskind-Hada
+
+QinHuangDao
+
+Yonghong
+
+Maosheng
+
+Jiang
+
+Southfield
+
+Youngstown
+
+OH Stephen Hanzely
+MI Ruth
+Favro
+Winston Salem NC Miaohua
+CA Ran
+Claremont
+MN William Kinney
+NC David
+Kraines
+VA John
+Zuguo
+
+Richmond
+
+Durham
+
+St. Paul
+
+Beijing
+
+Barnes
+
+He
+
+Lexington
+
+Xi’an
+
+Xi’an
+
+Wuhan
+
+Wuhan
+
+Zhong
+
+XiaoZhu
+
+Chen
+
+Xing
+
+Morgan
+
+Svobodny
+
+Villanova
+
+Omak
+
+Dai
+
+Cao
+
+Arbuckle
+
+Valhalla
+
+Page 6
+
+University of Science and Technology of
+
+University of Science and Technology of
+
+University of Virginia’s College at Wise
+
+University of Western Ontario
+
+Villanova University
+
+Wenatchee Valley College/Omak
+
+Wentworth Military Academy and Junior
+
+Westchester Community College
+
+Westchester Community College
+
+Williams College
+
+Williams College
+
+Wright State University
+
+Wuhan University of Technology
+
+Wuhan University(WUHEE)
+
+Xi’an Jiaotong University
+
+Xi’an University of Technology
+
+YanShan University
+
+Youngstown State University
+
+Lawrence Technological University
+
+Wake Forest University
+
+Harvey Mudd College
+
+Bethel College
+
+Duke University
+
+The Governor’s School
+
+Beijing Univ. of Posts & Telecomm.
+
+ #
+14
+
+583
+
+377
+
+17
+
+98
+
+85
+
+66
+
+724
+
+267
+
+618
+
+451
+
+368
+
+489
+
+352
+
+210
+
+689
+
+326
+
+159
+
+540
+
+608
+
+216
+
+23
+
+375
+
+92
+
+353
+
+291
+
+251
+
+626
+
+152
+
+241
+
+483
+
+698
+
+296
+
+295
+
+328
+
+247
+
+767
+
+Institution
+
+California Polytechnic State University
+
+East China University of Science &
+
+Central South University
+
+Clarion University
+
+Dong Hua University
+
+Gettysburg College
+
+Hillsdale College
+
+James Madison University
+
+Jiading NO.1 High School
+
+MIT
+
+Lim
+
+Beal
+
+Rothman
+
+Stephenson
+
+Cambridge
+
+Durham
+
+Raleigh
+
+Shenyang
+
+Changsha
+
+Clarion
+
+Shanghai
+
+Doyle
+
+Mengda
+
+Changsha
+
+Singapore
+
+Tacoma
+
+Tarttila
+
+Andrew
+
+Scroggs
+
+WA Mei
+Merikki
+
+MA Dan
+NC Dot
+Wu 
+
+ShangHai
+
+Gettysburg
+
+Zhaohui Liu
+PA Sharon
+MI Robert
+Hillsdale
+Hesse
+Harrisonburg VA Caroline Smith
+Jiading
+Yu
+Wang
+
+NC Jeffrey
+Wendong Xiao
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Meritorious
+CA Thomas O’Neil
+San Luis
+B Meritorious
+Zhou-shu Zheng
+B Meritorious
+PA Jon
+B Meritorious
+Yongshe Ding
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+
+SC Ralph
+SC Laurene
+WA James
+Que Tony
+NY Edward
+NY David
+Winston Salem NC Miaohua
+MO Hiro
+St. Louis
+WA Saim
+
+Lin
+OR Lisa
+AK Chris
+CO Bengt
+MA James
+TX John
+VA Kathy
+Jiajun
+
+IN David
+Paul
+
+NJ
+
+Lowell
+
+Denton
+
+Aiken
+
+Seattle
+
+Jiang
+
+Mukai
+
+Morrow
+
+Roberts
+
+Connors
+
+Sanders
+
+Ciasullo
+
+Hartman
+
+Zhu
+
+Lappi
+
+Rader
+
+Howard
+
+Fausett
+
+Li Qun
+
+Pan
+
+West Point
+
+West Point
+
+Glassboro
+
+Shanghai
+
+Graham-Eagle
+
+Hoke
+
+Gu
+
+Ashland
+
+Fairbanks
+
+Boulder
+
+Toowoomba
+
+Richmond
+
+Hefei
+
+Columbia
+
+Terre Haute
+
+Bellingham
+
+Quintanilla
+
+Laumakis
+
+Fornberg
+
+Jianliang
+
+N.C. School of Science and Mathematics
+
+National University of Defence
+
+National University of Singapore
+
+North Carolina State University
+
+Northeastern University
+
+Pacific Lutheran University
+
+P(cid:228)iv(cid:246)l(cid:228) College
+
+Rose-Hulman Institute of Technology
+
+Rowan University
+
+Shanghai Foreign Language School
+
+Southern Oregon University
+
+University of Alaska Fairbanks
+
+University of Colorado-Boulder
+
+University of Massachusetts Lowell
+
+University of North Texas
+
+University of Richmond
+
+University of Science and Technology of
+
+University of South Carolina
+
+University of South Carolina Aiken
+
+University of Washington
+
+Univesity of Southern Queensland
+
+South China University of Technology
+
+Guangzhou
+
+USMA
+
+USMA
+
+Wake Forest University
+
+Washington University
+
+Western Washington University
+
+Ural
+
+Page 7
+
+ #
+
+8
+
+590
+
+39
+
+110
+
+107
+
+158
+
+361
+
+458
+
+205
+
+54
+
+382
+
+279
+
+388
+
+127
+
+221
+
+273
+
+28
+
+16
+
+99
+
+764
+
+551
+
+659
+
+91
+
+89
+
+317
+
+318
+
+693
+
+319
+
+566
+
+565
+
+260
+
+797
+
+545
+
+58
+
+619
+
+697
+
+617
+
+Institution
+
+Worcester Polytechnic Institute
+
+Wuhan University(WUHEE)
+
+York University
+
+Zhejiang University
+
+Zhejiang University
+
+Abilene Christian University
+
+Appalachian State University
+
+Asbury College
+
+Beijing Univ. of Posts & Telecomm.
+
+Bloomsburg University
+
+California Lutheran University
+
+Chongqing University
+
+Colby College
+
+Colorado College
+
+Dalian University of Technology
+
+Davidson College
+
+Dept. of Math of Anhui University
+
+Dong Hua University
+
+East China University of Science &
+
+Eastern Mennonite University
+
+Eastern Oregon University
+
+Georgia Southern University
+
+Gettysburg College
+
+Gettysburg College
+
+Goshen College
+
+Goshen College
+
+Greenville Colllege
+
+Grinnell College
+
+Harvey Mudd College
+
+Harvey Mudd College
+
+Luther College
+
+Mesa State College
+
+MIT
+
+Mt. Mercy College
+
+Nanjing University
+
+Qu
+
+Yong
+
+Hongquan
+
+He
+
+Yang
+
+Hendricks
+
+Dalian
+
+Davidson
+
+Ont
+
+Juris
+
+Steprans
+
+Waterville
+
+Colorado
+
+Wilmore
+
+Beijing
+
+Ferland
+
+Lofstock
+
+Abilene
+
+Boone
+
+Hangzhou
+
+Hangzhou
+
+Holly
+
+Staab
+
+Wuhan
+
+Toronto
+
+NC Laurie
+Wang
+
+ME Jan
+CO Peter
+Yu
+
+Bloomsburg
+
+PA Kevin
+Thousand Oaks CA Sandy
+Chongqing
+Gong
+
+Qifan
+TX David
+NC Holly
+Hirst
+KY Kenneth Rietz
+Zuguo
+He
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Meritorious
+MA Bogdan Vernescu
+Worcester
+B Meritorious
+Xing
+Chen
+B Meritorious
+B Meritorious
+B Meritorious
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+
+ShangHai
+Jinsong
+Harrisonburg VA John
+OR Robert
+La Grande
+GA Goran
+PA James
+PA L.
+IN David
+IN David
+IL Galen
+IA Marc
+CA Ran
+CA Michael Moody
+Xueqiao Du
+
+IA Reginald Laursen
+Grand Junction CO Edward
+Bonan-Hamada
+MA Dan
+Cambridge
+IA K.
+Yao
+
+Cedar Rapids
+
+Goshen
+
+Goshen
+
+Zhang
+
+Wujun
+
+Libeskind-Hada
+
+Housman
+
+Housman
+
+Huotari
+
+Lesaja
+
+Claremont
+
+Claremont
+
+Gettysburg
+
+Gettysburg
+
+Liangjian Hu
+
+Rothman
+
+Knopp
+
+Tianxing
+
+Heyer
+
+Da-peng
+
+Greenville
+
+Grinnell
+
+Zhengzhou
+
+Decorah
+
+Hefei
+
+ShangHai
+
+Fink
+
+Leinbach
+
+Peters
+
+Chamberland
+
+Shi
+
+Horst
+
+Statesboro
+
+Nanjing
+
+Page 8
+
+Hefei University of Technology
+
+Hefei
+
+Information & Engineering University
+
+ #
+595
+
+750
+
+23416
+
+560
+
+325
+
+373
+
+513
+
+161
+
+154
+
+21
+
+438
+
+245
+
+214
+
+711
+
+712
+
+23414
+
+753
+
+233
+
+232
+
+305
+
+666
+
+53
+
+478
+
+226
+
+625
+
+367
+
+249
+
+293
+
+10
+
+77
+
+199
+
+40
+
+84
+
+202
+
+202
+
+310
+
+307
+
+Institution
+
+National University of Ireland, Galway
+
+North Carolina State University
+
+NorthWest Institution of Texile Sci. and
+
+Northwestern Polytechnical University
+
+P(cid:228)iv(cid:246)l(cid:228) College
+
+Peking University
+
+Portland State University
+
+Rose-Hulman Institute of Technology
+
+Saint Mary’s College
+
+School of Mathematical Sciences, Peking
+
+Beijing
+
+Shanghai Normal University
+
+Shanghai University of Finance and
+
+South China University of Technology
+
+Guangzhou
+
+XingShi
+
+Portland
+
+Lafferriere
+
+van Vuuren
+
+Raleigh
+
+Xi’an
+
+Xi’an
+
+Matieland
+
+Dublin
+
+Zhu
+
+Feng
+
+Zhisui
+
+Terre Haute
+
+Notre Dame
+
+Peng
+
+Hua
+
+Detong
+
+Suwei
+
+Shanghai
+
+Shanghai
+
+Madden
+
+Scroggs
+
+Young
+
+Smith
+
+Nanjing
+
+Nanjing
+
+Tarttila
+
+Beijing
+
+Tao
+
+Jun
+
+Jun
+
+Jan
+
+Huang
+
+Huang
+
+Merikki
+
+Lappi
+
+NC Jeffrey
+He
+
+Youshen Shu
+OR Gerardo
+IN Frank
+IN Peter
+Gongyan Lei
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Honorable Mention
+Niall
+Galway
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+
+WA Randall
+Menomonie WI Maria
+NY Gregory
+West Point
+VA Steve
+Paul
+
+Juris
+
+Ont
+OH Thomas
+GA Robert
+GA Robert
+Wang
+
+Wang
+NE Glenn
+NS James
+James
+
+Timothy Murphy
+
+Leslie
+
+Leslie
+
+Wuhu
+
+Wuhu
+
+Zhi-Ming Hu
+
+Maciek
+
+Dunajski
+
+Beijing
+
+Beijing
+
+Sydney
+
+Sydney
+
+Decatur
+
+Decatur
+
+Franklin
+
+Franklin
+
+Jiangao
+
+Ledder
+
+Hefei
+
+Seattle
+
+Steprans
+
+Smotzer
+
+Roanoke
+
+Wheaton
+
+Wang
+
+Geng
+
+Fung
+
+Parnell
+
+Chengdu
+
+Lincoln
+
+Hammer
+
+Isihara
+
+Xi an
+
+Toronto
+
+Jian
+
+Yang
+
+Jun
+
+Ye
+
+Liu
+
+Hong-wei
+
+Youngstown
+
+LeVeque
+
+Chuanyu
+
+Oxford
+
+IL
+
+Page 9
+
+Southeast University
+
+Southeast University
+
+Stellenbosch University
+
+Trinity College Dublin
+
+Tsinghua University
+
+Tsinghua University
+
+Univ. of Elec.Sci.& Tech.
+
+University of Nebraska-Lincoln
+
+University of New South Wales
+
+University of New South Wales
+
+University of Oxford
+
+University of Science and Technology of
+
+University of Washington
+
+University of Wisconsin-Stout
+
+USMA
+
+Virginia Western Community College
+
+Wheaton College
+
+Xidian University
+
+York University
+
+Youngstown State University
+
+Agnes Scott College
+
+Agnes Scott College
+
+Anhui Mechanical and Electronic College
+
+Anhui Mechanical and Electronic College
+
+ #
+309
+
+277
+
+359
+
+620
+
+529
+
+599
+
+603
+
+207
+
+613
+
+614
+
+433
+
+177
+
+178
+
+253
+
+719
+
+720
+
+381
+
+695
+
+686
+
+621
+
+37
+
+38
+
+348
+
+349
+
+374
+
+81
+
+13
+
+742
+
+314
+
+223
+
+145
+
+188
+
+552
+
+673
+
+171
+
+243
+
+593
+
+Institution
+
+Anhui Mechanical and Electronic College
+
+Anhui University
+
+Appalachian State University
+
+Beijing Institute of Technology
+
+Beijing Institute of Technology
+
+Beijing Union University
+
+Beijing Union University
+
+Beijing Univ. of Posts & Telecomm.
+
+Beijing University of Aeronautics and
+
+Beijing University of Aeronautics and
+
+Beloit College
+
+Bemidji State University
+
+Bemidji State University
+
+Boise State University
+
+Brevard College
+
+Brevard College
+
+California Lutheran University
+
+California State University, Bakersfield
+
+Calvin College
+
+Carroll College
+
+Charleston Southern University
+
+Charleston Southern University
+
+China University of Mining & Technology
+
+China University of Mining & Technology
+
+Mead
+
+Boise
+
+Beloit
+
+Cuizhen
+
+feng
+
+long
+
+Campbell
+
+Yang
+
+qian
+
+Marland
+
+sanxing wu
+
+Livingston
+
+Livingston
+
+Yao
+
+wang
+
+ren
+
+sanxing wu
+
+Hefei
+
+Boone
+
+Bemidji
+
+Bemidji
+
+Brevard
+
+Brevard
+
+Shoushan Luo
+
+Beijing
+
+Beijing
+
+Beijing
+
+Beijing
+
+Beijing
+
+Beijing
+
+Beijing
+
+Cai
+NC Eric
+Yi Hong Chen
+
+WI Paul
+MN Colleen
+MN Colleen
+ID Jodi
+NC Clarke Wellborn
+NC Clarke Wellborn
+Thousand Oaks CA Sandy
+Lofstock
+Bakersfield
+CA Maureen Rush
+Grand Rapids MI Randall
+Pruim
+Helena
+MT Holly
+SC Stan
+SC Stan
+Zongxian Wu
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Successful Participant
+Yimin
+Wuhu
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+
+MI Christop Hee
+OR Jennifer Woodworth
+FL Bruno
+Guerrieri
+SC Thomas
+XueQing Gong
+
+Fitzkee
+
+TN Cathy
+SC Ioana
+John
+
+Dorette
+
+Pronk
+
+Perrine
+
+Perrine
+
+XueQing Gong
+
+Kaiyong Zhu
+
+Halifax
+
+Halifax
+
+Xuzhou
+
+Xuzhou
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Ypsilanti
+
+Carter
+
+Mihaila
+
+Charleston
+
+Charleston
+
+Memphis
+
+Conway
+
+La Grande
+
+Tallahassee
+
+Mingfeng
+
+Yuan
+
+Chongqing
+
+Fu
+
+Li
+
+He
+
+Zhen
+
+Clements
+
+Florence
+
+Dalian
+
+Zullo
+
+Page 10
+
+Chongqing University
+
+Christian Brothers University
+
+Coastal Carolina University
+
+Dalhousie University
+
+Dalhousie University
+
+Dalian University of Technology
+
+East China Normal University
+
+Eastern Michigan University
+
+Eastern Oregon University
+
+Florida A&M University
+
+Francis Marion University
+
+FuDan University
+
+FuDan University
+
+ #
+584
+
+708
+
+49
+
+660
+
+752
+
+694
+
+182
+
+285
+
+289
+
+73
+
+75
+
+119
+
+169
+
+170
+
+794
+
+464
+
+628
+
+268
+
+780
+
+779
+
+401
+
+402
+
+403
+
+491
+
+397
+
+272
+
+45
+
+709
+
+544
+
+730
+
+428
+
+283
+
+284
+
+57
+
+703
+
+71
+
+200
+
+Information & Engineering University
+
+Institution
+
+Fudan University
+
+Fudan University
+
+Georgetown University
+
+Georgia Southern University
+
+Grand  View College
+
+Greenville Colllege
+
+Guangdong Commercial College
+
+Harbin Engineering Univ.
+
+Harbin Engineering Univ.
+
+Harbin Institute of Technology
+
+Harbin Institute of Technology
+
+Hong Kong Baptist University
+
+Huntingdon College
+
+Huntingdon College
+
+Ithaca College
+
+Ji Nan University
+
+Jiading NO.1 High School
+
+Jiamusi University
+
+Jiamusi University
+
+Jilin University of Technology
+
+Jilin University of Technology
+
+Jilin University of Technology
+
+Jinan University
+
+John Carroll University
+
+Johns Hopkins University
+
+Johnson State College
+
+Kansas State University
+
+Luther College
+
+Macalester College
+
+Marist College
+
+Loch
+
+Zhibo
+
+Ithaca
+
+Guangzhou
+
+Jiading
+
+Shanghai
+
+Washington
+
+Statesboro
+
+Des Moines
+
+Greenville
+
+Guangzhou
+
+C.S.
+
+Tong
+
+Jihong
+
+Xiaowei
+
+Robertson
+
+Robertson
+
+Shen
+
+Zhang
+
+Peters
+
+Zigui
+
+Kowloon Tong
+
+Harbin
+
+Harbin
+
+Harbin
+
+Harbin
+
+Xuefeng Wang
+
+Shouting Shang
+
+NY John
+Ye
+
+Montgomery AL Robert
+Montgomery AL Robert
+Zhengzhou
+Lu
+
+Qinfeng Xu
+DC Andrew Vogt
+GA Goran
+Lesaja
+IA Sergio
+IL Galen
+Xiang
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Successful Participant
+Qinfeng Xu
+Shanghai
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+
+OH Angela
+MD Daniel
+VT Glenn
+KS Korten
+IA Reginald Laursen
+Roberts
+MN A.
+Poughkeepsie NY Tracey McGrail
+Tianjin
+Ruan
+Jishou
+
+Grand Junction CO Edward
+SC John
+Columbia
+MO Patrick
+SD Jim
+
+Yankton
+
+Joplin
+
+Fang
+
+Yang
+
+Yang
+
+Gan
+
+Fan
+
+Liu
+
+Bonan-Hamada
+
+Jiamusi
+
+Jiamusi
+
+Maceli
+
+Shi Qi
+
+Sproul
+
+Auckly
+
+Yinsheng
+
+Yinsheng
+
+Decorah
+
+St. Paul
+
+Chen
+
+Wui
+
+Yuhui
+
+Ruan
+
+Jishou
+
+Daiqiang Hu
+
+Changchun
+
+Changchun
+
+Changchun
+
+University
+
+Baltimore
+
+Cassens
+
+Miner
+
+Spalsbury
+
+Naiman
+
+Guang Zhou
+
+Johnson
+
+Manhattan
+
+Peichen
+
+Long
+
+Page 11
+
+Mathematics School of Nankai University
+
+Mathematics School of Nankai University
+
+Tianjin
+
+Mesa State College
+
+Midlands Technical College
+
+Missouri Southern State College
+
+Mount Marty College
+
+ #
+380
+
+638
+
+541
+
+102
+
+370
+
+504
+
+640
+
+213
+
+212
+
+209
+
+379
+
+783
+
+784
+
+574
+
+441
+
+466
+
+467
+
+514
+
+420
+
+685
+
+117
+
+700
+
+160
+
+387
+
+155
+
+423
+
+248
+
+634
+
+18
+
+20
+
+609
+
+610
+
+537
+
+538
+
+536
+
+417
+
+418
+
+Institution
+
+Mount Saint Mary’s College
+
+Nanjing Normal University
+
+Nanjing University
+
+Nanjing University of Science &
+
+National University of Defence
+
+North China Institute of Technology
+
+Northeastern University
+
+Northeastern University
+
+Northeastern University - School of
+
+Northeastern University - School of
+
+Northwest Missouri State University
+
+Northwest University
+
+Northwest University
+
+Northwestern Polytechnical University
+
+Occidental College
+
+Oklahoma State University
+
+Oklahoma State University
+
+Portland State University
+
+Randolph-Macon College
+
+Regis University
+
+Rhode Island College
+
+Ripon
+
+Sacred Heart University
+
+Saint Mary’s College
+
+Salem State College
+
+Salisbury State University
+
+Rose-Hulman Institute of Technology
+
+School of Math.& Computer Sci., Nanjing
+
+School of Mathematical Sciences, Peking
+
+School of Mathematical Sciences, Peking
+
+Shanghai Foreign Language School
+
+Shanghai Foreign Language School
+
+Shanghai Jiaotong University
+
+Shanghai Jiaotong University
+
+Shanghai Jiaotong University
+
+Shanghai Normal Univercity
+
+Shanghai Normal University
+
+HE
+
+Euler
+
+Maryville
+
+Los Angeles
+
+Ying-jie Lei
+
+Tianxing
+
+yu
+
+Shirong
+
+Jianjiang Cui
+
+Changsha
+
+Taiyuan
+
+Shenyang
+
+Shenyang
+
+Shenyang
+
+Shenyang
+
+Stillwater
+
+Stillwater
+
+Rui-chan
+
+Rui-chan
+
+Zhang
+
+Gui
+
+Yao
+
+jun
+
+Lu
+
+Nanjing
+
+Nanjing
+
+Dingyu
+
+Xue
+
+Peifeng
+
+Hao
+
+Tie-min Han
+
+Naimi
+
+Wolfe
+
+Wolfe
+
+Xi’an
+
+Xi’an
+
+Xi’an
+
+MO Russell
+HE
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Successful Participant
+Emmitsburg MD William O’Toole
+B Successful Participant
+Bo
+Chen
+Nanjing
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+
+CA Ramin
+OK John
+OK John
+OR Gerardo
+VA Bruce
+CO Linda
+RI David
+WI David
+IN David
+CT Peter
+IN Peter
+MA Kenny
+MD Michael Bardzell
+Fu
+Shitai
+
+Jianguo Huang
+
+Jianguo Huang
+
+Minghua Deng
+
+Shenghua Guo
+
+Smith
+
+Ching
+
+Li Qun
+
+Li Qun
+
+Baorui
+
+Jizhou
+
+Beijing
+
+Beijing
+
+Scott
+
+Rader
+
+Loth
+
+Song
+
+Zhang
+
+Portland
+
+Ashland
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Torrence
+
+Duchrow
+
+Salisbury
+
+Nanjing
+
+Terre Haute
+
+Fairfield
+
+Notre Dame
+
+Gongyan Lei
+
+Denver
+
+Providence
+
+Ripon
+
+Abrahamson
+
+Lafferriere
+
+Pan
+
+Pan
+
+Shanghai
+
+Salem
+
+Page 12
+
+Institution
+
+Shanxi University, P.R.China
+
+Shanxi University, P.R.China
+
+Sichuan University
+
+Sichuan University
+
+Sichuan University
+
+Siena Heights University
+
+Siena Heights University
+
+Simpson College
+
+Smith College
+
+South China University of Technology
+
+South Dakota School of Mines and
+
+ #
+587
+
+589
+
+716
+
+717
+
+9
+
+330
+
+331
+
+133
+
+237
+
+217
+
+130
+
+713
+
+404
+
+487
+
+192
+
+384
+
+477
+
+35
+
+391
+
+395
+
+303
+
+481
+
+219
+
+220
+
+425
+
+426
+
+64
+
+710
+
+62
+
+470
+
+240
+
+365
+
+542
+
+5
+
+471
+
+661
+
+11
+
+Yang
+
+Manfa
+
+Taiyuan
+
+Indianola
+
+Li
+
+Huang
+
+Nanjing
+
+Louisville
+
+Yang
+
+Carroll
+
+DeLand
+
+Cortland
+
+Chengdu
+
+Chengdu
+
+Chengdu
+
+Northfield
+
+Adrian
+
+Adrian
+
+Xiaoshi
+
+Liu
+
+Riley
+
+Chen
+
+Rapid City
+
+Nacogdoches
+
+Xianwen Zhang
+
+Zhihe
+MI Toni
+MI Toni
+Carroll
+IA Murphy Waggoner
+Northampton MA Ruth
+Haas
+Gua Liang
+Guangzhou
+SD Kyle
+En-shui
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Successful Participant
+Aimin
+Taiyuan
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+
+CA Brian
+CA Brian
+OK Dr.
+FL Peter
+WA DeWayn Derryberry
+WA Carol
+Smith
+SC Laurene
+TX Lorenzo
+Nicholas Derzko
+
+VA George Moss
+Stevens Point WI Nathan Wetzel
+Vilnius
+Ricardas Kudzma
+
+VA Ruth A.  Sherman
+
+San Antonio
+
+San Antonio
+
+Jacksonville
+
+Feissner
+
+Starr
+
+Gloor
+
+Bagley
+
+Coulter
+
+KY Scott
+MN Philip
+TX Colin
+FL Lisa
+NY George
+TJ Wenhua Hou
+TX Jeffrey
+Lawson
+TX Hector
+Xu
+MI David
+Maria
+
+Mireles
+
+James
+
+Meehan
+
+Quanzhi
+
+Curtin
+
+Curtin
+
+Aiken
+
+Austin
+
+Tacoma
+
+Tacoma
+
+Fausett
+
+Sadun
+
+Berkeley
+
+Berkeley
+
+Maria
+
+Meehan
+
+Cooper
+
+Braza
+
+Chengdu
+
+Dearborn
+
+Dublin
+
+Dublin 4
+
+Toronto
+
+Wise
+
+Edmond
+
+Tianjin
+
+Stephen F. Austin State University
+
+Southeast University
+
+Spalding University
+
+St. Olaf College
+
+Stetson University
+
+SUNY Cortland
+
+Tianjin University
+
+Trinity University
+
+Trinity University
+
+Univ. of Elec. Sci.&Tech
+
+Univ of Michigan - Dearborn
+
+University College Dublin, Ireland
+
+University College Dublin, Ireland
+
+University of California - Berkeley
+
+University of California - Berkeley
+
+University of Central Oklahoma
+
+University of North Florida
+
+University of Puget Sound
+
+University of Puget Sound
+
+University of South Carolina Aiken
+
+University of Texas at Austin
+
+University of Toronto
+
+University of Virginia’s College at Wise
+
+University of Wisconsin - Stevens Point
+
+Vilnius University
+
+Virginia Western Community College
+
+Roanoke
+
+Page 13
+
+Institution
+
+Wartburg College
+
+Wartburg College
+
+Wentworth Military Academy and Junior
+
+Birgen
+
+Graham
+
+Waverly
+
+2001 Mathematical Contest in Modeling (MCM) Final Results Report
+Prob
+State Advisor
+City
+Designation
+B Successful Participant
+IA Mariah
+Waverly
+B Successful Participant
+IA Mariah
+Birgen
+B Successful Participant
+MO Jacquelin Maxwell
+Lexington
+B Successful Participant
+Buckhannon WV Jeffery
+Sykes
+B Successful Participant
+NC Jeffrey
+Cullowhee
+B Successful Participant
+Wheaton
+Paul
+IL
+B Successful Participant
+Williamstown MA Cesar
+B Successful Participant
+WI Marvin
+Milwaukee
+B Successful Participant
+Li
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+
+OH Robert
+Xiaoling Yin
+
+and Fan Jiulun
+
+QinHuangDao
+
+Xi’an
+
+Xi’an
+
+Xian
+
+Zhong
+
+Wang
+
+QinHuangDao
+
+Isihara
+
+Silva
+
+XiaoZhu
+
+YongMao
+
+Maosheng
+
+Shui-sheng
+
+Youngstown
+
+GuangZhou
+
+Cao
+
+Zhou
+
+Papenfuss
+
+Kramer
+
+West Virginia Wesleyan College
+
+Western Carolina University
+
+Wheaton College (IL)
+
+Williams College
+
+Wisconsin Lutheran College
+
+Xi’an Institue of Post and
+
+Xi’an University of Technology
+
+Xidian University
+
+YanShan University
+
+YanShan University
+
+Youngstown State University
+
+ZhongShan University,China
+
+ #
+484
+
+485
+
+461
+
+430
+
+150
+
+76
+
+450
+
+179
+
+12
+
+495
+
+311
+
+562
+
+563
+
+88
+
+798
+
+Page 14
+
+

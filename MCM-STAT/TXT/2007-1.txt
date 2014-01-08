@@ -1,0 +1,12906 @@
+2007 Mathematical Contest in Modeling 
+Press Release—March 21, 2007 
+
+“fairly” and “simply” determining congressional districts for a 
+state. Problem B, written by Professor Paul Campbell of Beloit 
+College, required teams to devise and compare procedures for 
+boarding and deboarding planes with varying sizes from 85 to 
+800. Teams selecting this problem were also required to write 
+an executive summary not to exceed two pages in which they 
+set out their conclusions to an audience of airline executives, 
+gate agents, and flight crews. 
+ 
+The fourteen Outstanding solution papers will be published in 
+The UMAP Journal, along with commentary from the authors 
+and other judges.  All 949 of the competing teams are to be 
+congratulated for their excellent work and enthusiasm for 
+mathematical modeling and interdisciplinary problem solving.   
+ 
+
+ 
+COMAP is pleased to announce the results of the 23rd annual 
+Mathematical Contest in Modeling (MCM). This year, 949 
+teams representing institutions from 12 countries participated in 
+the contest. Fourteen teams from the following eleven 
+institutions were designated as OUTSTANDING WINNERS: 
+ 
+Duke University, Durham, NC (3 Teams) 
+Harvard University, Cambridge, MA 
+MIT, Cambridge, MA 
+National University of Defense Technology, China  
+National University of Singapore, Singapore 
+ 
+School of Mathematical Sciences, Peking University, China  
+Slippery Rock University, Slippery Rock, PA 
+Truman State University, Kirksville, MO 
+University of Puget Sound, Tacoma, WA 
+University of Stellenbosch, South Africa 
+University of Washington, Seattle, WA (2 Teams) 
+ 
+This year’s contest ran from Thursday, February 8 to Monday, 
+February 12, 2007.  During that time, teams of up to three 
+undergraduate or high school students researched, modeled, and 
+submitted a solution to one of two modeling problems. The 
+2007 MCM was primarily an online contest. Teams registered, 
+obtained contest materials, and downloaded the problem and 
+data at the prescribed time through COMAP’s MCM Website.  
+ 
+This year, the two MCM problems represented significant 
+challenges in their own right. The author of Problem A, 
+Professor Michael Tortorella of Rutgers University was also a 
+member of the panel of final judges. Problem A, The 
+Gerrymandering Problem, asked teams to develop a model for 
+ 
+ 
+To obtain additional information about the MCM and to obtain a complete listing of all team designations, please visit the MCM 
+Website at:  www.comap.com/undergraduate/contests/mcm, or contact COMAP at: mcm@comap.com. 
+ 
+Major  funding  for  the MCM  is provided by COMAP. Additional support  is provided by  the  Institute  for Operations Research and  the 
+Management Sciences  (INFORMS),  and Two Sigma  Investments. COMAP's Mathematical Contest  in Modeling and  Interdisciplinary 
+Contest  in Modeling are unique among modeling competitions  in  that  they are  the only  international contests  in which  students work 
+in  teams  to  find  a  solution.  Centering  its  educational  philosophy  on  mathematical  modeling,  COMAP  uses  mathematical  tools  to 
+explore real-world problems. It serves the educational community as well as the world of work by preparing students to become better 
+informed—and prepared—citizens, consumers, and workers. 
+ 
+
+949 teams participated 
+13 high school teams (1%) 
+283 U.S. Teams (30%) 
+666 Foreign Teams (70%) from Australia, Canada,  China, 
+Finland, Indonesia, Ireland, Jamaica, Korea, New Zealand, 
+Singapore, South Africa 
+14 Outstanding Winners (1%) 
+122 Meritorious Winners (13%) 
+255 Honorable Mentions (27%) 
+558 Successful Participants (59%) 
+
+ 
+2007 MCM Statistics 
+ 
+
+• 
+• 
+• 
+• 
+
+• 
+• 
+• 
+• 
+ 
+
+ 
+
+Administered by 
+The Consortium for Mathematics 
+and Its Applications 
+
+ 
+Contest Director 
+ 
+Frank Giordano, Naval Postgraduate School, Monterey CA.  
+ 
+Executive Director 
+Solomon A. Garfunkel, COMAP, Inc., MA 
+ 
+ 
+ 
+ 
+ 
+
+Founding Director 
+Ben Fusaro, Florida State University 
+ 
+ 
+Associate Directors 
+William Fox, Naval Postgraduate School, Monterey CA 
+Bob Borrelli, Harvey Mudd College, CA 
+Pat Driscoll, USMA, West Point 
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1000
+
+University of Stellenbosch
+
+South Africa
+
+Jan van Vuuren
+
+1034
+
+University of Washington
+
+1036
+
+University of Washington
+
+1098
+
+Truman State University
+
+USA
+
+USA
+
+USA
+
+James Morrow
+
+Anne Greenbaum
+
+Steven Smith
+
+1221
+
+National University of Singapore
+
+Singapore
+
+Yannis Yatracos
+
+1421
+
+Harvard University
+
+1510
+
+University of Puget Sound
+
+USA
+
+USA
+
+Clifford Taubes
+
+Michael Spivey
+
+1766
+
+School of Mathematical Sciences,Peking University
+
+P.R.China
+
+Xufeng Liu
+
+2010
+
+National University of Defense Technology
+
+P.R. China
+
+Yi Wu
+
+2043
+
+MIT
+
+2051
+
+Duke University
+
+USA
+
+USA
+
+Martin Bazant
+
+David Kraines
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+Outstanding Winner
+
+SIAM Award
+
+Outstanding Winner
+
+MAA Award
+
+Outstanding Winner
+
+Outstanding Winner
+
+MAA Award
+
+Outstanding Winner
+
+Outstanding Winner
+
+INFORMS Award
+
+Outstanding Winner
+
+Outstanding Winner
+
+Outstanding Winner
+
+Outstanding Winner
+
+SIAM Award
+
+Outstanding Winner
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2053
+
+Duke University
+
+2056
+
+Duke University
+
+2168
+
+Slippery Rock University
+
+995
+
+University of California, Davis
+
+USA
+
+USA
+
+U.S.A.
+
+USA
+
+Anne Catlla
+
+Owen Astrachan
+
+Athula Herat
+
+Sarah Williams
+
+999
+
+University of Stellenbosch
+
+South Africa
+
+Jan van Vuuren
+
+1003
+
+Renmin University of China
+
+China Mainland
+
+Zhou Zemin
+
+1021
+
+Shandong University
+
+P.R.China
+
+Baodong Liu
+
+1025
+
+Civil Aviation University of China
+
+China PR.
+
+Deyi Mou
+
+1039
+
+Nanjing University
+
+1045
+
+Civil Aviation University of China
+
+China
+
+China
+
+Haodong Wu
+
+Yuxiang Zhang
+
+1050
+
+Harbin Institute of Technology School of
+
+P.R. China
+
+Hong Ge
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Outstanding Winner
+
+Outstanding Winner
+
+INFORMS Award
+
+Outstanding Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1066
+
+Beijing Forestry University
+
+P.R.China
+
+Mengning Gao
+
+A
+
+Meritorious Winner
+
+James Graham-Eagle B
+
+Meritorious Winner
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+1078
+
+University of Massachusetts Lowell
+
+1083
+
+Shandong University
+
+USA
+
+China
+
+Baodong Liu
+
+1085
+
+Sichuan University
+
+P.R.China
+
+Zhou Jie
+
+1087
+
+Southwestern University of Finance and Economics
+
+P.R.China
+
+Shaowen Li
+
+1088
+
+Sichuan University
+
+P.R.China
+
+Bohui Chen
+
+1090
+
+MATH
+
+1091
+
+Pacific University
+
+CHINA
+
+USA
+
+HAI NIU
+
+John August
+
+1093
+
+Korea Advanced Institute of Science and
+
+Republich of Korea
+
+Joongmyeo Bae
+
+1095
+
+Korea Advanced Institute of Science & Technology
+
+Republic of Korea
+
+Yong Jung Kim
+
+1117
+
+School of Computer, Wuhan University
+
+China
+
+Hu Xinqi
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1128
+
+Ningbo Institute of Technology, Zhejiang University
+
+P.R.China
+
+Jufeng Wang
+
+1137
+
+Bemidji State University
+
+1138
+
+Bemidji State University
+
+USA
+
+USA
+
+Colleen Livingston
+
+Colleen Livingston
+
+1154
+
+Peking University School of Mathematical Sciences
+
+China, PR
+
+Junni Zhang
+
+1176
+
+Shandong University
+
+P.R.China
+
+Lu Tongchao
+
+1194
+
+Beijing Jiaotong University
+
+P.R.China
+
+Jixiang Fan
+
+1196
+
+School of Economics and Management, Beijing
+
+P.R.China
+
+Bingtuan Wang
+
+1222
+
+Beijing Normal University
+
+China
+
+Shumei Zhang
+
+1254
+
+Beijing University of Aeronautics and Astronautics
+
+P.R.China
+
+Feng Wei
+
+1259
+
+Northwestern Polytechnical University
+
+P.R.China
+
+Nie Yufeng
+
+1262
+
+Northwestern Polytechnical University
+
+P.R.China
+
+Youming Lei
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+A
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Ctrl #
+
+Institution
+
+1285
+
+Tsinghua University
+
+1286
+
+Tsinghua University
+
+1300
+
+Central South University
+
+1301
+
+Shanghai Hongkou Institute of Education
+
+1322
+
+Sun Yat-sen University
+
+1341
+
+Dalian University of Technology
+
+Country
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+JUN YE
+
+Zhiming Hu
+
+Hou Muzhou
+
+Jun Hu
+
+Yan Hui Li
+
+Sun Tao
+
+1353
+
+northwestern polytechnical university
+
+P.R.China
+
+sun zhongkui
+
+1357
+
+Loyola College In Maryland
+
+1375
+
+Radford University
+
+1377
+
+Kansas State University
+
+USA
+
+USA
+
+usa
+
+Jiyuan Tao
+
+Laura Spielman
+
+Dave Auckly
+
+1379
+
+Institute of Electronic Technology,Information
+
+China
+
+Jia Xin
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1414
+
+Hefei University of Technology
+
+P.R.China
+
+Xueqiao Du
+
+1422
+
+Harvard University
+
+USA
+
+Clifford Taubes
+
+1424
+
+University of Western Ontario
+
+Canada
+
+Allan MacIsaac
+
+1431
+
+School of Science, Xidian University
+
+P.R.China
+
+Yue Song
+
+1450
+
+College of Information Science and Engineering of
+
+P.R. China
+
+Shuying Zhao
+
+1453
+
+Shandong University of Science and Technology
+
+P.R.China
+
+Shanchen Pang
+
+1456
+
+Undergraduate
+
+The People\'s
+
+Yan Chen
+
+1469
+
+School of Applied Mathematics in Univ. of Elec. Sci.
+
+P. R. China
+
+Qin Siyi
+
+1473
+
+Hangzhou Dianzi University
+
+P.R. China
+
+Hao Shen
+
+1509
+
+Shanghai University of Finance&Economics
+
+P.R.China
+
+Li ming
+
+1514
+
+Western Washington University
+
+USA
+
+Tjalling Ypma
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+A
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1533
+
+Beijing Normal University
+
+P.R.China
+
+Haiyang Huang
+
+1539
+
+Huazhong University of Science and Technology
+
+China
+
+Liang Gao
+
+1541
+
+Lawrence Technological University
+
+1546
+
+Shanghai University of Finance and Economics
+
+1552
+
+Nanjing University
+
+USA
+
+China
+
+China
+
+Ruth Favro
+
+Zhen Yu Zhang
+
+Jin Wang
+
+1553
+
+School of Mechanical Engineering and Automation
+
+P. R. China
+
+Xuehong He
+
+1559
+
+South China Normal University
+
+P.R. China
+
+Tan Yang
+
+1576
+
+School of Science,Beijing Institute of Technology
+
+China
+
+Bing-Zhao Li
+
+1593
+
+Zhejiang University City College
+
+PRC
+
+Gui Wang
+
+1603
+
+Zhejiang University of Technology, Jianxing
+
+P.R. China
+
+Shiming Wang
+
+1617
+
+Wesleyan College
+
+USA
+
+Joseph Iskra
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Ctrl #
+
+Institution
+
+1623
+
+Rowan University
+
+1631
+
+Department of Science,Shenyang Institute of
+
+Country
+
+USA
+
+China
+
+Hieu Nguyen
+
+Limei Zhu
+
+1663
+
+Zhejiang University
+
+P. R. China
+
+Zhiyi Tan
+
+1670
+
+McGill University
+
+Canada
+
+Nilima Nigam
+
+1731
+
+University of Richmond
+
+USA
+
+Kathy Hoke
+
+1784
+
+South China University of Technology
+
+The People\'s
+
+Zhi-Sui Tao
+
+1787
+
+South China University of Technology
+
+China
+
+Shaohua Pan
+
+1819
+
+University of Colorado at Denver
+
+United States
+
+Gary Olson
+
+1851
+
+Southwest  University
+
+1856
+
+Zhuhai College of Jinan University
+
+China
+
+China
+
+Lei Deng
+
+Yuanbiao Zhang
+
+1879
+
+USMA
+
+United States
+
+Robert Burks
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+A
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+Meritorious Winner
+
+Ben Fusaro Award
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1881
+
+USMA
+
+1883
+
+USMA
+
+1885
+
+University of Delaware
+
+1886
+
+University of Delaware
+
+1890
+
+Oregon State University
+
+1902
+
+School of Science
+
+1919
+
+University of Colorado - Boulder
+
+1920
+
+University of Colorado - Boulder
+
+United States
+
+Elisha Peterson
+
+United States
+
+John Willis
+
+USA
+
+USA
+
+USA
+
+China
+
+USA
+
+USA
+
+Louis Rossi
+
+Louis Rossi
+
+Nathan Gibson
+
+He Lang
+
+Michael Ritzwoller
+
+Michael Ritzwoller
+
+1930
+
+University of Science and Technology of China
+
+P.R China
+
+Zhongwen Zhan
+
+1941
+
+Nanjing University of Posts & Telecommunications
+
+P.R.China
+
+Kong Gaohua
+
+1952
+
+Beijing Wuzi University
+
+China
+
+Zhenping Li
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+A
+
+A
+
+B
+
+A
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Ben Fusaro Award
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1965
+
+Trinity University
+
+1971
+
+Carroll College
+
+1985
+
+Carroll College
+
+1992
+
+Carroll College
+
+USA
+
+USA
+
+USA
+
+USA
+
+Diane Saphire
+
+Holly Zullo
+
+Kelly Cline
+
+Sam Alvey
+
+1993
+
+University of Colorado at Denver
+
+United States
+
+Lance Lana
+
+2008
+
+Mathematics Institution, National University of
+
+P.R. China
+
+Dan Wang
+
+2011
+
+National University of Defense Technology
+
+P.R. China
+
+Mengda Wu
+
+2034
+
+MIT
+
+2044
+
+MIT
+
+2048
+
+MIT
+
+2054
+
+Xavier University
+
+USA
+
+USA
+
+USA
+
+USA
+
+Leonid Levitov
+
+Martin Bazant
+
+Leonid Levitov
+
+Bernd Rossa
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+B
+
+A
+
+A
+
+A
+
+B
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Ctrl #
+
+Institution
+
+2057
+
+Duke University
+
+Country
+
+USA
+
+Owen Astrachan
+
+2064
+
+Wake Forest University
+
+United States
+
+Miaohua Jiang
+
+2065
+
+Wake Forest University
+
+United States
+
+Miaohua Jiang
+
+2078
+
+Xuzhou Institute of Technology
+
+P.R.China
+
+Jiang Yingzi
+
+2084
+
+Harvey Mudd College
+
+2086
+
+Harvey Mudd College
+
+2087
+
+Harvey Mudd College
+
+2092
+
+Slippery Rock University
+
+USA
+
+USA
+
+USA
+
+USA
+
+Jon Jacobsen
+
+Ran Libeskind-
+
+Ran Libeskind-
+
+Richard Marchand
+
+2094
+
+Southern Connecticut State University
+
+United States of
+
+Ross Gingrich
+
+2131
+
+National University of Ireland, Galway
+
+Ireland
+
+Niall Madden
+
+2133
+
+School of Science, USTC
+
+P. R. China
+
+Gaigong Zhang
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+A
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Ctrl #
+
+Institution
+
+2135
+
+University College Cork
+
+2149
+
+Rose-Hulman Institute of Technology
+
+2151
+
+Rose-Hulman Institute of Technology
+
+2154
+
+Cornell University
+
+2155
+
+Cornell University
+
+2156
+
+Asbury College
+
+2166
+
+Rice University
+
+2175
+
+Rice University
+
+2181
+
+Youngstown State Unviersity
+
+2191
+
+James Madison University
+
+2213
+
+Westminster College
+
+2007
+
+MCM Contest Results
+
+Country
+
+Ireland
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Advisor
+
+Problem
+
+Designation
+
+Dmitrii Rachinskii
+
+David Rader
+
+Cary Laxer
+
+Alexander Vladimirsky
+
+Alexander Vladimirsky
+
+David Coulliette
+
+Michael Orchard
+
+Mark Embree
+
+George Yates
+
+David Walton
+
+Samuel Lightner
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2217
+
+Westminster College
+
+2227
+
+Colgate University
+
+2235
+
+Lawrence Technological University
+
+2238
+
+Rice University
+
+USA
+
+USA
+
+USA
+
+USA
+
+Barbara Faires
+
+Warren Weckesser
+
+Valentina Tobos
+
+Michael Orchard
+
+992
+
+Nanjing University
+
+China
+
+Qian Chen
+
+997
+
+Civil Aviation University of China
+
+People\'s Republic of
+
+tian ming
+
+1001
+
+Renmin University of China
+
+China
+
+Litao Han
+
+1005
+
+Renmin University of China
+
+P.R.China
+
+Wang Wei
+
+1008
+
+Fudan University
+
+China
+
+Hongzhong Liu
+
+1010
+
+Shanghai University
+
+China
+
+Dong Wu
+
+1022
+
+Shandong University of Science and Technology
+
+P.R.China
+
+Shanchen Pang
+
+A
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+B
+
+A
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1024
+
+University of Southern Queensland
+
+Australia
+
+Sergey Suslov
+
+1026
+
+College of Mathematics of Beijing Normal
+
+1028
+
+College of Mathematics of Beijing Normal
+
+1032
+
+math
+
+1035
+
+University of Washington
+
+1042
+
+North China Electric Power University
+
+China
+
+China
+
+China
+
+USA
+
+China
+
+Yong Li
+
+Fu Liu
+
+Qing He
+
+James Morrow
+
+Wen Tan
+
+1044
+
+Beijing Normal University geography and remote
+
+People republic of
+
+Dai Yongjiu
+
+1046
+
+Sichuan University
+
+P.R.China
+
+Li bin
+
+1049
+
+Harbin Institute of Technology
+
+P.R. China
+
+Shouting Shang
+
+1051
+
+Harbin Institute of Technology School of
+
+P.R. China
+
+Hong Ge
+
+1053
+
+Harbin Institute of Technology School of
+
+P.R. China
+
+Wei Shang
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+A
+
+B
+
+A
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1056
+
+Civil Aviation University of China
+
+Country
+
+China
+
+Zhaoning Zhang
+
+1058
+
+Donghua University
+
+China P.R.
+
+Jie Qi
+
+1065
+
+Science
+
+China.P.R
+
+Pan Zhi
+
+1069
+
+Harbin Institute of Technology Science Faculty
+
+P.R. China
+
+Chiping Zhang
+
+1074
+
+Harbin Institute of Technology Science Faculty
+
+P.R. China
+
+Xilian Wang
+
+1076
+
+Harbin Institute of Technology
+
+P.R. China
+
+Yunfei Zhang
+
+1084
+
+Yucai senior high school
+
+P.R. China
+
+Zhenwei Yang
+
+1094
+
+Korea Advanced Institute of Science & Technology
+
+Republic of Korea
+
+Yong Jung Kim
+
+1099
+
+Truman State University
+
+1101
+
+Humboldt State University
+
+USA
+
+USA
+
+Steven Smith
+
+Brad Finney
+
+1104
+
+Dalian Maritime University
+
+P. R. China
+
+Y Zhang
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1108
+
+Simon\'s Rock College
+
+United States
+
+Allen Altman
+
+1114
+
+Linfield College
+
+United States
+
+Daniel Ford
+
+1121
+
+Dalian University
+
+1123
+
+Dalian University
+
+China
+
+China
+
+Tan Xinxin
+
+Gang Jiatai
+
+1125
+
+Ningbo Institute of Technology, Zhejiang University
+
+P.R.China
+
+Zhening Li
+
+1126
+
+Ningbo Institute of Technology, Zhejiang University
+
+P.R.China
+
+Zhening Li
+
+1127
+
+Ningbo Institute of Technology, Zhejiang University
+
+P.R.China
+
+Jufeng Wang
+
+1146
+
+Harbin Institute of Technology School of Municipal
+
+P.R. China
+
+Tong Zheng
+
+1157
+
+Beijing Normal University
+
+China
+
+Qing He
+
+1171
+
+Beijing JiaoTong University
+
+People\'s Republic of
+
+Bingtuan Wang
+
+1179
+
+School of Computer and Information Technology,
+
+People\'s Republic of
+
+Xiaoxia Wang
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1184
+
+Zhejiang Sci-Tech University
+
+Country
+
+China
+
+Hu Jueliang
+
+1185
+
+BEIHANG UNIVERSITY
+
+P.R.CHINA
+
+SHANGZHI LI
+
+1189
+
+School of Electronics and Information Engineering,
+
+People\'s Republic of
+
+Yongsheng Wei
+
+1191
+
+Shanghai Youth Center of Science & Technology
+
+P.R. China
+
+Gan Chen
+
+1193
+
+School of Science,Beijing Jiaotong University
+
+P.R.China
+
+Zhouhong Wang
+
+1199
+
+School of Traffic and Transportation,Beijing
+
+P.R.China
+
+Liang Wang
+
+1207
+
+Xi\'an Jiaotong University
+
+China, PRC
+
+Zhuosheng Zhang
+
+1209
+
+Xi\'an Jiaotong University
+
+China, PRC
+
+Lizhou Wang
+
+1217
+
+School of Information,Yunnan University
+
+1218
+
+Nonlinear Scientifc Research Center
+
+China
+
+China
+
+Wang Rui
+
+Gang Xu
+
+1227
+
+Sichuan University
+
+P.R.China
+
+Shuchao Zou
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1228
+
+Louisiana Tech University
+
+1231
+
+Zhejiang Normal University
+
+1232
+
+Zhejiang Normal University
+
+Country
+
+USA
+
+China
+
+China
+
+Katie Evans
+
+Xinzhong Lu
+
+wenqing Bao
+
+1240
+
+Fudan University
+
+P. R. China
+
+Haibin Kan
+
+1243
+
+Princeton University
+
+USA
+
+Robert Calderbank
+
+1245
+
+University of Shanghai for Science and Technology
+
+China
+
+Jia Gao
+
+1250
+
+China University of Petroleum, Beijing
+
+P.R.China
+
+Xiaoguang Lu
+
+1253
+
+University of Technology,Jamaica
+
+Jamaica
+
+Nilza Justiz-Smith
+
+1257
+
+northwestern polytechnical university
+
+P.R.China
+
+sun hao
+
+1258
+
+northwestern polytechnical university
+
+P.R.China
+
+peng guohua
+
+1261
+
+northwestern polytechnical university
+
+P.R.China
+
+Yong Xu
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1264
+
+Shanghai University of Finance & Economics
+
+P.R.China
+
+Chengdong Dong
+
+1266
+
+Shanghai Foreign Language School
+
+1267
+
+Shanghai Foreign Language School
+
+1268
+
+Shanghai Foreign Language School
+
+1275
+
+North China Electric Power University(Baoding)
+
+1277
+
+North China Electric Power University(Baoding)
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Liqun Pan
+
+Yu Sun
+
+Yu Sun
+
+Yagang Zhang
+
+PO ZHANG
+
+1280
+
+North China Electric Power University, Science and
+
+China
+
+Peng LI
+
+1281
+
+North China Electric Power University( Baoding)
+
+1284
+
+Tsinghua University
+
+1294
+
+Shanghai Foreign Language School
+
+China
+
+China
+
+China
+
+Bo Xiong
+
+JUN YE
+
+Liang Tao
+
+1306
+
+Shanghai Hongkou Institute of Education
+
+China
+
+Shengyang Ye
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+A
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1312
+
+School of Mathematics and Computing Science,
+
+1316
+
+Shanghai University of Finance & Economics
+
+1320
+
+Sun Yat-sen University
+
+1321
+
+Sun Yat-Sen
+
+1323
+
+Sun Yat-sen University
+
+1346
+
+Dalian University of Technology
+
+1348
+
+Dalian University of Technology
+
+Country
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Zhang HongYan
+
+Yu Zhu
+
+XiaoLing Yin
+
+Zuo Jian Yuan
+
+XiaoMing Liu
+
+Wang Yi
+
+he mingfeng
+
+1355
+
+northwestern polytechnical university
+
+P.R.China
+
+xiao huayong
+
+1356
+
+Loyola College In Maryland
+
+USA
+
+Jiyuan Tao
+
+1360
+
+Jilin University
+
+P.R.China
+
+Lv Xianrui
+
+1361
+
+china textile university
+
+china
+
+chen gang
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1366
+
+East China University of Science and Technology
+
+1404
+
+City Institute,Dalian University of Technology
+
+1416
+
+Sino European School of Technology
+
+Country
+
+China
+
+China
+
+China
+
+Su Chunjie
+
+Lianfu Li
+
+Yang Yongjian
+
+1419
+
+Hefei University of Technology
+
+P.R.China
+
+Xueqiao Du
+
+1420
+
+Nanjing University, China
+
+China
+
+Fa Liu
+
+1430
+
+Victoria University of Wellington
+
+New  Zealand
+
+Mark McGuinness
+
+1432
+
+Xidian University
+
+P.R.China
+
+Guoping Yang
+
+1433
+
+Xidian University
+
+P.R.China
+
+Feng Ye
+
+1439
+
+Jilin University
+
+P.R.China
+
+Chunling Cao
+
+1445
+
+GUILIN UNIVERSITY OF ELECTRONIC
+
+CHINA
+
+YONGXIAN MO
+
+1446
+
+Research Center of Control & Simulation of
+
+P.R.China
+
+Peifeng Hao
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+A
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1449
+
+College of Information Science and Engineering of
+
+P.R. China
+
+Chengdong Wu
+
+1451
+
+Institute of Computer System of Northeast
+
+P.R. China
+
+Huilin Liu
+
+1452
+
+Saint Mary\'s College
+
+1463
+
+Zhejiang University City College
+
+USA
+
+PRC
+
+Joanne Snow
+
+Xusheng Kang
+
+1464
+
+School of Applied Mathematics in Univ. of Elec. Sci.
+
+P. R. China
+
+Gao Qing
+
+1465
+
+School of Applied Mathematics in Univ. of Elec. Sci.
+
+P. R. China
+
+Gao Qing
+
+1466
+
+Hangzhou Dianzi University
+
+P.R. China
+
+Zheyong Qiu
+
+1467
+
+School of Applied Mathematics in in Univ. of Elec.
+
+P. R. China
+
+Xu Quanzi
+
+1478
+
+School of Life Science and Technology in Univ. of
+
+P. R. China
+
+Wang Zhu
+
+1483
+
+Hangzhou Dianzi University
+
+P.R. China
+
+Chengjia Li
+
+1488
+
+Dalian Nationalities University
+
+China
+
+Li Niu
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1491
+
+Shenzhen Polytechnic
+
+P.R. China
+
+Kanzhen Chen
+
+1493
+
+Shenzhen Polytechnic
+
+P.R. China
+
+Dongping Wei
+
+1494
+
+Mathematics Department of Harbin Engineering
+
+People\'s Republic of
+
+shen jihong
+
+1495
+
+Mathematics Department of Harbin Engineering
+
+People\'s Republic of
+
+shen jihong
+
+1496
+
+Mathematics Department of Harbin Engineering
+
+People\'s Republic of
+
+luo yuesheng
+
+1498
+
+Dalian University
+
+1501
+
+China University of Geosciences(Beijing)
+
+1506
+
+China University of Geosciences(Beijing)
+
+1518
+
+Dalian  Nationalities  Innovation  College
+
+1529
+
+School of Electronics Engineering and Computer
+
+1535
+
+Beihang University
+
+China
+
+CHINA
+
+CHINA
+
+China
+
+China
+
+China
+
+Liu Zixin
+
+Deng Yan
+
+Deng Yan
+
+Tian Yun
+
+Xiaolin Wang
+
+Haiyan Sun
+
+B
+
+A
+
+A
+
+A
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1547
+
+Zhejiang University of Finance and Economics
+
+P. R. China
+
+Ji Luo
+
+1554
+
+School of Computer Science and Technology,
+
+P.R.China
+
+xinshun xu
+
+1557
+
+South China Normal University
+
+P. R. China
+
+ShaoHui Zhang
+
+1560
+
+South China Normal University
+
+P.R. China
+
+QuanXin Zhu
+
+1565
+
+Beihua University
+
+China
+
+Yuncai Wei
+
+1571
+
+Nankai University
+
+China
+
+Chunsheng Zhang
+
+1572
+
+Nankai University
+
+1573
+
+Nankai University
+
+1575
+
+Beijing Insitute of Technology
+
+1579
+
+School of Science, Beijing Insitute of Technology
+
+China
+
+China
+
+China
+
+China
+
+Xingwei Zhou
+
+Tan Xu
+
+Qun REN
+
+Gui-Feng Yan
+
+1580
+
+School of Science, Beijing Insitute of Technology
+
+China
+
+Hong-Ying Man
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1586
+
+Zhejiang Gongshang University
+
+P.R.China
+
+Hua Jiukun
+
+1587
+
+Zhejiang Gongshang University
+
+P.R.China
+
+Hua Jiukun
+
+1589
+
+Zhejiang Gongshang University
+
+P.R.China
+
+Zhu Ling
+
+1595
+
+Zhejiang University City College
+
+1598
+
+Zhejiang University City College
+
+PRC
+
+PRC
+
+Gui Wang
+
+Huizeng Zhang
+
+1605
+
+Zhejiang University of Technology, Jianxing
+
+P.R.China
+
+Wenxin Zhuo
+
+1611
+
+Northwest University(China)
+
+1615
+
+East China Normal University
+
+1619
+
+Wesleyan College
+
+1625
+
+Northern Kentucky University
+
+China
+
+China
+
+USA
+
+USA
+
+qingyan Dong
+
+Yiming Cheng
+
+Joseph Iskra
+
+Gail Mackin
+
+1628
+
+Shenyang Institute of Aeronautical Engineering
+
+China
+
+Feng Shan
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1637
+
+High Point University
+
+1639
+
+Central University of Finance & Economics
+
+Country
+
+USA
+
+China
+
+Brian Fulton
+
+Xianjun Yin
+
+1640
+
+Hunan University
+
+China,PRC
+
+Han Luo
+
+1646
+
+School of Science, Beijing University of Posts and
+
+China
+
+Zuguo He
+
+1650
+
+School of Science, Beijing University of Posts and
+
+China
+
+Jinkou Ding
+
+1654
+
+Beijing University of Posts and
+
+1655
+
+Beijing University of Posts and
+
+1657
+
+Beijing University of Posts and
+
+China
+
+China
+
+China
+
+Wenbo Zhang
+
+Jianhua Yuan
+
+Zuguo He
+
+1664
+
+Zhejiang University
+
+P. R. China
+
+Jiaer Fei
+
+1665
+
+Zhejiang University
+
+P. R. China
+
+Jiaer Fei
+
+1674
+
+Seattle Pacific University
+
+USA
+
+Wai Lau
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1689
+
+Shanghai Jiaotong University
+
+P.R.China
+
+Baorui Song
+
+1713
+
+Dalin Navy Academy
+
+China
+
+Feng Jie
+
+1715
+
+China Agricultural University
+
+P.R.China
+
+Hui Zou
+
+1716
+
+School of Electronics engineering and Computer
+
+P.R.China
+
+Zhigang Zhang
+
+1717
+
+China Agricultural University
+
+P.R.China
+
+Jun Liu
+
+1720
+
+Central Washington University
+
+1721
+
+Johns Hopkins University
+
+1724
+
+University of Washington
+
+1725
+
+North University of China , Fenxiao
+
+1734
+
+Sonoma State University
+
+1738
+
+Science College,Southeast University
+
+USA
+
+U.S.A.
+
+USA
+
+China
+
+USA
+
+China
+
+Stuart Boersma
+
+Fred Torcaso
+
+Anne Greenbaum
+
+Xiaoren Fan
+
+Sunil Tiwari
+
+Liyan Wang
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1740
+
+Science College,Southeast University
+
+Country
+
+China
+
+Liyan Wang
+
+1743
+
+Chongqing University
+
+P.R. China
+
+Li Zhiliang
+
+1744
+
+Science College,Southeast University
+
+China
+
+Dan He
+
+1759
+
+Guanghua School of management,Peking
+
+P.R.China
+
+Peng He
+
+1764
+
+School of Mathematical Sciences,Peking University
+
+P.R.China
+
+Minghua Deng
+
+1767
+
+School of Mathematical Sciences,Peking University
+
+P.R.China
+
+Xufeng Liu
+
+1782
+
+Harbin University of Science and Technology
+
+People\'s Republic of
+
+Guangyue Tian
+
+1798
+
+NC School of Science and  Mathematics
+
+USA
+
+Daniel Teague
+
+1801
+
+Jinan University
+
+P. R. China
+
+Daiqiang Hu
+
+1810
+
+Georgia Southern University
+
+1817
+
+Sacred Heart University
+
+USA
+
+USA
+
+Goran Lesaja
+
+Peter Loth
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1830
+
+Nanchang University
+
+P.R.China
+
+Xinsheng Ma
+
+1831
+
+Nanchang University
+
+P.R.China
+
+Chen Tao
+
+1836
+
+Tongji University
+
+P.R. of China
+
+Jialiang Xiang
+
+1838
+
+Guanghua School of management,Peking
+
+P.R.China
+
+Peng He
+
+1848
+
+Southwest University
+
+China
+
+Wendi Wang
+
+1849
+
+Southwest University
+
+People\'s Republic of
+
+Chunlei Tang
+
+1862
+
+Zhuhai College of Jinan University
+
+China
+
+Guangqing Lv
+
+1863
+
+Concordia College-NY
+
+U.S.
+
+john loase
+
+1868
+
+Beijing University of Chemical Technology
+
+China
+
+Guangfeng Jiang
+
+1873
+
+Midlands Technical College
+
+1880
+
+Embry-Riddle Aeronautical University
+
+USA
+
+USA
+
+John Long
+
+Greg Spradlin
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+1889
+
+Wesleyan College
+
+Country
+
+USA
+
+Charles Benesh
+
+1897
+
+University of San Diego
+
+United States
+
+Diane Hoffoss
+
+1903
+
+School of Science
+
+China
+
+Zhu Huiying
+
+1904
+
+University of Science and Technology of China
+
+P.R.China
+
+Zijing Ding
+
+1907
+
+Automation
+
+1911
+
+School of Statistics
+
+1916
+
+University of Colorado - Boulder
+
+1917
+
+University of Colorado - Boulder
+
+1923
+
+The George Washington University
+
+China
+
+China
+
+USA
+
+USA
+
+USA
+
+Zhou Jun
+
+Tian Wufeng
+
+Anne Dougherty
+
+Bengt Fornberg
+
+Lowell Abrams
+
+1931
+
+Nantong University
+
+China
+
+Guoping Lu
+
+1942
+
+Nanjing University of Posts & Telecommunications
+
+P.R.China
+
+Qiu Zhonghua
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1945
+
+Nanjing University of Posts & Telecommunications
+
+P.R.China
+
+Shi Aiju
+
+1947
+
+University of Science and Technology of China
+
+P.R.China
+
+xuli
+
+le
+
+1953
+
+Beijing Wuzi University
+
+China
+
+Zhenping Li
+
+1954
+
+BEIJING WUZI UNIVERSITY
+
+CHINA
+
+Tian Deliang
+
+1960
+
+Ithaca College
+
+1967
+
+Trinity University
+
+1972
+
+California Polytechnic State University
+
+1976
+
+Simpson College
+
+1979
+
+Simpson College
+
+1981
+
+Maggie Walker Governor\'s School
+
+1984
+
+Maggie Walker Governor\'s School
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Bruce Thompson
+
+William Collins
+
+Jonathan Shapiro
+
+Martha Waggoner
+
+Paul Craven
+
+John Barnes
+
+John Barnes
+
+B
+
+A
+
+B
+
+A
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1986
+
+James Madison University
+
+1990
+
+Godw in High School Science, Mathematics, and
+
+1991
+
+Carroll College
+
+1995
+
+California State University at Monterey Bay
+
+1998
+
+California State University at Monterey Bay
+
+2014
+
+GanNan Normal University
+
+2015
+
+GanNan Normal University
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+China
+
+China
+
+Anthony Tongen
+
+Ann Sebrell
+
+Sam Alvey
+
+Hongde Hu
+
+Herbert Cortez
+
+Xie Xianhua
+
+Xu Jingfei
+
+2021
+
+University of Pretoria
+
+South Africa
+
+Ansie Harding
+
+2024
+
+PLA University of Science and Technology
+
+P.R.China
+
+Shi Hansheng
+
+2030
+
+Wesleyan College
+
+2031
+
+Bethel University
+
+USA
+
+USA
+
+Keith Peterson
+
+William Kinney
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+2032
+
+Drury University
+
+Country
+
+U.S.A.
+
+Bruce Callen
+
+2035
+
+Luther College
+
+USA
+
+Reginald Laursen
+
+2036
+
+Wuhan University
+
+China
+
+Yuanming Hu
+
+2037
+
+Miami University
+
+USA
+
+Doug Ward
+
+2047
+
+Connecticut College
+
+U.S.A.
+
+Sanjeeva Balasuriya
+
+2060
+
+Ithaca College
+
+2066
+
+Luther College
+
+2070
+
+Saint John\'s University
+
+2071
+
+Villa Julie College
+
+2074
+
+Villa Julie College
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Ali Erkan
+
+Steve Hubbard
+
+Robert Hesse
+
+Eileen McGraw
+
+Susan Slattery
+
+2075
+
+York University
+
+Canada
+
+Hongmei Zhu
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2076
+
+York University
+
+Canada
+
+Hongmei Zhu
+
+2080
+
+Physics Institution, National University of Defense
+
+P.R. China
+
+Xiaojun Duan
+
+2093
+
+Slippery Rock University
+
+USA
+
+Richard Marchand
+
+2097
+
+Rensselaer Polytechnic Institute
+
+United States
+
+Peter Kramer
+
+2098
+
+Xuzhou Institute of Technology
+
+P.R.China
+
+Li Subei
+
+2106
+
+School of Mathematics and Statistics of Wuhan
+
+P.R.China
+
+Luo Zhuangchu
+
+2112
+
+Harbin Medical University
+
+2113
+
+Harbin Medical University
+
+2114
+
+Harbin Medical University
+
+2119
+
+Daqing Petroleum Institute
+
+2123
+
+Clarkson University
+
+China
+
+China
+
+China
+
+China
+
+USA
+
+wang qianghu
+
+wang qianghu
+
+Wang Hu
+
+Yang Yunfeng
+
+Joseph Skufca
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+2125
+
+Clarkson University
+
+Country
+
+USA
+
+Joseph Skufca
+
+2128
+
+University of Science and Technology of China
+
+P. R. China
+
+Qiang Meng
+
+2138
+
+University College Cork
+
+2140
+
+Brandon University
+
+2144
+
+Mount Marty College
+
+2145
+
+Grand View  Colege
+
+2146
+
+Rensselaer Polytechnic Institute
+
+2157
+
+University of Alaska Fairbanks
+
+2165
+
+Davidson College
+
+2182
+
+Youngstown State Unviersity
+
+2187
+
+University of Minnesota Duluth
+
+Ireland
+
+Canada
+
+Donal Hurley
+
+Doug Pickering
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Bonita Gacnik
+
+Michelle Ruse
+
+Shekhar Garde
+
+Orion Lawlor
+
+Fred Smith
+
+George Yates
+
+Bruce Peckham
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2189
+
+Institut Teknologi Bandung
+
+Indonesia
+
+Rieske Hadianti
+
+2203
+
+Rensselaer Polytechnic Institute
+
+USA
+
+Shekhar Garde
+
+2209
+
+National University of Ireland, Galway
+
+Ireland
+
+Petri Piiroinen
+
+2214
+
+Colorado State University
+
+2225
+
+Salisbury University
+
+2226
+
+Salisbury University
+
+USA
+
+USA
+
+USA
+
+Michael Kirby
+
+Steven Hetzler
+
+Troy Banks
+
+993
+
+The School of Business, Nanjing University
+
+People\'s Republic of
+
+Dixin Zhang
+
+994
+
+University of California, Davis
+
+USA
+
+Sarah Williams
+
+998
+
+Tongji University
+
+P.R. China
+
+Hailong Yin
+
+1002
+
+Renmin University of China
+
+1006
+
+Fudan University
+
+China
+
+China
+
+Yunyan Yang
+
+Sheng Cui
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+A
+
+B
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1011
+
+Beijing Forestry University
+
+1012
+
+Beijing Forestry University
+
+Country
+
+China
+
+China
+
+Mengning Gao
+
+Li HongJun
+
+1013
+
+Fudan University
+
+P.R. China
+
+Yuan Cao
+
+1014
+
+Fudan University
+
+P.R. China
+
+Zhijie Cai
+
+1017
+
+Westchester Community College
+
+United States
+
+Marvin Littman
+
+1020
+
+Shandong University
+
+P.R.China
+
+Baodong Liu
+
+1029
+
+Civil Aviation University of China
+
+1030
+
+Cival Aviation University of China
+
+1031
+
+Civil Aviation University of China
+
+China
+
+China
+
+China
+
+Yongxin Gao
+
+Chen di
+
+Nie Runtu
+
+1033
+
+Appalachian State University
+
+United States of
+
+Katherine Mawhinney
+
+1037
+
+Huazhong University of Science and Technology
+
+China
+
+Yizhi Wang
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1038
+
+Nanjing University
+
+Country
+
+China
+
+Haodong Wu
+
+1040
+
+North China Electric Power University
+
+P.R.China
+
+Qiu QiRong
+
+1047
+
+Beijing Normal University
+
+P.R. China
+
+Qing He
+
+1052
+
+Donghua University
+
+China, P.R.
+
+Yongsheng Ding
+
+1054
+
+Harbin Institute of Technology School of
+
+P.R. China
+
+Wei Shang
+
+1055
+
+Heilongjiang University
+
+P.R. China
+
+Weijun Ma
+
+1057
+
+Beijing Forestry University
+
+china
+
+xiaochun wang
+
+1060
+
+Donghua University
+
+China P.R.
+
+Mengyu Hu
+
+1061
+
+Donghua University
+
+China P.R.
+
+Junmei Hou
+
+1063
+
+North China Electric Power University
+
+China
+
+Xirong Zhang
+
+1067
+
+Harbin Institute of Technology
+
+P.R. China
+
+Kean Liu
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1068
+
+Harbin Institute of Technology
+
+P.R. China
+
+Kean Liu
+
+1070
+
+Harbin Institute of Technology Science Faculty
+
+P.R. China
+
+Chiping Zhang
+
+1071
+
+Harbin Institute of Technology
+
+P.R. China
+
+Guanghong Jiao
+
+1072
+
+Harbin Institute of Technology
+
+P.R. China
+
+Guanghong Jiao
+
+1073
+
+Harbin Institute of Technology Science Faculty
+
+P.R. China
+
+Xilian Wang
+
+1075
+
+Harbin Institute of Technology
+
+P.R. China
+
+Yunfei Zhang
+
+1077
+
+Franklin College
+
+USA
+
+John Boardman
+
+1079
+
+School of Mathematical Sciences, Beijing Normal
+
+P.R.CHINA
+
+Cui Hengjian
+
+1081
+
+Shandong University
+
+P.R.China
+
+Baodong Liu
+
+1086
+
+Yucai senior high school
+
+P.R. China
+
+Zhenwei Yang
+
+1089
+
+Sichuan University
+
+China
+
+Yang Weng
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1092
+
+Pacific University
+
+1097
+
+Beijing Normal University
+
+1100
+
+Nanjing university
+
+Country
+
+USA
+
+China
+
+China
+
+Michael Boardman
+
+Hang Qiu
+
+Huimin Shao
+
+1105
+
+Dalian Maritime University
+
+P. R. China
+
+Y Zhang
+
+1107
+
+NANJING UNIVERSITY
+
+CHINA
+
+WEIHUA HUANG
+
+1109
+
+Simon\'s Rock College
+
+United States
+
+Allen Altman
+
+1111
+
+Simon\'s Rock College
+
+United States
+
+Mike Bergman
+
+1112
+
+Linfield College
+
+United States
+
+Julia Fredericks
+
+1113
+
+Linfield College
+
+United States
+
+Daniel Ford
+
+1115
+
+Linfield College
+
+United States
+
+Julia Fredericks
+
+1116
+
+Renmin University of China
+
+P.R.China
+
+Yunyan Yang
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1118
+
+Beijing Normal University
+
+1119
+
+Beijing Normal University
+
+1120
+
+Union College
+
+1132
+
+Beijing Normal University
+
+1134
+
+North China Electric Power University,Beijing,
+
+1135
+
+Informention Engineering College of Dalian
+
+1136
+
+Informention Engineering College of Dalian
+
+Country
+
+China
+
+China
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+Hengjian Cui
+
+Haiyang Huang
+
+Paul Friedman
+
+Yong Li
+
+li dong
+
+Dong Xiangyu
+
+Dong Xiangyu
+
+1140
+
+NANJING UNIVERSITY
+
+CHINA
+
+WEIHUA HUANG
+
+1141
+
+Beijing Forestry University
+
+China
+
+Sheng Liu
+
+1142
+
+Beijing University of Aeronautics and Astronautics
+
+P.R.China
+
+Wu Sanxing
+
+1144
+
+HeiLongJiang Institute of Science and Technology
+
+P.R. China
+
+Hong Du
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1151
+
+Harbin Institute of Technology School of Computer
+
+P.R. China
+
+Guofeng Fan
+
+1152
+
+BUAA
+
+P.R.China
+
+Linping Peng
+
+1153
+
+Beihang University
+
+P.R.China
+
+Haiyan Sun
+
+1155
+
+Beijing University of Technology
+
+P.R.China
+
+zhen wang
+
+1158
+
+Jiang Su University
+
+1159
+
+Mathematical Department of Jiangsu University
+
+1160
+
+Mathematical Department of Jiangsu University
+
+1161
+
+Institute of System  Engineering
+
+1162
+
+Institute of System  Engineering
+
+1163
+
+Jiang Su University
+
+1166
+
+Dalian University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+yimin Li
+
+Guilong Gui
+
+Guilong Gui
+
+Honglin Yang
+
+Honglin Yang
+
+yimin Li
+
+Liu Guangzhi
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1170
+
+School of Science,Beijing JiaoTong University
+
+People\'s Republic of Yongguang Yu
+
+1178
+
+School of Science,Beijing JiaoTong University
+
+People\'s Republic of
+
+Xiaoming Huang
+
+1180
+
+School of Computer and Information Technology,
+
+People\'s Republic of
+
+Xiaoxia Wang
+
+1181
+
+Zhejiang Sci-Tech University
+
+1182
+
+Zhejiang Sci-Tech University
+
+China
+
+China
+
+Luo Hua
+
+Shi Guosheng
+
+1186
+
+School of Electronics and Information Engineering,
+
+People\'s Republic of
+
+Yongsheng Wei
+
+1187
+
+Altoona Area High School
+
+1188
+
+Altoona Area High School
+
+USA
+
+USA
+
+Erin Wisor
+
+Erin Wisor
+
+1192
+
+Beijing JiaoTong University
+
+People\'s Republic of
+
+Jun Wang
+
+1195
+
+School of Electronics and Information Engineering,
+
+People\'s Republic of Chengchao You
+
+1202
+
+Beijing Jiaotong University
+
+P.R.China
+
+Jixiang Fan
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1203
+
+Shandong University
+
+P.R.China
+
+Shuxiang Huang
+
+1204
+
+Renmin University of China
+
+CHINA
+
+Deying Li
+
+1205
+
+North China Electric Power University
+
+P.R. China
+
+Qi Rong Qiu
+
+1206
+
+Xi\'an Jiaotong University
+
+China, PRC
+
+Xiaoliang He
+
+1212
+
+Xi\'an Jiaotong University
+
+China, PRC
+
+Feng Liu
+
+1213
+
+China University of Mining and Technology
+
+P.R.China
+
+Zhou Shengwu
+
+1214
+
+Applied Mathematics
+
+P.R.China
+
+Shuxiang Huang
+
+1216
+
+Nonlinear Scientifc Research Center
+
+1219
+
+The Charter School of Wilmington
+
+China
+
+USA
+
+Gang Xu
+
+L.Charles Biehl
+
+1220
+
+Information School of Yunnan University, China
+
+P.R.China
+
+Guanghui Cai
+
+1223
+
+Beijing Normal University
+
+P.R.China
+
+Honghui Wang
+
+B
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1225
+
+Shandong University college of Software
+
+Country
+
+China
+
+Xinshun Xu
+
+1233
+
+Zhejiang Normal University
+
+P.R.China
+
+Qiusheng Qiu
+
+1234
+
+South Western University of Finance and
+
+People\'s Republic of
+
+Sun Long
+
+1242
+
+Princeton University
+
+1244
+
+Hastings College
+
+USA
+
+U.S.A.
+
+Robert Calderbank
+
+David Cooke
+
+1246
+
+University of Shanghai for Science and Technology
+
+China
+
+Jia Gao
+
+1247
+
+University of West Georgia
+
+USA
+
+Scott Gordon
+
+1248
+
+Harbin Institute of Technology School of Computer
+
+P.R. China
+
+Xianyu Meng
+
+1249
+
+Shanghai University of Finance & Economics
+
+1251
+
+Shanghai University of Finance and Economic
+
+China
+
+China
+
+Zanzan Li
+
+dawu yu
+
+1252
+
+JIA MUSI UNIVERSITY
+
+CHINA
+
+ZHANG JUHONG
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1255
+
+JIA MUSI UNIVERSITY
+
+Country
+
+CHINA
+
+ZHANG JUHONG
+
+1263
+
+Northwestern Polytechnical University
+
+P.R.China
+
+Genjiu Xu
+
+1265
+
+Shanghai Foreign Language School
+
+1269
+
+Shanghai Foreign Language School
+
+1270
+
+Shanghai Foreign Language School
+
+1271
+
+Shanghai Foreign Language School
+
+1272
+
+Shanghai Foreign Language School
+
+1273
+
+Virginia Western Community College
+
+China
+
+China
+
+China
+
+China
+
+China
+
+USA
+
+Liqun Pan
+
+Feng Xu
+
+Feng Xu
+
+Weiping Wang
+
+Weiping Wang
+
+Ruth Sherman
+
+1276
+
+North China Electric Power University( Baoding)
+
+China
+
+shenghua wang
+
+1278
+
+North China Electric Power University Science and
+
+China
+
+Gendai Gu
+
+1282
+
+Bloomsburg University
+
+USA
+
+Kevin Ferland
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1283
+
+Beijing Normal University
+
+P.R. China
+
+Qing He
+
+1287
+
+Tsinghua University
+
+1288
+
+Northwest A&F University
+
+1289
+
+Northwest A&F University
+
+1293
+
+Shanghai Foreign Language School
+
+1295
+
+Shanghai Youth Center
+
+1296
+
+University of Wisconsin - La Crosse
+
+China
+
+China
+
+China
+
+China
+
+China
+
+USA
+
+Zhiming Hu
+
+wang jingmin
+
+wang jingmin
+
+Liang Tao
+
+Gan Chen
+
+Barbara Bennie
+
+1298
+
+School of Mathematics and Computational Science,
+
+China
+
+Huayou CHEN
+
+1299
+
+Shanghai Hongkou Youth Center
+
+1303
+
+Shanghai Hongkou Institute of Education
+
+China
+
+China
+
+Jian Tian
+
+Jun Hu
+
+1304
+
+Shanghai Hongkou Institute of Education
+
+China
+
+Shengyang Ye
+
+B
+
+A
+
+A
+
+A
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1305
+
+School of Mathematics and computing science,
+
+1307
+
+School of  Computer Science and Technology,
+
+1309
+
+School of  Computer Science and Technology,
+
+1311
+
+Central South University
+
+1313
+
+School of Geoscience and Environmental
+
+1314
+
+Central South University
+
+Country
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Qin Xuanyun
+
+Quanbing ZHANG
+
+Yanhong BAO
+
+Zhu Shihua
+
+Zhang Hongyan
+
+Zheng Zhoushun
+
+1317
+
+Guizhou University for Nationalities
+
+China
+
+Zhensheng Hong
+
+1326
+
+Math. and Statist. School, Yunnan University
+
+P.R.China
+
+jie meng
+
+1327
+
+Southwestern University of Finance and Economics
+
+People\'s Republic of
+
+Yunlong Sun
+
+1328
+
+Beijing University of Technology
+
+P.R.China
+
+Yi Xue
+
+1329
+
+University of Dayton
+
+USA
+
+Youssef Raffoul
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+B
+
+B
+
+A
+
+B
+
+A
+
+A
+
+A
+
+A
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+1330
+
+Dalian University of Technology
+
+1333
+
+Dalian University of Technology
+
+1334
+
+Dalian University of Technology
+
+1336
+
+Dalian University of Technology
+
+1337
+
+Dalian University of Technology
+
+1339
+
+Dalian University of Technology
+
+1343
+
+Dalian University of Technology
+
+1344
+
+Dalian University of Technology
+
+1345
+
+Dalian University of Technology
+
+1349
+
+Beijing Forestry University
+
+1350
+
+Shanghai Jiading No.1 Senior High school, China
+
+Country
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Advisor
+
+Problem
+
+Designation
+
+Feng Lin
+
+He Mingfeng
+
+Wu Zhenyu
+
+Wu Zhenyu
+
+Xi Wanwu
+
+Sun Tao
+
+Xiao Di
+
+Geng Xinghua
+
+Cai Yu
+
+HongJun Li
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Xie Xilin Fang Yunping B
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+1351
+
+Shanghai Jiading No.1 Senior High school, China
+
+Country
+
+China
+
+Advisor
+
+Problem
+
+Designation
+
+Xie Xilin Fang Yunping B
+
+Successful Participant
+
+1352
+
+Science College,SHU
+
+PR China
+
+Youhua HE
+
+1354
+
+northwestern polytechnical university
+
+P.R.China
+
+xiao huayong
+
+1358
+
+Heritage University
+
+1362
+
+East China University of Science and Technology
+
+1363
+
+East China University of Science and Technology
+
+1364
+
+Institute of Electronic Technology,Information
+
+1365
+
+East China University of Science and Technology
+
+1371
+
+Virginia Western
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+USA
+
+Richard Swearingen
+
+Qin Yan
+
+Qin Yan
+
+Zhang yong
+
+Liu Zhaohui
+
+Steve Hammer
+
+1372
+
+Queen\'s University
+
+Canada
+
+Navin Kashyap
+
+1376
+
+Radford University
+
+USA
+
+Laura Spielman
+
+B
+
+B
+
+B
+
+A
+
+A
+
+A
+
+B
+
+A
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+1378
+
+Kansas State University
+
+1381
+
+Beijing Language and Culture University
+
+1382
+
+Beijing Language and Culture University
+
+1384
+
+Beijing Language and Culture University
+
+1386
+
+Southeast  University
+
+1387
+
+Southeast  University
+
+1388
+
+Southeast  University
+
+1389
+
+Southeast  University
+
+1393
+
+Dalian University of Technology
+
+1394
+
+Dalian University of Technology
+
+1395
+
+City Institute,Dalian University of Technology
+
+Country
+
+usa
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Advisor
+
+Problem
+
+Designation
+
+Dave Auckly
+
+Guilong Liu
+
+Guilong Liu
+
+Xiaoxia Zhao
+
+Enshui Chen
+
+Enshui Chen
+
+Feng Wang
+
+Feng Wang
+
+Li Zhe
+
+Li Zhe
+
+Xubin Gao
+
+A
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1396
+
+Jilin University
+
+P.R.China
+
+Shaoyun Shi
+
+1397
+
+Dalian University of Technology
+
+1398
+
+City Institute,Dalian University of Technology
+
+China
+
+China
+
+Jiang He
+
+Hongzeng Wang
+
+1399
+
+Jilin University
+
+P.R.China
+
+Shaoyun Shi
+
+1401
+
+Dalian University of Technology
+
+1402
+
+City Institute,Dalian University of Technology
+
+1405
+
+Dalian University of  Technology
+
+China
+
+China
+
+China
+
+Xu Shengjun
+
+Meng Lin
+
+Zhe Li
+
+1407
+
+Jilin University
+
+1408
+
+Jilin University
+
+P.R.China
+
+Peichen Fang
+
+P.R.China
+
+Peichen Fang
+
+1410
+
+Sino European School of Technology
+
+China
+
+Yang Yongjian
+
+1411
+
+Jilin University
+
+P.R.China
+
+Yang Cao
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1412
+
+Hefei University of Technology
+
+P.R.China
+
+Youdu Huang
+
+1415
+
+Hefei University of Technology
+
+P.R.China
+
+Yongwu Zhou
+
+1418
+
+Sichuan University
+
+The People\'s
+
+Ming Fan
+
+1423
+
+Harvard University
+
+US
+
+Michael Brenner
+
+1425
+
+Xidian University
+
+P.R.China
+
+Hongyun Meng
+
+1426
+
+Jacksonville University
+
+1428
+
+Jacksonville University
+
+USA
+
+USA
+
+Robert Hollister
+
+Robert Hollister
+
+1435
+
+Fujian University of Technology
+
+P. R. China
+
+Lin Li
+
+1436
+
+Research Center of Control & Simulation of
+
+P.R.China
+
+Jianjiang Cui
+
+1437
+
+Shenyang University School of Science
+
+P.R.China
+
+Guiyan Mu
+
+1438
+
+Shanghai University
+
+China
+
+YuanDi Wang
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1441
+
+Jilin University
+
+P.R.China
+
+XiuLing Yao
+
+1443
+
+GUILIN UNIVERSITY OF ELECTRONIC
+
+CHINA
+
+XINGXING HE
+
+1444
+
+Guilin University of Electronic Technology
+
+China
+
+Sunyong Wu
+
+1447
+
+Institute of Artificial Intelligence and Robotics of
+
+P.R. China
+
+Yunzhou Zhang
+
+1448
+
+Institute of Artificial Intelligence and Robotics of
+
+P.R. China
+
+Feng Pan
+
+1454
+
+Saint Mary\'s College
+
+USA
+
+Joanne Snow
+
+1457
+
+Undergraduate
+
+The People\'s
+
+Yan Chen
+
+1459
+
+College of Science of Harbin Engineering University
+
+People\'s Republic of
+
+yu fei
+
+1468
+
+Beijing  High School  Four
+
+P.R.China
+
+Wei Li
+
+1474
+
+Beijing High School Four
+
+P. R. China
+
+Shi Wang
+
+1479
+
+Dalian  Nationalities  University
+
+china
+
+fu jie
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1481
+
+Hangzhou Dianzi University
+
+P.R. China
+
+Zhifeng Zhang
+
+1482
+
+China University of Mining and Technology
+
+P.R.China
+
+Wu Zongxiang
+
+1485
+
+dalian  Nationalities University
+
+1486
+
+Dalian Nationalities University
+
+China
+
+China
+
+zhang bo
+
+Liu Guo
+
+1489
+
+Jilin teachers\' institute of engineering and
+
+P.R.China
+
+Changchun Li
+
+1492
+
+Shenzhen Polytechnic
+
+P.R.China
+
+Hongmei Tian
+
+1503
+
+China University of Geosciences,Beijing
+
+1505
+
+China University of Geosciences,Beijing
+
+1507
+
+Dalian Neusoft Institute of Information
+
+1508
+
+Lipscomb University
+
+1511
+
+Taiyuan University of Technology
+
+China
+
+China
+
+China
+
+USA
+
+China
+
+Zhaodou Chen
+
+Zhaodou Chen
+
+Yuxin Zhao
+
+Mark Miller
+
+Yiqiang Wei
+
+B
+
+A
+
+A
+
+A
+
+B
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1512
+
+Western Oregon University
+
+1513
+
+Western Washington University
+
+1515
+
+Nebraska Wesleyan University
+
+1516
+
+Dalian  Nationalities  Innovation  College
+
+1517
+
+Dalian  Nationalities  Innovation  College
+
+1519
+
+Dalian  Nationalities  Innovation  College
+
+1524
+
+College  of  Science
+
+1525
+
+College  of  Science
+
+1528
+
+College  of  Science
+
+1530
+
+College  of  Science
+
+1531
+
+Institution of Comp. Sci. and Technology
+
+USA
+
+USA
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+china
+
+Maria Fung
+
+Tjalling Ypma
+
+Kristin Pfabe
+
+Chen Wen
+
+Chen Wen
+
+Tian Yun
+
+Ge Dong
+
+Ma Mei
+
+Guo Qiang
+
+Xue Ye
+
+Liu Shan
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1532
+
+KAIST (Korea Advanced Institute of Science and
+
+1534
+
+Beijing Language and Culture University
+
+1538
+
+Huazhong University of Science and Technology
+
+1540
+
+Lawrence Technological University
+
+Country
+
+Korea
+
+China
+
+China
+
+USA
+
+Hawoong Jeong
+
+Rou Song
+
+Liang Gao
+
+Ruth Favro
+
+1543
+
+Huazhong University of Science and Technology
+
+China
+
+Yan Dong
+
+1548
+
+Zhejiang University of Finance and Economics
+
+P. R. China
+
+Fulai Wang
+
+1549
+
+Shenyang Normal University
+
+1550
+
+Shenyang Normal University
+
+1551
+
+Shenyang Normal University
+
+1555
+
+hua qiao university
+
+1556
+
+Beijing Information Science and Technology
+
+China
+
+China
+
+China
+
+china
+
+China
+
+Li Xiaoyi
+
+Meng Xianji
+
+Liu Yuzhong
+
+hai zhou song
+
+Xue Chunyan
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+B
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1558
+
+South China Normal University
+
+P.R. China
+
+ShaoHui Zhang
+
+1563
+
+Beihua University
+
+1564
+
+Beihua University
+
+1566
+
+Nankai University
+
+1567
+
+Beihua University
+
+1588
+
+Xiamen University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Ming Zhao
+
+Zhaojun Chen
+
+Jishou Ruan
+
+Hongwei Zhao
+
+Langcai Cao
+
+1590
+
+Zhejiang Gongshang University
+
+P.R.China
+
+Zhu Ling
+
+1594
+
+Northwest University(China)
+
+P.R.China
+
+Yingjie Du
+
+1597
+
+Central University of Finance & Economics
+
+1600
+
+Research Center for Nonlinear Sciences of Fudan
+
+1601
+
+Central University of Finance & Economics
+
+China
+
+China
+
+China
+
+Xiuguo Wang
+
+Wei LIN
+
+Zhaoxu Sun
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1608
+
+Zhejiang University of Technology
+
+P.R.China
+
+Minghua Zhou
+
+1609
+
+Central University of Finance & Economics
+
+China
+
+Xiuguo Wang
+
+1610
+
+Zhejiang University of Technology
+
+P.R.China
+
+Xuejun Wu
+
+1616
+
+Nanjing Univ. of Sci. & Tech.
+
+P.R.China
+
+Zhang Zhengjun
+
+1618
+
+Nanjing Univ. of Sci. & Tech.
+
+P.R.China
+
+Peibiao Zhao
+
+1620
+
+Nanjing Univ. of Sci. & Tech.
+
+P.R.China
+
+Zhipeng Qiu
+
+1621
+
+Nanjing Univ. of Sci. & Tech.
+
+P.R.China
+
+Liwei Liu
+
+1626
+
+Harvard University
+
+1627
+
+Northern Kentucky University
+
+US
+
+USA
+
+Michael Brenner
+
+Gail Mackin
+
+1629
+
+Shenyang Institute of Aeronautical Engineering
+
+China
+
+Feng Shan
+
+1633
+
+Department of Information and Computer Science,
+
+China
+
+Shiyun Wang
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1634
+
+Department of Science,Shenyang Institute of
+
+P.R.China
+
+Weifang Liu
+
+1638
+
+School of Mathematics and System Sciences
+
+P.R.China
+
+Shuxiang Huang
+
+1641
+
+Hunan University
+
+China,PRC
+
+Liping Wang
+
+1644
+
+School of Science, Beijing University of Posts and
+
+China
+
+Zuguo He
+
+1647
+
+Hunan University
+
+China,PRC
+
+Hao Wu
+
+1648
+
+School of Science, Beijing University of Posts and
+
+China
+
+Hongxiang Sun
+
+1659
+
+Beijing University of Posts and
+
+China
+
+Qing Zhou
+
+1660
+
+Zhejiang University
+
+P. R. China
+
+Qifan Yang
+
+1667
+
+China University of Mining and Technology
+
+P.R.China
+
+Gong Dunwei
+
+1668
+
+Shenyang Pharmaceutical University
+
+China
+
+Xiang wu
+
+1669
+
+Hunan University
+
+China, PRC
+
+Xiaopei Li
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+Ctrl #
+
+Institution
+
+1671
+
+McGill University
+
+1672
+
+Virginia Western Community College
+
+1673
+
+Nazareth College
+
+1675
+
+Portland State University
+
+1676
+
+Seattle Pacific University
+
+Country
+
+Canada
+
+USA
+
+USA
+
+USA
+
+USA
+
+Nilima Nigam
+
+Gerald Benson
+
+Daniel Birmajer
+
+Gerardo Lafferriere
+
+Wai Lau
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+1677
+
+Dalian Fisheries University
+
+China
+
+Zhang Lifeng
+
+1678
+
+Institute of Mathematics, University of Guangxi
+
+P.R.China
+
+Xiaoceng Wu
+
+1679
+
+Institute of Mathematics, University of Guangxi
+
+P.R.China
+
+Xiaoceng Wu
+
+1680
+
+Jilin University
+
+P.R.China
+
+Zhao Shishun
+
+1681
+
+School of Mathematics&Information Science,
+
+P.R.China
+
+Ruxue Wu
+
+1682
+
+School of Mathematics&Information Science,
+
+P.R.China
+
+Ruxue Wu
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1683
+
+School of Mathematics&Information Science,
+
+P.R.China
+
+Zhongxing Wang
+
+1684
+
+School of Mathematics&Information Science,
+
+P.R.China
+
+Zhongxing Wang
+
+1685
+
+Seattle Pacific University
+
+USA
+
+Melani Plett
+
+1688
+
+Institute of Mathematics, University of Guangxi
+
+P.R.China
+
+Yuejin Lv
+
+1690
+
+Shanghai Jiaotong University
+
+P.R.China
+
+Baorui Song
+
+1692
+
+Shanghai Jiaotong University
+
+P.R.China
+
+Jianguo Huang
+
+1693
+
+Fujian Normal University
+
+the People\'s Republic
+
+shenggui zhang
+
+1694
+
+College of  Computer Science and Engineering
+
+1695
+
+College of  Computer Science and Engineering
+
+China
+
+China
+
+Liu Dong
+
+Yan Jun
+
+1696
+
+Fujian Normal University
+
+the People\'s Republic
+
+Qinhua Chen
+
+1697
+
+College of  Computer Science and Engineering
+
+China
+
+Yan Jun
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1698
+
+Fujian Normal University
+
+the People\'s Republic
+
+Huiling Lin
+
+1701
+
+College of  Computer Science and Engineering
+
+China
+
+Liu Rui
+
+1702
+
+Fujian Normal University
+
+the People\'s Republic Changfeng Ma
+
+1703
+
+Beijing Jiaotong University
+
+China
+
+Gang Yuan
+
+1704
+
+Beijing Jiaotong University
+
+PR China
+
+Wei Lu
+
+1705
+
+Beijing JiaoTong University
+
+1706
+
+Beijing Jiaotong University
+
+1707
+
+Chengdu university of technology
+
+1709
+
+Dalin Navy Academy
+
+1711
+
+Chengdu University of technology
+
+1712
+
+Dalia Navy Academy
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Gang Yuan
+
+Wei Lu
+
+Chen Guodong
+
+Feng Jie
+
+Huang Guangxin
+
+Yin Cheng yi
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1714
+
+Institute of Surveying and Mapping Information
+
+Country
+
+China
+
+Zhang Guoliang
+
+1718
+
+China Agricultural University
+
+P.R.China
+
+Xu Liu
+
+1722
+
+Longwood University
+
+1723
+
+Longwood University
+
+1726
+
+Rowan University
+
+1727
+
+North University of China , Fenxiao
+
+1728
+
+North University of China , Fenxiao
+
+1729
+
+Seattle Pacific University
+
+1730
+
+Benedictine College
+
+1733
+
+Bow ling Green State University
+
+1735
+
+Beijing High School Four
+
+USA
+
+USA
+
+USA
+
+China
+
+China
+
+USA
+
+USA
+
+U.S.A.
+
+China
+
+M. Leigh Lunsford
+
+M. Leigh Lunsford
+
+F. Olcay Ilicasu
+
+Xiaoren Fan
+
+Yongjian Ren
+
+Elaine Weltz
+
+Linda Herndon
+
+Juan Bes
+
+Fang Fang
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1736
+
+Chongqing University
+
+P.R.China
+
+Gong Qu
+
+1737
+
+Donghua University
+
+China
+
+Yong Ge
+
+1739
+
+Chongqing University
+
+P.R. China
+
+Li Zhiliang
+
+1741
+
+Science College,Southeast University
+
+China
+
+Dan He
+
+1742
+
+Shanghai Jiaotong University
+
+P.R.China
+
+Jianguo Huang
+
+1746
+
+Guangxi University of Finance and Economics
+
+China
+
+Yuanyuan Tan
+
+1748
+
+SouthWestern University of Finance and
+
+P.R.China
+
+Dai Dai
+
+1749
+
+Chongqing University
+
+P.R.China
+
+Wu Kaigui
+
+1750
+
+Chongqing University
+
+P.R.China
+
+Liu Qiongfang
+
+1755
+
+School of Mathematical Sciences,Peking University
+
+P.R.China
+
+1756
+
+School of Mathematical Sciences,Peking University
+
+P.R.China
+
+Xin Yi
+
+Xin Yi
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1765
+
+School of Mathematical Sciences,Peking University
+
+P.R.China
+
+Minghua Deng
+
+1770
+
+Zhejiang University of Science and Technology
+
+P. R. China
+
+Mingjun Wei
+
+1771
+
+Zhejiang University of Science and Technology
+
+P. R. China
+
+Yongzhen Zhu
+
+1772
+
+NorthEast Agricultural University
+
+China
+
+Ya Zhuo Zhang
+
+1773
+
+Harbin University of Science and Technology
+
+People\'s Republic of
+
+Dongmei Li
+
+1775
+
+Xiamen University
+
+P.R.China
+
+Guozhen Su
+
+1779
+
+NorthEast Agricultural University
+
+1780
+
+NorthEast Agricultural University
+
+China
+
+China
+
+Fang Ge Li
+
+Fang Ge Li
+
+1781
+
+Xiamen University
+
+P.R.China
+
+Guozhen Su
+
+1783
+
+Harbin University of Science and Technology
+
+People\'s Republic of
+
+Fengqiu Liu
+
+1785
+
+Harbin University of Science and Technology
+
+People\'s Republic of
+
+Zuobao Cao
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1789
+
+South China University of Technology
+
+China
+
+Shen-Quan Liu
+
+1792
+
+South China University of Technology
+
+The People\'s
+
+Ping Huang
+
+1793
+
+Shanghai Normal University
+
+P.R. China
+
+Haiyan Xu
+
+1794
+
+Shanghai Normal University
+
+P.R.China
+
+Yongbing Shi
+
+1795
+
+Shanghai Normal University
+
+P.R.China
+
+Qian Guo
+
+1796
+
+Shanghai Normal University
+
+P.R.China
+
+Jizhou Zhang
+
+1797
+
+NC School of Science and  Mathematics
+
+USA
+
+Daniel Teague
+
+1799
+
+Jinan University
+
+P.R.China
+
+Suohai Fan
+
+1803
+
+Jinan University
+
+P.R.China
+
+Shi Zhuang Luo
+
+1805
+
+Jinan University
+
+P.R.China
+
+ShiQi Ye
+
+1806
+
+Saint Louis University
+
+United States
+
+David Jackson
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1807
+
+Northwest Missouri State University
+
+United States
+
+Russell Euler
+
+1809
+
+Georgia Southern University
+
+1811
+
+Georgia Southern University
+
+1813
+
+Pacific Lutheran University
+
+1815
+
+Washington State University
+
+1820
+
+Eastern Oregon University
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Goran Lesaja
+
+Goran Lesaja
+
+Mei Zhu
+
+Mark Schumaker
+
+Anthony Tovar
+
+1821
+
+Shandong University  (Weihai)
+
+P.R.China
+
+Zhulou Cao
+
+1822
+
+Shandong University  (Weihai)
+
+P.R.China
+
+Zhulou Cao
+
+1825
+
+NorthEast Agricultural University
+
+China
+
+Qiufeng Wu
+
+1828
+
+Shandong University  (Weihai)
+
+P.R.China
+
+cao zhulou
+
+1829
+
+Nanchang University
+
+P.R.China
+
+Chen Yuju
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1832
+
+Tongji University
+
+P.R. of China
+
+Jin Liang
+
+1833
+
+Nanchang University
+
+P.R.China
+
+Chuanrong Liao
+
+1834
+
+Tongji University
+
+P.R. of China
+
+Xiongda Chen
+
+1835
+
+Tongji University
+
+P.R. of China
+
+Hualong Zhang
+
+1837
+
+Shanghai Finance University
+
+P.R. China
+
+Yumei Liang
+
+1840
+
+Peking University
+
+P. R. China
+
+Liang Lu
+
+1841
+
+Shanghai Finance University
+
+P.R. China
+
+Rui Li
+
+1842
+
+Peking University
+
+P. R. China
+
+Liang Lu
+
+1843
+
+Shanghai Finance University
+
+P.R. China
+
+Rui Li
+
+1845
+
+School of Mathematical Sciences, Peking University
+
+P. R. China
+
+Pingwen Zhang
+
+1847
+
+Guangxi Teacher Education University
+
+China
+
+XiongFa Mai
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1850
+
+Guangxi Teacher Education University
+
+1852
+
+Southwest University of China
+
+Country
+
+China
+
+China
+
+JianWei Chen
+
+Xuegao Zheng
+
+1853
+
+Guangxi Teacher Education University
+
+China
+
+ChengDong Wei
+
+1855
+
+University College Dublin
+
+1858
+
+Zhuhai College of Jinan University
+
+Ireland
+
+China
+
+Ted Cox
+
+Zhiwei Wang
+
+1860
+
+Zhuhai College of Jinan University
+
+China
+
+Guangqing Lv
+
+1861
+
+Concordia College-NY
+
+1869
+
+Beijing University of Chemical Technology
+
+1870
+
+Beijing University of Chemical Technology
+
+1871
+
+Beijing University of Chemical Technology
+
+1874
+
+Midlands Technical College
+
+U.S.
+
+China
+
+China
+
+China
+
+USA
+
+john loase
+
+Wenyan Yuan
+
+Kaisu Wu
+
+Xinhua Jiang
+
+John Long
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1875
+
+Western Washington University
+
+1876
+
+Western Washington University
+
+USA
+
+USA
+
+Saim Ural
+
+Saim Ural
+
+1884
+
+USMA
+
+United States
+
+John Willis
+
+1887
+
+University of South Florida
+
+United States
+
+Brian Curtin
+
+1888
+
+Colorado State University - Pueblo
+
+1891
+
+China Agricultural University
+
+1892
+
+School of Science
+
+1893
+
+School of Science
+
+1894
+
+Wuhan University
+
+USA
+
+China
+
+China
+
+China
+
+china
+
+James Louisell
+
+Xuewei Wang
+
+Chu Yangjie
+
+Chen Jianye
+
+Aijiao Deng
+
+1895
+
+Shandong University
+
+P.R.China
+
+Tongchao Lu
+
+1896
+
+University of San Diego
+
+United States
+
+Diane Hoffoss
+
+A
+
+A
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1898
+
+University of San Diego
+
+United States
+
+Daniel Sheehan
+
+1899
+
+University of San Diego
+
+United States
+
+Daniel Sheehan
+
+1900
+
+Southeast Missouri State University
+
+USA
+
+Robert Sheets
+
+1901
+
+Jilin University
+
+P.R.China
+
+Qingdao Huang
+
+1905
+
+Automation
+
+1906
+
+Automation
+
+1908
+
+Automation
+
+1909
+
+School of Automobile Engineering
+
+1910
+
+School of Statistics
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Zhu Huaping
+
+Huang Xiaowei
+
+Yang Wenxia
+
+Gao Fei
+
+Mao Shuhua
+
+1912
+
+Tsinghua University
+
+P.R.C.
+
+Xianqing Qiu
+
+1913
+
+Nonlinear Science Center
+
+P.R.China
+
+Chuanming Wei
+
+A
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1918
+
+Meredith College
+
+1921
+
+Lafayette College
+
+1922
+
+The George Washington University
+
+1924
+
+Shenyang Pharmaceutical University
+
+1926
+
+Dalia Navy Academy
+
+1927
+
+Dalian University of Technology
+
+1929
+
+Nantong University
+
+1933
+
+Mathematics Physics and Information Science
+
+1934
+
+Mathematics Physics and Information Science
+
+USA
+
+US
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+P. R. C
+
+P. R. C
+
+Cammey Cole
+
+Thomas Hill
+
+Lowell Abrams
+
+Xiang wu
+
+Yin Cheng yi
+
+Mingfeng He
+
+Yuehua Guo
+
+hu jinjie
+
+hu jinjie
+
+1935
+
+Jilin University
+
+P.R.China
+
+Jinying Liu
+
+1936
+
+Mathematics Physics and Information Science
+
+P. R. C
+
+sun jianxin
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1937
+
+Xuzhou Institute of Technology
+
+P.R.China
+
+Jiang Yingzi
+
+1938
+
+China University of Mining and Technology
+
+P.R.China
+
+Zhou Shengwu
+
+1940
+
+Nanjing University of Posts & Telecommunications
+
+P.R.China
+
+Shi Aiju
+
+1943
+
+Nanjing University of Posts&Telecommunications
+
+China
+
+Xu LiWei
+
+1948
+
+University of Helsinki
+
+Finland
+
+Petri Ola
+
+1949
+
+BEIJING WUZI UNIVERSITY
+
+1950
+
+BEIJING WUZI UNIVERSITY
+
+1951
+
+Shanghai Financial and Economic  University
+
+1955
+
+BEIJING WUZI UNIVERSITY
+
+CHINA
+
+CHINA
+
+China
+
+CHINA
+
+Cheng Xiaohong
+
+Cheng Xiaohong
+
+MR xu
+
+Tian Deliang
+
+1956
+
+Shanghai University
+
+P.R.China
+
+Wei Huang
+
+1957
+
+Wuhan University School of Computer
+
+China
+
+Xinqi Hu
+
+A
+
+B
+
+B
+
+B
+
+A
+
+B
+
+B
+
+A
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+1958
+
+Salem State College
+
+United States of
+
+Luis Poitevin
+
+1959
+
+Shanghai University
+
+P.R.China
+
+Wei Huang
+
+1962
+
+Inner Mongolia University
+
+P.R. China
+
+Zhuang Ma
+
+1963
+
+Richard Stockton College of NJ
+
+USA
+
+Wesley Cross
+
+1966
+
+Inner Mongolia University
+
+P.R. China
+
+Haitao Han
+
+1968
+
+Trinity University
+
+1969
+
+Drury University
+
+1970
+
+San Diego State University
+
+1973
+
+Drury University
+
+1975
+
+California Polytechnic State University
+
+1977
+
+Simpson College
+
+USA
+
+U.S.A.
+
+USA
+
+U.S.A.
+
+USA
+
+USA
+
+Brian Miceli
+
+Keith Coates
+
+Kristin Duncan
+
+Keith Coates
+
+Jonathan Shapiro
+
+Martha Waggoner
+
+B
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+1978
+
+Oregon Institute of Technology
+
+1983
+
+Simpson College
+
+1994
+
+Siena Heights University
+
+1996
+
+California State University at Monterey Bay
+
+Country
+
+U.S.A.
+
+USA
+
+USA
+
+USA
+
+1999
+
+School of Science,Xi\'an Communication Institute
+
+P.R.China
+
+2000
+
+School of Science,Xi\'an Communication Institute
+
+P.R.China
+
+Jim Fischer
+
+Werner Kolln
+
+Timothy Husband
+
+Hongde Hu
+
+Guo Li
+
+Guo Li
+
+2001
+
+School of Science,Xi\'an Communication Institute
+
+P.R.China
+
+Dongsheng Yang
+
+2002
+
+School of Information,Xi\'an Communication
+
+P.R.China
+
+Hong Wang
+
+2003
+
+School of Information,Xi\'an Communication
+
+P.R.China
+
+Xinshe Qi
+
+2004
+
+Mathematics Institution, National University of
+
+P.R. China
+
+Ziyang Mao
+
+2006
+
+Shanghai University
+
+China
+
+Dong Wu
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+A
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2007
+
+Mathematics Institution, National University of
+
+P.R. China
+
+Dan Wang
+
+2009
+
+National University of Defense Technology
+
+P.R. China
+
+Yi Wu
+
+2012
+
+PLA University of Science and Technology
+
+P.R.China
+
+Liu Shousheng
+
+2013
+
+Wuhan University
+
+2016
+
+GanNan Normal University
+
+2017
+
+North University of China
+
+2018
+
+North University of China
+
+china
+
+China
+
+PRC
+
+PRC
+
+Aijiao Deng
+
+Yan Shenhai
+
+Wang Peng
+
+Yang Ming
+
+2019
+
+University College Dublin
+
+Ireland
+
+Maria Meehan
+
+2020
+
+PLA University of Science and Technology
+
+P.R.China
+
+Shen Jinren
+
+2022
+
+Xuzhou Institute of Technology
+
+P.R.China
+
+Li Subei
+
+2025
+
+College of Charleston
+
+USA
+
+Amy Langville
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+2026
+
+Dalhousie University
+
+2027
+
+Jacksonville University
+
+2028
+
+Siena Heights University
+
+2029
+
+College of Charleston
+
+2038
+
+Eastern Mennonite University
+
+2039
+
+Eastern Mennonite University
+
+2040
+
+Colby College
+
+2041
+
+Shippensburg University
+
+Country
+
+Canada
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+2045
+
+PLA University of Science and Technology
+
+P.R.China
+
+Teng Jiajun
+
+2046
+
+Tennessee Tech University
+
+USA
+
+Andrew Hetzel
+
+2050
+
+McGill University
+
+Canada
+
+Stephen Drury
+
+2007
+
+MCM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+Georg Hofmann
+
+Paul Simony
+
+Jeff Kallenbach
+
+Amy Langville
+
+Leah Boyer
+
+Leah Boyer
+
+Jan Holly
+
+Paul Taylor
+
+A
+
+A
+
+B
+
+B
+
+A
+
+A
+
+B
+
+B
+
+A
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2059
+
+Ithaca College
+
+2061
+
+Drury University
+
+2062
+
+Luther College
+
+2063
+
+New  Mexico State University
+
+USA
+
+USA
+
+USA
+
+USA
+
+John MACELI
+
+Ken Egan Jr.
+
+Reginald Laursen
+
+Mary Ballyk
+
+2067
+
+Appalachian State University
+
+United States of
+
+Katherine Mawhinney
+
+2068
+
+Francis Marion University
+
+2069
+
+Francis Marion University
+
+2072
+
+Villa Julie College
+
+2073
+
+Villa Julie College
+
+2077
+
+University of California, Los Angeles
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+David Szurley
+
+David Anderson
+
+Eileen McGraw
+
+Susan Slattery
+
+Luminita Vese
+
+2079
+
+National University of Defense Technology
+
+P.R. China
+
+Mengda Wu
+
+A
+
+B
+
+B
+
+A
+
+A
+
+A
+
+B
+
+B
+
+A
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2081
+
+Physics Institution, National University of Defense
+
+P.R. China
+
+Xiaojun Duan
+
+2082
+
+Physics Institution, National University of Defense
+
+P.R. China
+
+Meihua Xie
+
+2085
+
+Harvey Mudd College
+
+USA
+
+Jon Jacobsen
+
+2091
+
+Power&Mechanical School,Wuhan.University  P.R.
+
+P.R.China
+
+Liuyi Zhong
+
+2095
+
+National University of Singapore
+
+Singapore
+
+Gongyun Zhao
+
+2096
+
+Wuhan university
+
+China
+
+shihua cheng
+
+2099
+
+Rensselaer Polytechnic Institute
+
+United States
+
+Peter Kramer
+
+2100
+
+Guangzhou University
+
+P.R.China
+
+Fu Ronglin
+
+2101
+
+Guangzhou University
+
+P.R.China
+
+Shang Yadong
+
+2102
+
+Guangzhou University
+
+P.R.China
+
+Wang Xiaofeng
+
+2103
+
+Päivölä College of Mathematics
+
+Finland
+
+Janne Puustelli
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2104
+
+College of Mechanical Engineering of Wuhan
+
+P.R.China
+
+liuyi zhong
+
+2107
+
+Wuhan University
+
+China
+
+Yuanming Hu
+
+2109
+
+Liaoning Province Shiyan High School
+
+P.R.China
+
+Chunzhi Zhang
+
+2111
+
+North University of China
+
+2115
+
+Helsingin Matematiikkalukio
+
+2116
+
+Helsingin Matematiikkalukio
+
+2117
+
+Shanghai University of Finance and Economics
+
+2120
+
+Daqing Petroleum Institute
+
+2121
+
+Clarkson University
+
+2122
+
+Daqing Petroleum Institute
+
+2124
+
+Daqing Petroleum Institute
+
+China
+
+Finland
+
+Finland
+
+China
+
+China
+
+USA
+
+China
+
+China
+
+Yang Xiaofeng
+
+Esa Lappi
+
+Esa Lappi
+
+Shuyuan Pan
+
+Yang Yunfeng
+
+Kathleen Fowler
+
+Kong Lingbin
+
+Kong Lingbin
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2126
+
+Clarkson University
+
+2127
+
+University of Pittsburgh
+
+2130
+
+Maggie Walker Governor\'s School
+
+2132
+
+National University of Ireland, Galway
+
+2134
+
+Towson University
+
+USA
+
+USA
+
+USA
+
+Ireland
+
+USA
+
+Kathleen Fowler
+
+Jonathan Rubin
+
+Harold Houghton
+
+Niall Madden
+
+Mike O\'Leary
+
+2136
+
+University College Cork
+
+Ireland
+
+Benjamin McKay
+
+2137
+
+University College Cork
+
+Ireland
+
+Liya Zhornitskaya
+
+2139
+
+Mount Marty College
+
+2141
+
+Mount Marty College
+
+2142
+
+Beloit College
+
+USA
+
+USA
+
+USA
+
+Stephanie Gruver
+
+Stephanie Gruver
+
+Paul Campbell
+
+2143
+
+Northern Illinois University
+
+U.S.A.
+
+Ying Kwong
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2147
+
+Grinnell College
+
+2148
+
+Grinnell College
+
+2150
+
+Rose-Hulman Institute of Technology
+
+2152
+
+Rose-Hulman Institute of Technology
+
+2153
+
+Asbury College
+
+2158
+
+Cornell University
+
+2159
+
+Cornell University
+
+2162
+
+Davidson College
+
+2163
+
+Davidson College
+
+2164
+
+Davidson College
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Karen Shuman
+
+Karen Shuman
+
+David Rader
+
+Cary Laxer
+
+David Coulliette
+
+Eric Friedman
+
+Eric Friedman
+
+Timothy Chartier
+
+Timothy Chartier
+
+Timothy Gfroerer
+
+2167
+
+Slippery Rock University
+
+U.S.A.
+
+Athula Herat
+
+B
+
+A
+
+A
+
+B
+
+A
+
+B
+
+A
+
+B
+
+B
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2171
+
+Colby College
+
+2173
+
+Colby College
+
+2176
+
+Rice University
+
+USA
+
+USA
+
+USA
+
+John Augustine
+
+John Augustine
+
+Mark Embree
+
+2177
+
+Columbia University
+
+United States
+
+David Keyes
+
+2179
+
+Pacific Lutheran University
+
+USA
+
+Bryan Dorner
+
+2180
+
+University of Saskatchewan
+
+Canada
+
+James BROOKE
+
+2183
+
+Youngstown State University
+
+2188
+
+Edgewood College
+
+USA
+
+USA
+
+Scott Martin
+
+Steven Post
+
+2190
+
+Institut Teknologi Bandung
+
+Indonesia
+
+Rieske Hadianti
+
+2192
+
+Nantong University
+
+2193
+
+University of South Carolina
+
+China
+
+USA
+
+Zhao Group
+
+Lincoln Lu
+
+B
+
+B
+
+A
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2197
+
+Western Carolina University
+
+2198
+
+Western Carolina University
+
+2199
+
+Western Carolina University
+
+2201
+
+Cal Poly Pomona
+
+2202
+
+California State Polytechnic University, Pomona
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Jeffrey Lawson
+
+Erin McNelis
+
+David Kinner
+
+Hubertus von Bremen
+
+Ioana Mihaila
+
+2204
+
+Lew is & Clark College
+
+U.S.A.
+
+Elizabeth Stanhope
+
+2207
+
+Päivölä College of Mathematics
+
+2208
+
+National University of Ireland, Galway
+
+2212
+
+Westminster College
+
+2215
+
+Rowan University
+
+2216
+
+Westminster College
+
+Finland
+
+Ireland
+
+USA
+
+USA
+
+USA
+
+Jukka Ilmonen
+
+Petri Piiroinen
+
+Samuel Lightner
+
+Eduardo Flores
+
+Barbara Faires
+
+B
+
+A
+
+B
+
+B
+
+B
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2221
+
+Wayne State College
+
+United States
+
+Timothy Hardy
+
+2222
+
+Wayne State College
+
+United States
+
+Timothy Hardy
+
+2223
+
+Malone College
+
+2224
+
+Saint Louis University
+
+2228
+
+College of the Holy Cross
+
+2229
+
+Californina State Polytechnic University Pomona
+
+2230
+
+Colgate University
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+David Hahn
+
+Sanjay Jayaram
+
+Gareth Roberts
+
+Nina Abramzon
+
+Warren Weckesser
+
+2231
+
+Mt. Mercy College
+
+U.S.A.
+
+K. Knopp
+
+2233
+
+Lawrence Technological University
+
+2234
+
+Emporia State University
+
+2236
+
+Rivier College
+
+USA
+
+USA
+
+USA
+
+Valentina Tobos
+
+Brian Hollenbeck
+
+William Bonnice
+
+A
+
+A
+
+A
+
+B
+
+A
+
+B
+
+B
+
+B
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2007
+
+MCM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+2237
+
+Albion College
+
+2239
+
+New  Mexico Institute of Mining and Technology
+
+2241
+
+Morehead State University
+
+USA
+
+USA
+
+USA
+
+Darren Mason
+
+John Starrett
+
+Michael Dobranski
+
+B
+
+A
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+

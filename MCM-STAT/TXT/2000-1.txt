@@ -1,0 +1,5737 @@
+2000 Mathematical/Interdisciplinary Contest in Modeling Press Release Revised  April 10, 2000
+
+COMAP  is p leased to announce the resu lts of the 16th
+annua l  Ma thema t ica l  Con tes t   in  Mode l ing   (MCM )  and
+the  2nd  annua l   In te rd isc ip l ina ry  Con tes t   in  Mode l ing
+(ICM). This year 496 teams representing 232
+ins t i tu t ions   from  n ine  coun tr ies  par t ic ipa ted   in   the
+con tes t .  The   fo l low ing   ins t i tu t ions  had   teams
+designated as this year’s Outstanding Winners:
+California Polytechnic State University, Duke
+University, Harvey Mudd College, Governor’s
+School, Lewis & Clark College, National University
+of Defense Technology, North Carolina School of
+Science and Mathematics(2), U.S. Military Academy,
+University of Colorado, Wake Forest, and
+Washington University.
+
+The  2000  MCM / ICM  began  a t  12 :01  a .m .  on  F r iday ,
+Feb rua ry  4  and  o f f ic ia l ly  ended  a t  5 :00  p .m .  on
+Monday ,  February  7 ,  2000 .  Dur ing   tha t   t ime ,   teams  o f
+up to three undergraduates were to research and
+subm i t  an  op t ima l  so lu t ion   for  one  o f   three  open-
+ended  mode l ing  p rob lems .
+
+Th is year ’s Prob lem A was ded icated to the memory of
+Dr .  Rober t  Macho l ,   former  ch ie f  sc ien t is t  o f   the
+Federa l  Av ia t ion  Agency .    Dr .  Macho l  posed   the
+prob lem  when   the  FAA  was  cons ider ing  add ing
+software to the a ir traff ic contro l system that wou ld
+a ler t  con tro l lers   to  po ten t ia l  prob lems ,  and   thus
+improve  sa fe ty  and  reduce  work load .     In  add i t ion   to
+so lv ing the prob lem, part ic ipants were asked to wr ite a
+summary that cou ld be presented to the FAA
+Administrator, Ms. Jane Garvey.
+
+Prob lem B th is year sought to mode l the ass ignment of
+rad io channe ls to a symmetr ic network of transm itter
+locat ions so as to avo id  interference. Many groups
+came   to   the  conc lus ion   tha t   the  pu re  ma thema t ica l
+so lu t ion  needed  some  p rac t ica l  app l ica t ions ,  and
+inc luded   those  as  we l l .
+
+Th is year ’s ICM prob lem offered  informat ion regard ing
+the  need   to  keep   the  e lephan t  popu la t ion   in  a
+na t iona l  pa rk   in  Sou th  A f r ica  down   to  11 ,000  wh i le
+
+avo id ing   the  op t ion  o f  hav ing   to  des troy  any  o f   the
+an ima ls .  A  con t racep t ive  da r t  has  been  deve loped
+that prevents concept ion for two years. Part ic ipants
+were tasked with investigating how to use the dart
+successfu l ly. S ix spec if ic quest ions were to be
+addressed and data was offered about em igrat ion
+pa t terns ,  gender  ra t ios ,  e lephan t  concep t ion  pa t terns ,
+and new ca lf surv iva l rates.
+
+Ma jor   fund ing   for   the  MCM / ICM   is  prov ided  by  a  gran t
+f rom   the  Na t iona l  Secu r i ty  Agency ,  Na t iona l  Sc ience
+Founda t ion ,  and  COMAP .  Add i t iona l  suppor t   is
+prov ided by The Inst itute for Operat ions Research and
+Indus tr ia l  and  App l ied  Ma thema t ics  ( INFORMS) ,   the
+Soc ie ty   fo r   Indus t r ia l  and  App l ied  Ma thema t ics
+(S IAM ) ,  and   the  Ma thema t ica l  Assoc ia t ion  o f  Ame r ica
+(MAA) .  COMAP 's  Ma thema t ica l  Con tes t   in  Mode l ing   is
+un ique  among  mode l ing  compe t i t ions   in   tha t   i t   is   the
+on ly  internat iona l contest  in wh ich students work  in
+teams   to   f ind  a  so lu t ion .  Cen ter ing   i ts  educa t iona l
+ph i losophy  on  ma thema t ica l  mode l ing ,  COMAP  uses
+ma thema t ica l   too ls   to  exp lore  rea l-wor ld  prob lems .   I t
+serves   the  educa t iona l  commun i ty  as  we l l  as   the  wor ld
+of work by preparing students to become better
+in formed—and  prepared—c i t izens .
+
+2000 MCM/ICM Statistics
+785 teams registered and 496 participated (63%)
+283 U.S. Teams (57%) from 163  inst itut ions
+213 Foreign Teams (43%) from  Australia, Canada,
+Finland, Hong Kong, Ireland, Lithuania, P.R. China,
+and South Africa
+156 Problem A entries (31%)
+271 Problem B entries (55%)
+69 ICM entries (14%)
+12 Outstanding Winners (3%) - 4 A, 5 B, 3 ICM
+77 Meritorious Winners (15%) - 21 A, 43 B, 12 ICM
+135 Honorable Mentions (27%) - 45 A, 72 B, 18 ICM
+272 Successful Participants (55%) - 84 A, 151 B, 37 ICM
+477 four-year institutions (96%)
+8 two-year institutions (2%)
+10 high schools (2%)
+
+Contest Directors
+Chris Arney, U.S. Military Academy, NY
+Frank R. Giordano, COMAP, Inc., MA
+John H. Grubbs, Tulane University, LA
+Associate Directors
+Bob Borrelli, Harvey Mudd College, CA
+Bill Fox, Francis Marion University, SC
+Bernard Fusaro, Florida State University, FL
+Michael Kelley , U.S. Military Academy, NY
+Gary W. Krahn, U.S. Military Academy, NY
+Michael Moody , Harvey Mudd College, CA
+Founding Director
+Bernard Fusaro, F lor ida State Un ivers ity, FL
+
+Executive Director
+Solomon A. Garfunkel, COMAP, Inc., MA
+Advisory Board
+Courtney Co leman, Harvey Mudd College, CA
+Marvin S. Keener, Oklahoma State University, OK
+Veena Mendiratta, Bell Labs, Lucent Technology, IL
+Keith Miller, National Security Agency, MD
+John S. Robertson, Georgia College & State Univ., GA
+Leon H. Seitelman, Pratt & Whitney, CT
+Maynard Thompson, Indiana University, IN
+Maria Vanisko, Carroll College, MT
+Contest Coordinator
+Clarice Callahan, COMAP, Inc., MA
+
+M ajor fund ing provided  by
+The National Security Agency and
+      
+The National Science Foundation
+To obtain additional MCM/ICM information and a complete listing of team designations visit www.comap.com
+Or you may call Clarice Callahan, MCM/ICM Contest Coordinator at (781) 862-7878 ext. 37 or email mcm@comap.com.
+
+Administered  by
+The Consortium for Mathematics
+and Its Applications
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+S ta te Advisor
+Problem De s igna t ion
+Outstanding  Winner
+David P. Kraines
+NC
+A
+Du rham
+MAA Prize Recipient
+Outstanding  Winner
+
+Crista Hamilton
+
+Richmond
+
+358
+
+VA
+
+A
+
+Wes t  Po in t
+
+NY
+
+Cpt. David Bailey
+
+Boulder
+
+CO
+
+Anne M. Dougherty
+
+A
+
+Outstanding  Winner
+SIAM Prize Recipient
+Outstanding  Winner
+INFORMS  Pr ize
+A Meritorious
+
+A
+
+IA
+
+Alexander F. Kleiner
+
+A Meritorious
+
+Chongqing
+
+Des  Mo ines
+
+Shanghai
+
+Claremont
+
+Easton
+
+Be i j ing
+
+Chen Yihua
+
+CA
+
+PA
+
+Yuanhong Lu
+
+Zachary Dodds
+
+Thomas Hill
+
+M inghua  Deng
+
+Terre  Haute
+
+IN
+
+Dr. Frank Young
+
+Xi'an, Shaanxi
+
+He Xiaoliang
+
+Indianola
+
+De land
+
+San Antonio
+
+IA
+
+FL
+
+TX
+
+M .  E .  Waggoner
+
+Tarynn  Witten
+
+Colorado Springs
+
+CO
+
+Jon Epperson
+
+In s t i tu t ion
+
+Duke University
+
+Governor's School
+
+U.S. Military Academy
+
+University of Colorado
+
+Chongqing University
+
+Drake University
+
+East China Univ. of Science &
+Technology
+Harvey Mudd College
+
+Lafayette College
+
+Peking University
+
+Rose-Hulman Inst. of Tech.
+
+Science School of Xi'an Jiaotong
+University
+Simpson College
+
+Stetson University
+
+Trinity University
+
+Univ. of Colorado at Colorado
+Springs
+University College Cork
+
+University of Alaska Fairbanks
+
+University of Cincinnati
+
+University of Saskatchewan
+
+University of Science &
+Technology of China
+Worcester Polytechnic Inst.
+
+Youngstown State University
+
+Youngstown State University
+
+Zhejiang University
+
+Zhejiang University
+
+Beijing Institute of Technology
+
+Beijing Union University
+
+Bellarmine  College
+
+Beloit College
+
+East China Univ. of Science &
+Technology
+Georgia Southern University
+
+Gettysburg College
+
+Graceland College
+
+Harbin Inst. of Technology
+
+Harbin Institute of Technology
+
+Harvey Mudd College
+
+Jacksonville University
+
+James Madison University
+
+Lipscomb University
+
+Mesa  State  Co l lege
+
+161
+
+499
+
+84
+
+97
+
+618
+
+272
+
+188
+
+527
+
+311
+
+248
+
+258
+
+288
+
+254
+
+316
+
+614
+
+414
+
+643
+
+125
+
+592
+
+600
+
+151
+
+103
+
+100
+
+147
+
+150
+
+400
+
+439
+
+220
+
+587
+
+273
+
+566
+
+15
+
+689
+
+56
+
+58
+
+185
+
+321
+
+41
+
+27
+
+324
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+A Meritorious
+
+Dr. Lisa O. Coulter
+
+A Meritorious
+
+Dr. Michael Quinlan
+
+A Meritorious
+
+AK
+
+OH
+
+Chris Hartman
+
+Charles Groetsch
+
+Dr. Raj Srinivasan
+
+Sun Liang
+
+MA
+
+Bogdan  Vernescu
+
+Dr. Steve Hanzely
+
+OH
+
+OH
+
+KY
+
+W I
+
+GA
+
+PA
+
+IA
+
+CA
+
+FL
+
+VA
+
+TN
+
+CO
+
+Dr. Thomas Smotter
+
+A Meritorious
+
+Qifan Yang
+
+Yong He
+
+Xiao Di Cui
+
+Zeng Qingli
+
+Bill Hardin
+
+Paul Campbell
+
+Nianci Shao
+
+Mr. Gary Huband
+
+John  Jaroma
+
+Ronald K. Smith
+
+Shang Shouting
+
+Zhang Chiping
+
+Michael  Moody
+
+Robert A. Hollister
+
+Caroline Smith
+
+Dr. Gary Hall 
+
+Edward Bonan-Hamada
+
+A Meritorious
+
+A Meritorious
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Cork
+
+Fairbanks
+
+Cincinnati
+
+Saskatoon, SK
+
+Hefei, Anhui
+
+Wo r c e s t e r
+
+Youngstown
+
+Youngstown
+
+Hangzhou,
+Zhe jiang
+Hangzhou,
+Zhe jiang
+Be i j ing
+
+Be i j ing
+
+Louisville
+
+Be lo it
+
+Shanghai
+
+Statesboro
+
+Gettysburg
+
+Lamoni
+
+Harbin,
+Heilongjiang
+Harbin,
+Heilongjiang
+Claremont
+
+Jacksonville
+
+Harrisonburg
+
+Nashville
+
+Grand Junction
+
+In s t i tu t ion
+
+Mesa  State  Co l lege
+
+Nankai University
+
+Nazareth College
+
+Northern State University
+
+Northwestern Polytechnical
+University
+Northwestern Polytechnical
+University
+Okanagan University College
+
+Salisbury State University
+
+Shanghai Jiao Tong University
+
+South China Univ. of Technology
+
+Southeast University
+
+St. Louis University
+
+State University of West Georgia
+
+Stetson University
+
+The College of Wooster
+
+Tianjin University
+
+Tsinghua University
+
+U.S. Military Academy
+
+Univ. of California - Berkeley
+
+Univ. of Central Oklahoma
+
+Univ. of Elec. Sci. & Tech.
+
+Univ. of Elec. Sci. & Tech.
+
+University College Dublin
+
+University College Galway
+
+University of New South Wales
+
+University of North Texas
+
+University of Ottawa
+
+Weber  State  University
+
+Wentworth Military Academy
+
+Western  Connecticut  State  Univ .
+
+Western  Washington  University
+
+Bloomsburg University
+
+Brandon University
+
+Brevard College
+
+Bucknell University
+
+California State Univ – Bakersfield
+
+California State University -
+Fullerton
+Capital University
+
+Carroll College
+
+Carroll College
+
+Carroll College
+
+Central Carolina Technical
+College
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+S ta te Advisor
+Problem De s igna t ion
+Edward Bonan-Hamada
+CO
+A
+Honorab le  Ment ion
+Grand Junction
+
+325
+
+670
+
+685
+
+159
+
+461
+
+307
+
+118
+
+80
+
+476
+
+226
+
+398
+
+256
+
+446
+
+255
+
+305
+
+327
+
+486
+
+500
+
+263
+
+635
+
+280
+
+282
+
+362
+
+268
+
+315
+
+153
+
+451
+
+405
+
+22
+
+92
+
+292
+
+18
+
+632
+
+130
+
+26
+
+370
+
+20
+
+167
+
+629
+
+630
+
+631
+
+59
+
+Tianjin
+
+Roches ter
+
+Aberdeen
+
+Xi'an, Shaanxi
+
+Xi'an, Shaanxi
+
+Kelowna
+
+Salisbury
+
+Shanghai
+
+Guangzhou,
+Guangdong
+Nan jing
+
+St. Louis
+
+Carrollton
+
+De land
+
+Woo s t e r
+
+Tianjin
+
+Be i j ing
+
+Wes t  Po in t
+
+Berke ley
+
+Edmond
+
+Chengdu
+
+Chengdu
+
+Dub l in
+
+Galway
+
+Sydney ,  NSW
+
+NY
+
+SD
+
+Zengqiang Chen
+
+Kelly M. Fuller
+
+Dr. A. S. Elkhader
+
+Wang  M ingyu
+
+Xu  We i
+
+BC
+
+Dr .  Heinz  Bauschke
+
+M D
+
+Steven M. Hetzler
+
+Lei Zhishu
+
+Lejun Xie
+
+Jun Huang
+
+MO
+
+David A. Jackson
+
+GA
+
+Scott Gordon
+
+FL
+
+Dr. Lisa O. Coulter
+
+OH
+
+Pame la  P ierce
+
+NY
+
+CA
+
+OK
+
+Zeyi Liu
+
+Ye Jun
+
+Cpt. Diane Nelson
+
+Rainer K. Sachs
+
+Dr. Cooper
+
+Xu Quanzhi
+
+Zhong Erjie
+
+Dr. Fergus Gaines
+
+Ma r t in  Mee re
+
+Dr. Bruce Henry
+
+Den ton
+
+TX
+
+John Quintanilla
+
+Ottawa, Ontario
+
+Luc  Demers
+
+Ogden
+
+Lexington
+
+Danbury
+
+Be l l ingham
+
+Bloomsburg
+
+UT
+
+Richard Miller
+
+MO
+
+Jacque Maxwell
+
+CT
+
+C Edward Sandifer
+
+W A
+
+Igor Averbakh
+
+PA
+
+Kevin Ferland
+
+Brandon ,  Manitoba
+
+Doug Pickering
+
+Brevard
+
+Lewisburg
+
+Bakersfield
+
+Fullerton
+
+Columbus
+
+He lena
+
+He lena
+
+He lena
+
+Sumter
+
+NC
+
+PA
+
+CA
+
+CA
+
+Theresa A. Bright
+
+Sally Koutsoliotas
+
+Joseph R. Fiedler
+
+Mario Martelli
+
+OH
+
+Dr. Ignatios Vakalis
+
+MT
+
+MT
+
+MT
+
+SC
+
+Jack Oberweiser
+
+Mary  Keeffe
+
+Prof. Phil Rose
+
+Michael L. Salais
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+In s t i tu t ion
+
+Chatham College 
+
+Colby College
+
+College of Sciences, Jiamusi
+University
+Eastern Oregon State College
+
+Eastern Oregon State College
+
+Georgetown University
+
+Georgia Southern University
+
+Gettysburg College
+
+Goshen College
+
+Graceland College
+
+Grand View College
+
+Greenville College
+
+Hastings College
+
+Hastings College
+
+Hefei University of Technology
+
+Hillsdale College
+
+Humboldt State Univ.
+
+Ji Nan University
+
+Johnson State College
+
+Johnson State College
+
+Kapi'olani Community
+
+Lawrence Technological Univ.
+
+Lipscomb University
+
+Maca lester  Co l lege
+
+Maca lester  Co l lege
+
+Marietta  College
+
+Memorial Univ. of Newfoundland
+
+Missouri Southern State College
+
+Mt. St. Mary's College
+
+New Mexico Institute of Mining &
+Technology
+New Mexico State University
+
+Northwest Missouri State Univ.
+
+Northwestern State University of
+LA
+Paivola College
+
+Regis University
+
+Rensselaer Polytechnic Institute
+
+Rhode Island College
+
+Ripon College
+
+Rowan University
+
+Sacred Heart University
+
+Science School of Xi'an Jiaotong
+University
+Sichuan University
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+S ta te Advisor
+Problem De s igna t ion
+Larry Viehland
+PA
+A
+Successful Participant
+Pittsburgh
+
+6
+
+539
+
+143
+
+412
+
+413
+
+297
+
+568
+
+29
+
+625
+
+688
+
+410
+
+526
+
+457
+
+458
+
+285
+
+164
+
+491
+
+578
+
+30
+
+31
+
+136
+
+526
+
+28
+
+584
+
+588
+
+481
+
+523
+
+124
+
+83
+
+334
+
+478
+
+303
+
+550
+
+431
+
+42
+
+417
+
+65
+
+528
+
+62
+
+81
+
+259
+
+590
+
+Wa terv i l le
+
+ME
+
+Jan Holly
+
+Jiamusi,
+Heilongjiang
+LaGrande
+
+LaGrande
+
+Wash ing ton
+
+Statesboro
+
+Gettysburg
+
+Goshen
+
+Lamoni
+
+Des  Mo ines
+
+Greenville
+
+Hastings
+
+Hastings
+
+Hefei, Anhui
+
+Hillsdale
+
+Arcata
+
+Guang Zhou,
+Guang Dong
+Johnson
+
+Johnson
+
+Honolulu
+
+Southfield
+
+Nashville
+
+St. Paul
+
+St. Paul
+
+Mar ie t ta
+
+Gu Li Zhi
+
+David Allen
+
+John Thurber
+
+Andrew Vogt
+
+Dr. Goran Lesa ja
+
+James P. Fink
+
+David Housman
+
+Steve K. Murdock
+
+Timothy L. Hardy
+
+Galen R. Peters
+
+David B. Cooke
+
+David B. Cooke
+
+Huang Youdu 
+
+John P. Boardman
+
+Roland  Lamberson
+
+Ye Shi Qi
+
+Glenn Sproul
+
+Glenn Sproul
+
+Susan  Moore
+
+Howard Whitston
+
+Dr. Mark Miller
+
+OR
+
+OR
+
+DC
+
+GA
+
+PA
+
+IN
+
+IA
+
+IA
+
+IL
+
+NE
+
+NE
+
+M I
+
+CA
+
+VT
+
+VT
+
+HI
+
+M I
+
+TN
+
+M N
+
+Daniel A. Schwalbe
+
+M N
+
+Dan ie l  Kap lan
+
+OH
+
+Tom  LaFramboise
+
+St. John's, NFLD
+
+Dr. Andy Foster
+
+Joplin
+
+MO
+
+Dr. Patrick Cassens
+
+Emmitsburg
+
+M D
+
+Bill O'Toole
+
+Socorro
+
+Las Cruces
+
+Maryville
+
+NM
+
+W i l l iam  D .  Stone
+
+NM
+
+Marcus S. Cohen
+
+MO
+
+Russell Euler
+
+Na tch i toches
+
+LA
+
+Richard  DeVault
+
+Tarttila
+
+Denver
+
+Troy
+
+Providence
+
+Ripon
+
+Glassboro
+
+Fairfield
+
+Esa Lappi
+
+Linda Duchrow
+
+Bruce  Piper
+
+David L. Abrahamson
+
+David Scott
+
+Paul J. Laumakis
+
+Antonio A. Magliaro
+
+CO
+
+NY
+
+RI
+
+W I
+
+N J
+
+CT
+
+Xi'an, Shaanxi
+
+Chengdu, Sichuan
+
+He Xiaoliang
+
+Shuchao Zou
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+In s t i tu t ion
+
+Sichuan University
+
+Simon's Rock College
+
+Simpson College
+
+Simpson College
+
+Smith College
+
+Sonoma State University
+
+South China University of
+Technology
+St. Bonaventure University
+
+Stephen F. Austin State University
+
+Univ. of Massachusetts—Lowell
+
+Univ. of North Carolina
+
+Univ. of Northern Iowa
+
+Univ. of Western Ontario
+
+University College Cork
+
+University College, Cork
+
+University of Bridgeport
+
+University of N.C. at Wilmington
+
+University of Nevada
+
+University of New South Wales
+
+University of Ottawa
+
+University of South Carolina -
+Aiken
+University of Stellenbosch
+
+University of Texas at Dallas
+
+Vilnius University
+
+Wartburg  College
+
+Westchester  Comm .  Co l lege
+
+Western  Connecticut  State  Univ .
+
+Xavier University
+
+Xavier University
+
+Xi'an University of Technology
+
+York University
+
+California Polytechnic State Univ.
+
+Lewis & Clark College
+
+National  U .  of  Defence
+Technology
+Wake Forest University
+
+Washington University
+
+Anhui University
+
+Asbury College
+
+Beijing University of Post &
+Te lecomm
+Beijing University of Post &
+Te lecomm
+Calvin College
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+Problem De s igna t ion
+S ta te Advisor
+Yang Zhihuo
+A
+Successful Participant
+Chengdu, Sichuan
+
+385
+
+427
+
+287
+
+289
+
+140
+
+678
+
+198
+
+178
+
+230
+
+111
+
+416
+
+479
+
+371
+
+265
+
+266
+
+681
+
+557
+
+172
+
+314
+
+452
+
+276
+
+208
+
+45
+
+575
+
+608
+
+683
+
+93
+
+128
+
+129
+
+559
+
+497
+
+24
+
+620
+
+104
+
+68
+
+441
+
+206
+
+654
+
+341
+
+340
+
+560
+
+Great Barrington MA
+
+Allen B. Altman
+
+Indianola
+
+Indianola
+
+IA
+
+IA
+
+M .  E .  Waggoner
+
+Randy Bower
+
+Northampton
+
+MA
+
+Ruth  Haas
+
+Rohnert Park
+
+CA
+
+Sunil K. Tiwari
+
+Guangzhou,
+Guangdong
+St. Bonaventure
+
+Nacogdoches
+
+Chunxiong He
+
+Albert G. White
+
+Colin Starr
+
+NY
+
+TX
+
+Lowell
+
+Chapel Hill
+
+Cedar Falls
+
+MA
+
+Lou Rossi
+
+NC
+
+Jon W. Tolle
+
+IA
+
+Gregory M. Dotseth
+
+London, Ontario
+
+Peter H. Poole
+
+Cork
+
+Cork
+
+Bridgeport
+
+W i lm ington
+
+Reno
+
+Sydney ,  NSW
+
+Ottawa, Ontario
+
+CT
+
+NC
+
+NV
+
+Dr. James J. Grannell
+
+Dr. Patrick Fitzpatrick
+
+Dr. Natalia Romalis
+
+Russell L. Herman
+
+Mark  M .  Meerschaer t
+
+Dr. Bruce Henry
+
+Luc  Demers
+
+Aiken
+
+SC
+
+Laurene  Fausett
+
+Matieland ,  Cape
+
+Dr. Jan H van Vuuren
+
+Richardson
+
+Vilnius, 2006
+
+Waver ly
+
+Valhalla
+
+Danbury
+
+Cincinnati
+
+Cincinnati
+
+Xi'an, China
+
+TX
+
+Tiberiu Constantinescu
+
+IA
+
+NY
+
+CT
+
+OH
+
+OH
+
+Tadas  Meskauskas
+
+Mar iah  B irgen
+
+Sh e e la  Wh e lan
+
+C Edward Sandifer
+
+Richard J. Pulskamp
+
+Richard J. Pulskamp
+
+Tang Ping
+
+Toronto, Ontario
+
+Juris Steprans
+
+San Luis Obispo
+
+CA
+
+Thomas O’Neil
+
+Portland
+
+OR
+
+Robert W. Owens
+
+Chang Sha, HuNan
+
+W u  M e n gD a
+
+W ins ton -Sa lem
+
+NC
+
+Edward Allen
+
+St. Louis
+
+MO
+
+Hiro Mukai
+
+Hefei, Anhui
+
+W i lmo r e
+
+Bei jing ,  Bei jing
+
+Bei jing ,  Bei jing
+
+Chen  Junsheng
+
+KY
+
+Kenneth P. Rietz
+
+He Zuguo
+
+Sun Hongxiang
+
+Grand Rapids
+
+M I
+
+Dorothea Pronk
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Outstanding  Winner
+MAA Prize Recipient
+Outstanding  Winner
+
+Outstanding  Winner
+
+Outstanding  Winner
+SIAM Prize Recipient
+Outstanding  Winner
+INFORMS  Pr ize
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+In s t i tu t ion
+
+China University of Mining &
+Technology
+East China Univ. of Science &
+Technology
+East China Univ. of Science &
+Technology
+Fudan University
+
+Gettysburg College
+
+Grinnell College
+
+Harbin Institute of Technology
+
+Harvey Mudd College
+
+Institution of Information Science
+& Engineering
+Luther College
+
+M IT
+
+Mt. Mercy College
+
+National  U .  of  Defence
+Technology
+Northwestern Polytechnical
+University
+Northwestern Polytechnical
+University
+Pacific Lutheran University
+
+Paivola College
+
+Peking University
+
+Rose-Hulman Institute of
+Technology
+Shanghai Foreign Languages
+School
+Shanghai Jiao Tong University
+
+South China Univ. of Technology
+
+Southeast University
+
+Southeast University
+
+The First Middle School of Jiading
+
+Trinity University
+
+Tsinghua University
+
+U.S. Military Academy
+
+Univ. of Michigan—Dearborn
+
+University of Alaska Fairbanks
+
+University of New South Wales
+
+University of Richmond
+
+University of Toronto
+
+University of Toronto
+
+Wuhan Univ. of Hydralic &
+Engineering
+Yale University
+
+Zhejiang University
+
+Zhejiang University
+
+Angelo State University
+
+Anhui University
+
+Anhui University
+
+Beijing Union University
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+Problem De s igna t ion
+S ta te Advisor
+Wu Zongxiang
+B
+Meritorious
+Xuzhou, Jiangsu
+
+109
+
+275
+
+274
+
+628
+
+14
+
+300
+
+57
+
+186
+
+336
+
+595
+
+435
+
+445
+
+107
+
+462
+
+308
+
+91
+
+432
+
+310
+
+250
+
+613
+
+475
+
+190
+
+395
+
+396
+
+495
+
+317
+
+488
+
+501
+
+641
+
+644
+
+113
+
+189
+
+418
+
+419
+
+70
+
+447
+
+148
+
+149
+
+368
+
+330
+
+203
+
+438
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Gettysburg
+
+Grinnell
+
+Harbin,
+Heilongjiang
+Claremont
+
+Jinsong Shi
+
+Xiwen Lu
+
+Zhijie Cai
+
+James P. Fink
+
+Marc  Chamber land
+
+Wang  Xue feng
+
+PA
+
+IA
+
+CA
+
+Michael  Moody
+
+Shenyang, Liaoning
+
+Wen-dong  X iao
+
+D e co rah
+
+Cambridge
+
+IA
+
+Reginald D. Laursen
+
+MA
+
+M ichae l  Brenner
+
+Cedar Rapids
+
+IA
+
+Kent R. Knopp
+
+Chang Sha, HuNan
+
+Cheng LiZhi
+
+Xi'an, Shaanxi
+
+Xi'an, Shaanxi
+
+Liu Xiaodong
+
+Peng Guohua
+
+Tacoma
+
+Tarttila
+
+Be i j ing
+
+W A
+
+Rachid  Benkhalti
+
+Esa Lappi
+
+Lei Gongyan
+
+Terre  Haute
+
+IN
+
+David Rader
+
+Shanghai
+
+Shanghai
+
+Guangzhou,
+Guangdong
+Nan jing
+
+Nan jing
+
+W an  B a i  H e
+
+Zhou Gang
+
+Fu Hongzhuo
+
+Jun Huang
+
+Jun Huang
+
+Shanghai, China
+
+Yunping Fang
+
+San Antonio
+
+TX
+
+Allen Holder
+
+Be i j ing
+
+Wes t  Po in t
+
+Dea rbo rn
+
+Fairbanks
+
+Hu Zhi-Ming
+
+Dr. Greg Parnell
+
+Dav id  James
+
+Chris Hartman
+
+NY
+
+M I
+
+AK
+
+Sydney, Australia
+
+Dr. James Franklin
+
+Richmond
+
+VA
+
+Kathy  W .  Hoke
+
+Toronto, Ontario
+
+Toronto, Ontario
+
+Wuban ,  Hube i
+
+Nicholas A. Derzko
+
+Nicholas A. Derzko
+
+Peng Zuzeng
+
+New Haven
+
+Hangzhou,
+Zhe jiang
+Hangzhou,
+Zhe jiang
+San Angelo
+
+Hefei, Anhui
+
+Hefei, Anhui
+
+Be i j ing
+
+CT
+
+Steven Orszag
+
+Qifan Yang
+
+Yong He
+
+TX
+
+John C. (Trey) Smith
+
+W ang  D ap eng
+
+Wang  Ha ix ian
+
+Xing Chunfeng
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Meritorious
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+In s t i tu t ion
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+Problem De s igna t ion
+S ta te Advisor
+Liu Damin
+B
+Honorab le  Ment ion
+Be i j ing
+
+64
+
+Beijing Univ. of Chemical
+Technology
+Beijing Univ. of Chemical
+Technology
+California Polytechnic State Univ.
+
+Central-South University of
+Technology
+China University of Mining &
+Technology
+China University of Mining &
+Technology
+Chongqing University
+
+Chongqing University
+
+Clarion University
+
+Colby College
+
+Colgate University
+
+Colorado College
+
+Colorado College
+
+Eastern Michigan University
+
+Gettysburg College
+
+Governor's School
+
+Governor's School
+
+Grinnell College
+
+Harbin Engineering Univ.
+
+Harbin Engineering Univ.
+
+Harvey Mudd College
+
+Hillsdale College
+
+Hiram College
+
+Hong Kong Baptist University
+
+Institution of Information Science
+& Engineering
+Institution of Information Science
+& Engineering
+Iowa State University
+
+Ithaca  College
+
+Lawrence Technological Univ.
+
+Luther College
+
+Memorial Univ. of Newfoundland
+
+Messiah  College
+
+Michigan State University
+
+Nanjing University
+
+Nanjing University
+
+Nankai University
+
+Nankai University
+
+National  U .  of  Defence
+Technology
+Northwest University
+
+Ohio University
+
+Peking University
+
+Saint Mary’s College
+
+63
+
+23
+
+490
+
+108
+
+110
+
+96
+
+98
+
+251
+
+538
+
+295
+
+379
+
+377
+
+32
+
+16
+
+160
+
+162
+
+299
+
+570
+
+573
+
+187
+
+165
+
+672
+
+424
+
+337
+
+338
+
+200
+
+116
+
+682
+
+596
+
+522
+
+597
+
+429
+
+509
+
+508
+
+669
+
+671
+
+106
+
+463
+
+545
+
+309
+
+34
+
+Be i j ing
+
+Zhao Baoyuan
+
+San Luis Obispo
+
+CA
+
+Thomas O’Neil
+
+Changsha City,
+Hunan
+Xuzhou, Jiangsu
+
+Xuzhou, Jiangsu
+
+Chongqing
+
+Chongqing
+
+Clarion
+
+Wa terv i l le
+
+Hamilton
+
+Colorado Springs
+
+Colorado Springs
+
+Ypsilanti
+
+Gettysburg
+
+Richmond
+
+Richmond
+
+Grinnell
+
+Harbin,
+Heilongjiang
+Harbin,
+Heilongjiang
+Claremont
+
+Hillsdale
+
+H iram
+
+Zhang Hong Yan
+
+Xue Xiuqian
+
+Zhu Kaiyong
+
+Gong Qu
+
+Zhao Pingyong
+
+John  W .  Heard
+
+Jan Holly
+
+Prof. Thomas W. Tucker
+
+Jane  McDouga l l
+
+Jennifer Courter
+
+Christopher E. Hee
+
+Sharon  Stephenson
+
+Crista Hamilton
+
+John  Barnes
+
+Marc  Chamber land
+
+Luo Yuesheng
+
+Zhang Xiaowei
+
+Zachary Dodds
+
+John P. Boardman
+
+PA
+
+ME
+
+NY
+
+CO
+
+CO
+
+M I
+
+PA
+
+VA
+
+VA
+
+IA
+
+CA
+
+M I
+
+OH
+
+Angela Spalsbury
+
+Kowloon Tong,
+Kowloon
+Shenyang, Liaoning
+
+Chong Sze Tong
+
+Jian-jiang Cui
+
+Shenyang, Liaoning
+
+Pei-feng Hao
+
+Ames
+
+I thaca
+
+Southfield
+
+D e co rah
+
+St. John's, NFLD
+
+Grantham
+
+E. Lansing
+
+IA
+
+NY
+
+M I
+
+IA
+
+PA
+
+M I
+
+Stephen  J .  Willson
+
+John C. Maceli
+
+Scott Schneider
+
+Reginald D. Laursen
+
+Dr. Andy Foster
+
+James Makowski
+
+Charles R. MacCluer
+
+Nanjing, Jiang Su
+
+Yao Tian-Xing
+
+Nanjing, Jiang Su
+
+Tianjin
+
+Tianjin
+
+Yao Tianxing
+
+Jishou Ruan
+
+Qiushuang Chen
+
+Chang Sha, HuNan
+
+Cheng LiZhi
+
+Xi'an, Shaanxi
+
+Ru ichan  He
+
+Athens
+
+Be i j ing
+
+OH
+
+David N. Keck
+
+Lei Gongyan
+
+No t re  Dame
+
+IN
+
+Peter D. Smith
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+In s t i tu t ion
+
+Salisbury State University
+
+Shanghai Jiao Tong University
+
+The First Middle School of Jiading
+
+Tsinghua University
+
+U.S. Military Academy
+
+Univ. of Colorado at Colorado
+Springs
+Univ. of Elec. Sci. & Tech.
+
+University College, Cork
+
+University College Dublin
+
+University of N.C. at Wilmington
+
+University of New South Wales
+
+University of Puget Sound
+
+University of Science &
+Technology of China
+University of Science &
+Technology of China
+University of Utah
+
+Universtiy College Galway
+
+Western Carolina University
+
+Worcester  Polytechnic  Institute
+
+Wuhan Univ of Hydraulic &
+Engin.
+Wuhan Univ of Hydraulic &
+Engin.
+Wuhan Univ of Hydraulic &
+Engin.
+Xidian University
+
+Xidian University
+
+York University
+
+Zhong Shan University
+
+ZhongShan University
+
+Abilene Christian University
+
+Agnes Scott College
+
+Austin Community College/River
+
+Beijing Institute of Technology
+
+Beijing Union University
+
+Beijing University of Post &
+Te lecomm
+Bened ict ine  Co l lege
+
+Bowdoin College
+
+Brandon University
+
+California Lutheran University
+
+California State Univ – Bakersfield
+
+California State Univ. —
+Northridge
+Cardinal Stritch University
+
+Central South Univ. of Technology
+
+Central-South University of
+Technology
+Charleston Southern University
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+S ta te Advisor
+Problem De s igna t ion
+Michael  Bardzell
+M D
+B
+Honorab le  Ment ion
+Salisbury
+
+79
+
+474
+
+494
+
+487
+
+498
+
+615
+
+279
+
+267
+
+364
+
+556
+
+46
+
+182
+
+602
+
+603
+
+645
+
+224
+
+36
+
+180
+
+71
+
+69
+
+72
+
+214
+
+88
+
+496
+
+354
+
+674
+
+389
+
+7
+
+154
+
+399
+
+437
+
+339
+
+468
+
+158
+
+633
+
+243
+
+369
+
+54
+
+492
+
+535
+
+489
+
+357
+
+Shanghai
+
+Huang Jianguo
+
+Shanghai, China
+
+Gan  Chen
+
+Be i j ing
+
+Wes t  Po in t
+
+Colorado Springs
+
+NY
+
+CO
+
+Chengdu
+
+Cork
+
+Hu Zhi-Ming
+
+Prof. James S. Rolf
+
+Jon Epperson
+
+Xu Quanzhi
+
+Prof. Martin Stynes
+
+Belfield, Dublin
+
+Dr. Peter Duffy
+
+W i lm ington
+
+NC
+
+Russell L. Herman
+
+Sydney, Australia
+
+Dr. James Franklin
+
+Tacoma
+
+Hefei, Anhui
+
+Hefei, Anhui
+
+W A
+
+Robert A. Beezer
+
+Hong Quan
+
+We i  L iu
+
+Salt Lake City
+
+UT
+
+Don H. Tucker
+
+Galway
+
+Cullowhee
+
+Wo r c e s t e r
+
+Wuhan ,  Hube i
+
+Wuhan ,  Hube i
+
+Wuhan ,  Hube i
+
+Xi'an
+
+Xi'an
+
+Toronto, Ontario
+
+Guangzhou, Guang
+Dong
+Guangzhou,
+Guangdong
+Abilene
+
+De ca tu r
+
+Austin
+
+Be i j ing
+
+Be i j ing
+
+Dr. Michael P. Tuite
+
+NC
+
+Jeff  Graham
+
+MA
+
+Richard Jordan
+
+Cheng Guixing
+
+Huang Chongchao
+
+Li Yuhong
+
+L iu  Hong-We i
+
+Zhang Zhuo-Kui
+
+Nea l  Madras
+
+Chen Ze Peng
+
+Li Chao Rui
+
+David Hendricks
+
+Robert A. Leslie
+
+Allison Sutton
+
+Xiao Di Cui
+
+Ren KaiLong
+
+TX
+
+GA
+
+TX
+
+Bei jing ,  Bei jing
+
+Sun Hongxiang
+
+Atchison
+
+Brunswick
+
+KS
+
+Jo Ann Fellin, OSB
+
+ME
+
+Adam B. Levy
+
+Brandon ,  Manitoba
+
+Doug Pickering
+
+Thousand Oaks
+
+Bakersfield
+
+Northridge
+
+Milwaukee
+
+CA
+
+CA
+
+CA
+
+W I
+
+Cindy Wyels
+
+Joseph R. Fiedler
+
+Gholam-Ali Zakeri
+
+Sr. Barbara Reynolds
+
+Changsha, Hunan
+
+Zheng Zhoushun
+
+Changsha City,
+Hunan
+Charleston
+
+Zhang Hong Yan
+
+SC
+
+Dr. Stan Perrine
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Honorab le  Ment ion
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+In s t i tu t ion
+
+Charleston Southern University
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+S ta te Advisor
+Problem De s igna t ion
+Dr. Stan Perrine
+SC
+B
+Successful Participant
+Charleston
+
+382
+
+Chatham College 
+
+Chongqing University
+
+Clarion University
+
+Colgate University
+
+College of Sciences, Jiamusi
+University
+College of Sciences, Jiamusi
+University
+College of Sciences, Jiamusi
+University
+Department  of  System  Sc ience
+
+Drake University
+
+Florida A&M University
+
+Florida Inst. of Technology
+
+Fudan University
+
+Fudan University
+
+Fudan University
+
+Georgetown University
+
+Georgia Southern University
+
+Goshen College
+
+Goucher College
+
+Graceland College
+
+Greenville College
+
+Grinnell College
+
+Grinnell College
+
+Guangdong Commercial College
+
+Harbin Engineering Univ.
+
+Harbin Inst. of Technology
+
+Haverford College
+
+Hefei University of Technology
+
+Hefei University of Technology
+
+Hefei University of Technology
+
+Hiram College
+
+Hong Kong Baptist University
+
+Huazhong University
+
+Huazhong University
+
+Huntingdon College
+
+Indiana University
+
+Indiana University
+
+Institute of Operations Research
+
+Ithaca  College
+
+Jacksonville University
+
+James Madison University
+
+JiLin University
+
+4
+
+99
+
+253
+
+296
+
+141
+
+142
+
+144
+
+105
+
+619
+
+638
+
+650
+
+329
+
+554
+
+555
+
+298
+
+567
+
+624
+
+227
+
+687
+
+525
+
+301
+
+302
+
+121
+
+571
+
+55
+
+448
+
+286
+
+283
+
+284
+
+673
+
+425
+
+518
+
+519
+
+8
+
+552
+
+553
+
+391
+
+114
+
+320
+
+40
+
+472
+
+Pittsburgh
+
+Chongqing
+
+Clarion
+
+Hamilton
+
+Jiamusi,
+Heilongjiang
+Jiamusi,
+Heilongjiang
+Jiamusi,
+Heilongjiang
+Chang Sha, HuNan
+
+Des  Mo ines
+
+Ta l lahassee
+
+Me lbourne
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Wash ing ton
+
+Statesboro
+
+Goshen
+
+Ba lt imore
+
+Lamoni
+
+Greenville
+
+Grinnell
+
+Grinnell
+
+Guangzhou,
+Guangdong
+Harbin,
+Heilongjiang
+Harbin,
+Heilongjiang
+Haverford
+
+Hefei, Anhui
+
+Hefei, Anhui
+
+Hefei, Anhui
+
+PA
+
+Dr. Eric Rawdon
+
+Li Chuandong
+
+Jon  Bea l
+
+Prof. Thomas W. Tucker
+
+Ba i  Feng  Shan
+
+Ba i  Feng  Shan
+
+Gu Li Zhi
+
+Duan XiaoLong
+
+Alexander F. Kleiner
+
+Bruno Guerrieri
+
+Gary W. Howell
+
+Qinfeng Xu
+
+XueQing Gong
+
+XueQing Gong
+
+Andrew Vogt
+
+Dr. Eric Funasaki
+
+David Housman
+
+PA
+
+NY
+
+IA
+
+FL
+
+FL
+
+DC
+
+GA
+
+IN
+
+M D
+
+Robert E. Lewand
+
+IA
+
+IL
+
+IA
+
+IA
+
+Steve K. Murdock
+
+Galen R. Peters
+
+Mark Montgomery
+
+Mark Montgomery
+
+Chen Guanghui
+
+Shen Jihong
+
+Shang Shouting
+
+PA
+
+Robert  Mann ing
+
+Bao   J ie
+
+Du Xueqiao 
+
+Zhou Yongwu 
+
+H iram
+
+OH
+
+Angela Spalsbury
+
+Kowloon Tong,
+Kowloon
+Wuhan ,  Hube i
+
+Wuhan ,  Hube i
+
+Dr .  Wa i  Chee  Sh iu
+
+Wang Yizhi
+
+Wang Yizhi
+
+Montgomery
+
+AL
+
+Bob  Robertson
+
+Bloomington
+
+Bloomington
+
+Qufu,
+
+I thaca
+
+Jacksonville
+
+Harrisonburg
+
+IN
+
+IN
+
+NY
+
+FL
+
+VA
+
+John  Brothers
+
+John  Brothers
+
+Zhenjun Shi
+
+James E. Conklin
+
+Robert A. Hollister
+
+James  S .  Sochacki
+
+Changchun, JiLin
+
+Huang Qingdao
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+In s t i tu t ion
+
+JiLin University
+
+Jinan University
+
+Lawrence Technological Univ.
+
+Lewis & Clark College
+
+Maca lester  Co l lege
+
+Mesa  State  Co l lege
+
+Mesa  State  Co l lege
+
+Messiah  College
+
+Miami University
+
+Nanjing Normal University
+
+Nanjing Normal University
+
+Nankai University
+
+Northern Illinois University
+
+Northwest Textile Institute 
+
+Pacific Lutheran University
+
+Peking University
+
+Randolph-Macon  College
+
+Regis University
+
+Rensselaer Polytechnic Institute
+
+Ripon College
+
+Rose-Hulman Inst. of Tech.
+
+Rose-Hulman Institute of
+Technology
+Rowan University
+
+Saint Mary’s College
+
+Shandong University
+
+Shanghai Foreign Languages
+School
+Shanghai Jiao Tong University
+
+Shanghai Normal University
+
+Shanghai Normal University
+
+Shanghai Normal University
+
+Sichuan University
+
+Simon's Rock College
+
+Simon's Rock College
+
+Simpson College
+
+Smith College
+
+South China Univ. of Technology
+
+Southeast University
+
+Southern Connecticut State
+University
+Southern Connecticut State
+University
+Southern Oregon State College
+
+Southwestern University
+
+St. Bonaventure University
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+Problem De s igna t ion
+S ta te Advisor
+Lu Xian Rui
+B
+Successful Participant
+Changchun, JiLin
+
+469
+
+579
+
+680
+
+621
+
+589
+
+322
+
+323
+
+515
+
+173
+
+502
+
+503
+
+668
+
+656
+
+175
+
+90
+
+312
+
+74
+
+43
+
+402
+
+529
+
+247
+
+249
+
+401
+
+35
+
+692
+
+612
+
+473
+
+350
+
+351
+
+352
+
+569
+
+428
+
+426
+
+290
+
+139
+
+211
+
+397
+
+422
+
+420
+
+138
+
+651
+
+176
+
+Guang-Zhou
+
+Southfield
+
+Portland
+
+St. Paul
+
+Grand Junction
+
+Grand Junction
+
+Grantham
+
+Oxford
+
+Nanjing, Jiangsu
+
+Nanjing, Jiangsu
+
+Tianjin
+
+D eka lb
+
+Suohai Fan
+
+Ruth G. Favro
+
+Robert W. Owens
+
+M I
+
+OR
+
+M N
+
+Dan ie l  Kap lan
+
+CO
+
+CO
+
+PA
+
+Bill Tiernan
+
+Bill Tiernan
+
+Douglas C. Phillippy
+
+OH
+
+Douglas  E .  Ward
+
+Fu Shitai
+
+Fu Shitai
+
+XingWei  Zhou
+
+IL
+
+Hamid Bellout
+
+Xi'an, Shaanxi
+
+He Xingshi
+
+Tacoma
+
+Be i j ing
+
+Ashland 
+
+Denver
+
+Troy
+
+Ripon
+
+Terre  Haute
+
+Terre  Haute
+
+Glassboro
+
+No t re  Dame
+
+W A
+
+Rachid  Benkhalti
+
+Deng  M inghua
+
+Eve Torrence
+
+Linda Duchrow
+
+Donald A. Drew
+
+David Scott
+
+Dr. Frank Young
+
+David Rader
+
+Hieu Nguyen
+
+Peter D. Smith
+
+VA
+
+CO
+
+NY
+
+W I
+
+IN
+
+IN
+
+N J
+
+IN
+
+Jinan, Shandong
+
+Wang  Dongsheng
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Shanghai
+
+Pan Li Oun
+
+Song Baorui
+
+Detong Zhu
+
+Detong Zhu
+
+Shenghuan Guo
+
+Chengdu, Sichuan
+
+Zhou Jie
+
+Great Barrington MA
+
+Allen B. Altman
+
+Great Barrington MA
+
+M ichae l  Be rgman
+
+Indianola
+
+IA
+
+Randy Bower
+
+Northampton
+
+MA
+
+Ruth  Haas
+
+Guang Zhou,
+Guangdong
+Nan jing
+
+New Haven 
+
+New Haven 
+
+Ashland
+
+Georgetown
+
+St. Bonaventure
+
+Hao Zhifeng
+
+Jun Huang Sun
+
+Ross B. Gingrich
+
+Theresa  Benne t t
+
+Kemble  R .  Yates
+
+Therese  Shelton
+
+Maureen  Cox
+
+CT
+
+CT
+
+OR
+
+TX
+
+NY
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+In s t i tu t ion
+
+St. Bonaventure University
+
+St. Norbert College
+
+Tianjin University
+
+Trinity University
+
+Trinity University
+
+Truman State University
+
+Truman State University
+
+Tsinghua University
+
+U.S. Air Force Academy
+
+U.S. Air Force Academy
+
+Univ. of California - Berkeley
+
+Univ. of Central Oklahoma
+
+Univ. of Elec. Sci. & Tech.
+
+Univ. of Elec. Sci. & Tech.
+
+Univ. of Massachusetts—Lowell
+
+Univ. of Western Ontario
+
+Univ. of Wisconsin—Stevens Point
+
+University College Dublin
+
+University College Dublin
+
+University of Dallas
+
+University of Limerick
+
+University of Massachusetts
+
+University of North Florida
+
+University of Puget Sound
+
+University of Saskatchewan
+
+University of Saskatchewan
+
+University of Science &
+Technology of China
+University of Southern Colorado
+
+University of Southern
+Queens land
+University of Stellenbosch
+
+University of Washington
+
+University of Washington
+
+University of Wisconsin-Platteville
+
+Vilnius University
+
+Vilnius University
+
+Vilnius University
+
+Virginia Western Comm. College
+
+We l ls  Co l lege
+
+Westchester  Comm .  Co l lege
+
+Western New England College
+
+Whea ton  Co l lege
+
+Whea ton  Co l lege
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+S ta te Advisor
+Problem De s igna t ion
+Maureen  Cox
+NY
+B
+Successful Participant
+St. Bonaventure
+
+177
+
+242
+
+326
+
+387
+
+388
+
+134
+
+135
+
+485
+
+542
+
+543
+
+264
+
+634
+
+281
+
+342
+
+112
+
+372
+
+532
+
+366
+
+363
+
+278
+
+653
+
+599
+
+145
+
+181
+
+593
+
+591
+
+601
+
+652
+
+537
+
+207
+
+373
+
+375
+
+455
+
+576
+
+574
+
+577
+
+170
+
+257
+
+684
+
+662
+
+168
+
+169
+
+De  Pe re
+
+Tianjin
+
+San Antonio
+
+San Antonio
+
+Kirksville
+
+Kirksville
+
+Be i j ing
+
+USAF Academy
+
+USAF Academy
+
+Berke ley
+
+Edmond
+
+Chengdu
+
+Chengdu
+
+Lowell
+
+London, Ontario
+
+W I
+
+John A. Frohliger
+
+Ximin Rong
+
+TX
+
+TX
+
+Jeffrey Oldham
+
+Jeffrey Oldham
+
+MO
+
+Steve Smith
+
+MO
+
+Steve Smith
+
+Ye Jun
+
+CO
+
+CO
+
+CA
+
+OK
+
+MA
+
+Major Dawn Stewart
+
+Major Dawn Stewart
+
+Rainer K. Sachs
+
+Dr. D. Endres
+
+Wang Jianguo
+Xu Quanzhi
+
+James "Kiwi"
+Graham-Eagle
+Peter H. Poole
+
+Stevens Point
+
+W I
+
+Na than  We tze l
+
+Belfield, Dublin
+
+Dublin, Leinster
+
+Dr. E. A. Cox
+
+Dr. Niamh O'Sullivan
+
+Irving
+
+Limerick
+
+Amherst
+
+TX
+
+Pete  McGill
+
+Gordon S. Lessells
+
+MA
+
+Robert  B .  Kusner
+
+Jacksonville 
+
+FL
+
+Peter A. Braza
+
+Tacoma
+
+W A
+
+Robert A. Beezer
+
+Saskatoon, SK
+
+Saskatoon, SK
+
+Hefei, Anhui
+
+Dr. James A. Brooke
+
+Dr .  Tom  Steele
+
+Jin Letian
+
+Pueblo
+
+CO
+
+James Louisell
+
+Toowoomba, QLD
+
+Tony Roberts
+
+Matieland ,  Cape
+
+Dr. Jan H van Vuuren
+
+Sea t t le
+
+Sea t t le
+
+Platteville
+
+Vilnius, 2006
+
+Vilnius, 2006
+
+Vilnius, 2006
+
+Roanoke
+
+Aurora
+
+Valhalla
+
+Springfield
+
+W h e a t o n
+
+W h e a t o n
+
+W A
+
+Peter Schmid
+
+W A
+
+Randall J. LeVeque
+
+W I
+
+Sherrie Nicol
+
+Algirdas Zabulionis
+
+Antanas Mitasiunas
+
+Ricardas Kudzma
+
+Ruth  Sherman
+
+Dr. Carol C. Shilepsky
+
+Sh e e la  Wh e lan
+
+VA
+
+NY
+
+NY
+
+MA
+
+Lorna  Hanes
+
+IL
+
+IL
+
+Paul Isihara
+
+Paul Isihara
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+In s t i tu t ion
+
+Wisconsin  Lutheran  College
+
+Xi'an Jiaotong University
+
+Xi'an Jiaotong University
+
+Xi'an University of Technology
+
+Xidian University
+
+Youngstown State University
+
+Youngstown State University
+
+Zhong Shan University
+
+ZhongShan University
+
+2000 MATHEMATICAL CONTEST  IN MODELING FINAL  RESULTS
+C i ty
+Control  #
+S ta te Advisor
+Problem De s igna t ion
+Marvin C. Papenfuss
+W I
+B
+Successful Participant
+Milwaukee
+
+44
+
+260
+
+261
+
+558
+
+234
+
+102
+
+101
+
+353
+
+675
+
+Xi'an,Shaanxi
+Province
+Xi'an,Shaanxi
+Province
+Xi'an, China
+
+Xi'an, Shaanxi
+
+Youngstown 
+
+Youngstown
+
+Zhou Yicang
+
+Zhou Yicang
+
+Du Zhanrong
+
+Mao Yongcai
+
+OH
+
+OH
+
+Dr .  Bob  Kramer
+
+Dr. Thomas Smotter
+
+Guangzhou, Guang
+Dong
+Guangzhou,
+Guangdong
+
+Yin Zhao Yang
+
+Li  Cai  Wei
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+B
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+

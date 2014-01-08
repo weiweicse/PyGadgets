@@ -1,0 +1,4548 @@
+Hitchman
+
+Morrow
+
+Sanders
+
+Kraines
+
+Moody
+
+Barnes
+
+Teague
+
+Dougherty
+
+Zhen
+
+XUE
+
+Chen
+
+Allen
+
+Rietz
+
+Rietz
+
+Institution
+Bethel College
+Duke University
+Harvey Mudd College
+Maggie L. Walker Governor's School
+NC School of Science and Mathematics
+University of Colorado at Boulder
+University of Washington
+US Military Academy
+Wake Forest
+Wake Forest University
+Albertson College of Idaho
+Asbury College
+Asbury College
+Beijing Institute of Technology
+Beijing Institute of Technology
+Beijing Polytechnic University
+Beijing university of Chemical Technology
+Beijing University of Posts & Telecommunication
+Beijing University of Posts & Telecommunication
+Beijing University of Posts & Telecommunication
+Bethel College
+Boston University
+California Polytechnic State University
+China University of Mining and Technology
+Chongqing University
+Colgate University
+College of Sciences of Northeastern University
+East China University of Science and Technology
+Fudan University
+Gettysburg College
+Goshen College
+Hangzhou University of Commerce
+Hangzhou University of Commerce
+Harbin Institute of Technology
+Harvey Mudd College
+Harvey Mudd College
+Harvey Mudd College
+Humboldt State University
+Institut Teknologi Bandung
+Jacksonville University
+James Madison University
+Juniata College
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+St. Paul
+MN
+Durham
+NC
+Claremont
+CA
+Richmond
+VA
+Durham
+NC
+Boulder
+CO
+Seattle
+WA
+West Point
+NY
+Winston Salem NC
+Winston-Salem NC
+Caldwell
+ID
+KY
+Wilmore
+KY
+Wilmore
+Beijing
+Beij
+i
+Beij
+Beijing
+i
+Beij
+Beijing
+i
+Mail  Box  66
+Beij
+i
+Beij
+Beijing
+i
+Beij
+Beijing
+i
+Beijing
+Beij
+i
+MN
+St. Paul
+MA
+Boston
+CA
+San  Luis
+Obispo
+Jian
+Xuzhou
+Sha
+Chongqing
+i
+Hamilton
+NY
+l iao
+shenyang
+i
+Sha
+Shanghai
+h
+Shanghai
+Sha
+h
+PA
+Gettysburg
+IN
+Goshen
+Hangzhou
+Zhe
+ji
+Hangzhou
+Zhe
+ji
+Hei
+Harbin
+l
+CA
+Claremont
+Claremont
+CA
+CA
+Claremont
+CA
+Arca ta
+Bandung
+JAB
+AR
+Jacksonville
+FL
+Harrisonburg VA
+Huntingdon
+PA
+
+Advisor
+Kinney
+William
+David
+Michael
+John
+Daniel
+Anne
+James
+David
+Frederick
+Edward
+Mike
+Kenneth
+Kenneth
+zhang
+Yao
+Y i
+WenYan
+He
+He
+Sun
+William
+Glen
+Thomas
+Zhu
+Yang
+Warren
+Tie_min
+Yuanhong
+Zhijie
+James
+David
+Zhao
+Zhu
+Xuefeng
+Michael
+Ran
+Ran
+Roland
+Edy
+Robert
+Caroline
+John
+
+2 2 9
+1 8 0
+5 8 3
+5 8 7
+3 2
+2 1 3
+3 5 6
+5 9 1
+2 7 3
+6 9
+1 2 1
+6 3
+6 4
+3 3 6
+3 4 0
+5 2 8
+3 8 5
+5 7
+5 8
+6 0
+2 3 0
+5 3 2
+2 7
+3 8 4
+4 9 0
+6 1 7
+7 2 6
+3 3 3
+7 0 1
+1 8 5
+6 2 4
+1 6 5
+2 0 6
+2 1 1
+5 8 2
+5 8 4
+5 8 5
+1 4 2
+4 7 2
+1 0 0
+3 1 8
+3 5 1
+
+Zuguo
+
+Zuguo
+
+Heng
+
+Ling
+
+Han
+
+Lu
+
+Cai
+
+Fink
+
+kaiyong
+
+Xiaofan
+
+Wang
+
+Moody
+
+Hall
+
+O'Neil
+
+Soewono
+
+Hollister
+
+Smith
+
+Bukowski
+
+Hongxiang
+
+Kinney
+
+Housman
+
+Problem Designation
+B Outstanding Winner
+B Outstanding Winner
+B Outstanding Winner
+A Outstanding Winner
+A Outstanding Winner
+B Outstanding Winner
+A Outstanding Winner
+A Outstanding Winner
+B Outstanding Winner
+B Outstanding Winner
+B Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+
+xue
+
+Yuan
+
+Weckesser
+
+Libeskind-Hada
+
+Libeskind-Hada
+
+Lamberson
+
+Whitston
+
+Hall
+
+Hamilton
+
+Bazant
+
+Rothman
+
+Byrne
+
+Barnes
+
+Schneider
+
+Laursen
+
+Laursen
+
+Wang
+
+Ning
+
+Gendai
+
+Xiaoxia
+
+Doyle
+
+Huang
+
+Institution
+Lafayette College
+Lawrence Technological University
+Lawrence Technological University
+Lipscomb University
+Luther College
+Luther College
+Magdalen College
+Maggie L. Walker Governor's School
+Maggie L. Walker Governor's School
+Massachusetts Institute of Technology
+M IT
+N.C. State University
+Nankai University
+North China Electric Power University
+Northern Jiaotong University
+Northern Jiaotong University
+Northwestern Polytechnical University
+NUI  Galway
+Pacific Lutheran University
+Rowan University
+School of Mathematics
+School of Mathematics and Computer
+S i
+N ji N
+l U i
+it
+Shanghai Jiading No.1 High Shool
+Shanghai Jiaotong University
+South  China  University  of Technology
+G
+h
+P R CHINA
+South  China  University  of Technology
+G
+h
+P R CHINA
+Southern Oregon University
+State University of West Georgia
+Stetson University
+The College of Wooster
+Tianjin  University
+Trinity  University
+Trinity  University
+Tsinghua University
+Univ. of Elec. & Sci. Tech.
+University
+University College Cork
+University of Colorado at Boulder
+University of Colorado at Boulder
+University of Colorado at Boulder
+University of New South Wales
+University of North Carolina - CH
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+Easton
+PA
+Southfield
+M I
+Southfield
+M I
+Nashville
+TN
+Decorah
+IA
+Decorah
+IA
+Oxford
+Oxf
+d
+Richmond
+VA
+Richmond
+VA
+Cambridge
+MA
+Cambridge
+MA
+Raleigh
+NC
+Tianjin
+_
+Baoding
+Heb
+i
+Beijing  100044 Beij
+i
+Beij
+Beijing
+i
+Xi`an
+Sha
+.
+Ga lway
+WA
+Tacoma
+Glassboro
+NJ
+T i a
+Tianjin
+ji
+Jian
+Nanjing
+Shanghai
+Sha
+h
+Sha
+Shanghai
+h
+Gu
+Guangzhou
+Guangzhou
+Gu
+OR
+Ashland
+GA
+Carrollton
+DeLand
+FL
+OH
+Wooster
+T J
+Tianjin
+TX
+San Antonio
+San Antonio
+TX
+Chi
+Beijing
+S ic
+Chengdu
+h
+Changsha
+Hu
+Cork
+Boulder
+Boulder
+Boulder
+Sydney
+Chapel Hill
+
+Advisor
+Hill
+Thomas
+Scott
+Howard
+Ga ry
+Reginald
+Reginald
+Byron
+John
+Crista
+Mar t in
+Daniel
+Dorothy
+Wuqun
+Gu
+Wang
+Bingtuan
+Zhang
+N ia l l
+Me i
+Paul
+Jishou
+Qunsheng
+L i
+Baoru i
+L in
+Fu
+Kemble
+Scott
+L i s a
+Charles
+Ximin
+Jeffrey
+Hector
+Hu
+S iy i
+Xuanyun
+Donal
+Anne
+Michael
+Michael
+James
+Jon
+
+1 7 5
+6 9 6
+7 2 3
+2 8 0
+1 5 7
+1 5 8
+5 6 6
+5 8 8
+6 0 2
+4 9 3
+5 2 3
+1 7 7
+5 8 9
+2 3
+1 1 2
+1 6 7
+4 4 7
+1 8 2
+4 6 4
+6 1 3
+5 4 9
+3 2 6
+2 2 8
+3 0 7
+1 1 3
+1 1 5
+5 2
+1 6
+5 3 4
+5 1 8
+3 2 4
+2 6 4
+5 7 9
+2 5 8
+4 5 1
+4 3 4
+5 9 3
+2 1 4
+5 7 5
+5 7 6
+5 4
+1 8 4
+
+CO
+CO
+CO
+NS
+W
+NC
+
+Dougherty
+
+Chen
+
+Song
+
+Liang
+
+Zhuo
+
+Gordon
+
+Coulter
+
+Ruan
+
+Zhu
+
+Lawson
+
+Mireles
+
+Zhiming
+
+Ritzwoller
+
+Ritzwoller
+
+Laumakis
+
+Franklin
+
+Tolle
+
+Madden
+
+Zhu
+
+Hampton
+
+Rong
+
+Yates
+
+Qin
+
+Qin
+
+Hurley
+
+Problem Designation
+A Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+
+Scho t t
+
+Huang
+
+Hanzely
+
+Dupont
+
+Di
+
+Svobodny
+
+Goldweber
+
+Zhuo-kui
+
+Spalsbury
+
+Spalsbury
+
+Morrow
+
+Chartier
+
+Peng
+
+Jiang
+
+Yang
+
+Yang
+
+Institution
+University of South Carolina
+University of Washington
+University of Washington
+US Military Academy
+Wright State University
+Wuhan University of Technology
+Xavier University
+Xidian University
+Youngstown State University
+Youngstown State University
+Youngstown State University
+Zhejiang University
+Anhui university
+Augsburg College
+Beijing Institute of Technology
+Beijing University of Aeronautics and
+A t
+ti
+Beijing University of Chemical Technology
+Beijing University of Posts & Telecommunication
+Beijing University of Posts & Telecommunication
+Bemidji State University
+Brandon University
+Bucknell University
+California Institute of Technology
+Carroll College
+Carroll College
+Central South University
+China University of Mining and Technology
+China University of Mining and Technology
+Chongqing University
+Dalhousie University
+Dalian  University
+Donghua University(Shanghai,P.R.China)
+Earlham College
+East China University of Science and Technology
+East China University of Science and Technology
+Eastern Michigan University
+Georgia Southern University
+Goshen College
+Greenville Colllege
+Grinnell College
+Grinnell COllege
+Gustavus Adolphus College
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+SC
+Columbia
+WA
+Seattle
+WA
+Seattle
+NY
+West Point
+OH
+Dayton
+Hu
+Wuhan
+b i
+Ohi
+Cincinnati
+Sha
+Xi 'an
+OH
+Youngstown
+OH
+Youngstown
+OH
+Youngstown
+Zhe
+Hangzhou
+ji
+hefei
+anh
+i
+Minneapolis MN
+Beij
+Beijing
+i
+Beij
+Beijing
+i
+Beijing
+Beij
+i
+Beij
+Beijing
+i
+Beij
+Beijing
+i
+Bemidji
+MN
+M a
+Brandon
+it
+PA
+Lewisburg
+Pasadena
+CA
+M T
+Helena
+M T
+Helena
+Chang Sha
+Hu
+Jian
+Xuzhou
+Jian
+Xuzhou
+Sha
+Chongqing
+i
+No
+Ha l ifax
+L i a
+Da l ian
+i
+Sha
+Shanghai
+h
+Richmond
+IN
+Sha
+Shanghai
+h
+Sha
+Shanghai
+h
+Ypsilanti
+M I
+GA
+Statesboro
+IN
+Goshen
+Greenville
+I l l i
+i
+IA
+Grinnell
+IA
+Grinnell
+St. Peter
+MN
+
+Advisor
+Howard
+Ralph
+James
+Timothy
+Elizabeth
+Thomas
+Zhangcan
+Michael
+Zhang
+Angela
+Angela
+Stephen
+Qifan
+Shangjun
+Rebekah
+Cui
+Linping
+Guangfeng
+Luo
+Luo
+Colleen
+Doug
+Sa l ly
+Da r ry l
+Holly
+Holly
+Xiaosong
+Zhang
+Wu
+He
+Dorothea
+Tan
+Yugen
+Charlie
+Chunjie
+Yuanhong
+Christopher
+Laurene
+David
+Galen
+Royce
+M a rk
+Thomas
+
+7 3
+3 5 7
+3 7 7
+5 5 9
+5 1 0
+3 8 1
+5 3 8
+1 0 5
+4 6 6
+4 6 7
+4 6 8
+4 0
+8 0
+5 0 9
+3 3 8
+1 1
+4 5 4
+5 9
+6 2
+2 0 1
+4 1 0
+2 9 1
+5 4 5
+2 7 0
+2 7 1
+4 0 8
+3 6 5
+4 3 3
+3 4 1
+5 4 2
+3 0 4
+3 5 0
+6 7 1
+3 3 0
+3 3 4
+2 5 4
+7 1 5
+6 2 5
+4 3 8
+5 7 2
+5 8 0
+4 1 8
+
+Livingston
+
+Zullo
+
+Zullo
+
+Su
+
+Lu
+
+Hee
+
+Shoushan
+
+Shoushan
+
+Peters
+
+Wolf
+
+Xingyong
+
+Zongxiang
+
+Fausett
+
+Housman
+
+Pronk
+
+Xin
+
+Du
+
+Peck
+
+Zhongshi
+
+Montgomery
+
+LoFaro
+
+Problem Designation
+B Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+A Meritorious
+A Meritorious
+B Meritorious
+B Meritorious
+A Meritorious
+B Meritorious
+A Meritorious
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+
+Pickering
+
+Koutsoliotas
+
+Yong
+
+Chen
+
+Han
+
+Jo l ly
+
+Xie
+
+Zou
+
+Du
+
+Huaming
+
+Jianjiang
+
+Willson
+
+Kun
+
+Shang
+
+Campbell
+
+Campbell
+
+Peifeng
+
+Sidarto
+
+Hu
+b i
+Hu
+IN
+
+Tong
+
+Yizhi
+
+S t a t e
+Zhe
+ji
+Zhe
+ji
+Hei
+l
+An
+h i
+An
+h i
+AR
+AR
+
+Institution
+Hangzhou University of Commerce
+Hangzhou University of Commerce
+Harbin Institute of Technology
+Hefei University of Technology
+Hefei University of Technology
+Hendrix College
+Hendrix College
+Hong Kong Baptist University
+Huazhong Univ. of Sci. & Tech.
+Hunan University
+Indiana University
+Information Science and Engineering of
+N th
+t
+U i
+it
+Institut Teknologi Bandung
+Institute of Artificial Intellgence and Robotics of
+N th
+it
+U i
+t
+Iowa  State University
+Jiading No.1 High School
+Jilin University
+Jinan University
+Lake Superior State University
+Lawrence Technological University
+Lewis and Clark College
+Manhattan College
+Memorial University of Newfoundland
+Nanjing Normal University
+Nanjing University of Science & Technology
+National Univ. of Defence Tech.
+NC School of Science & Mathematics
+NCSU
+North China Electric Power University
+North China Inst of Technology
+North China Inst of Technology
+Northwestern Polytechnical University
+Northwestern Polytechnical University
+Pacific Lutheran University
+Paivola College
+Pomona College
+Portland State University
+Roberts Wesleyan College
+Rose-Hulman Institute of Technology
+School of Mathematics
+School of Mathematics and Computer
+S i
+N ji N
+l U i
+it
+Shanghai Foreign Language School
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+Hangzhou
+Hangzhou
+Harbin
+Hefei
+Hefei
+Conway
+Conway
+Kowloon
+Wuhan
+Changsha
+Bloomington
+shenyang
+Bandung
+shenyang
+Ames
+Shanghai
+ChangChun
+Guangzhou
+Sault  Sainte
+Ma r ie
+Southfield
+Portland
+Riverdale
+St. John's
+Nanjing
+Nanjing
+ChangSha
+Durham
+Raleigh
+Baoding
+Taiyuan
+Taiyaun
+Xi 'an
+Xi 'an
+Tacoma
+Ta r t t i la
+Claremont
+Portland
+Rochester
+Terre Haute
+Tianjin
+Nanjing
+Shanghai
+
+Problem Designation
+Advisor
+B Honorable Mention
+Zhengzhong
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+
+DING
+Hua
+Shouting
+Xueqiao
+Su
+Duff
+Duff
+Chong-sze
+Wang
+Luo
+Michael
+Hao
+Kuntjoro
+Cui
+Stephen
+XiLin
+Yongkui
+Hu
+John
+Ruth
+Robert
+Kathryn
+Andy
+Fu
+Yuan
+Wu
+John
+Thomas
+Xie
+Ya-kui
+Ying-jie
+Xu
+Peng
+Me i
+Merikki
+Ami
+Gerardo
+Ga ry
+David
+Jishou
+Qunsheng
+LiQun
+
+1 9 6
+2 0 3
+2 1 0
+4 2 8
+4 3 0
+6 4 4
+6 4 5
+2 9 6
+2 2
+1 3 7
+7 1 2
+7 1
+5 2 7
+4 8 0
+1 9 0
+2 0 8
+6 6 2
+3 0 2
+9 8
+6 7 0
+6 3 6
+3 7 0
+3 6 8
+4 9 8
+6 8 9
+1 0 2
+7 4 3
+3 6 6
+1 1 1
+4 0 0
+4 0 1
+2 8 8
+3 9 8
+4 6 5
+2 5 0
+6 4 2
+5 2 6
+6 5 0
+1 7 0
+5 5 0
+3 2 5
+2 1 8
+
+Jab
+l iao
+i
+IA
+Sha
+h
+J i l i
+Gu
+M I
+M I
+OR
+NY
+NF
+Jian
+Jian
+Hu
+N
+NC
+NC
+Heb
+i
+Sha
+i
+Sha
+i
+Sha
+Sha
+WA
+Finl
+d
+CA
+Ore
+NY
+IN
+T i a
+ji
+Jian
+Sha
+h
+
+Radunskaya
+
+Xue
+
+Lei
+
+Wei
+
+Hua
+
+Zhu
+
+Rader
+
+Ruan
+
+Foster
+
+Shitai
+
+Favro
+
+Owens
+
+Mengda
+
+Kolena
+
+Daiqiang
+
+Jaroma
+
+Lafferriere
+
+Raduns
+
+Honeycutt
+
+Hong
+
+Weld
+
+Xu
+
+Lappi
+
+Zhu
+
+Pan
+
+Kolln
+
+Altman
+
+McDonald
+
+Yates
+
+Shelton
+
+Wang
+
+Sui
+
+Bergman
+
+Bergman
+
+Huang
+
+Wang
+
+Feng
+
+Wen
+
+Wen
+
+Institution
+Shanghai Jiaotong University
+Shanghai Jiaotong University
+Shanghai University
+Simon's Rock College
+Simon's Rock College
+Simon's Rock College
+Simpson College
+Sonoma State University
+South China Normal University
+South  China  University  of Technology
+G
+h
+P R CHINA
+South  China  University  of Technology
+G
+P R CHINA
+h
+South-west Jiao Tong University
+South-west Jiao Tong University
+Southern Oregon University
+Southwestern University
+Tianjin  University
+Tianjin  University
+Tianjin  University
+Trinity  University
+Tsinghua University
+UMass  Lowell
+United States Air Force Academy
+United States Air Force Academy
+United States Military Academy at West Point
+University College Cork
+University College Dublin
+University of Nebraska-Lincoln
+University of New South Wales
+University of Puget Sound
+University of Science & Technology of China
+University of Science & Technology of China
+University of Southern California
+University of Stellenbosch
+University of Washington
+University of Western Ontario
+US Military Academy
+USC
+Virginia Tech
+Western New Mexico University
+William Paterson University
+Wuhan University of Technology
+Wuhan University of Technology
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+Sha
+Shanghai
+h
+Sha
+Shanghai
+h
+Chi
+Shanghai
+MA
+Great
+Barrington
+MA
+Great
+Barrington
+MA
+Great
+Barrington
+IA
+Indianola
+CA
+Rohnert Park
+Gu
+Guangzhou
+Gu
+Guangzhou
+Gu
+Guangzhou
+S ic
+Chengdu
+h
+S ic
+Chengdu
+h
+OR
+Ashland
+TX
+Georgetown
+T J
+Tianjin
+T J
+Tianjin
+T J
+Tianjin
+TX
+San Antonio
+Chi
+Beijing
+Lowe l l
+MA
+USAF Academy CO
+USAF Academy CO
+West Point
+NY
+Cork
+Belfield
+Lincoln
+Sydney
+Tacoma
+Hefei
+Hefei
+Los Angeles
+Matieland
+Seattle
+London
+West Point
+Los Angeles
+Blacksburg
+Silver City
+Wayne
+Wuhan
+Wuhan
+
+Advisor
+Song
+Baoru i
+Jianguo
+Yuandi
+Allen
+Michael
+Michael
+Werner
+Elaine
+Limin
+T a o
+Zhu
+Zhao
+Zhao
+Kemble
+Therese
+Zeyi
+Zeyi
+Ximin
+Kenneth
+Hu
+James
+James
+M a rk
+Gregory
+James
+Ted
+Glenn
+James
+Michael
+Zhouwang
+Guangzhong
+Robert
+Jan
+Anne
+Peter
+Ray
+Geoffrey
+Lau ra
+Thomas
+Donna
+Sijun
+Zhangcan
+
+3 0 8
+3 7 5
+2 9 7
+2 6
+1 4 9
+1 5 0
+6 7
+3 2 0
+2 6 9
+1 1 4
+1 1 6
+2 7 8
+2 7 9
+5 3
+5 1 5
+3 1 1
+3 1 2
+3 2 3
+5 4 4
+2 5 7
+2 7 6
+6 9 7
+7 1 6
+6 1 8
+6 3 0
+3 6 1
+4 6 3
+2 9 3
+1 2 7
+4 7 4
+4 7 7
+4 0 7
+6 9 1
+3 7 2
+4 9 2
+5 4 7
+2 9 4
+3 0 1
+5 3 6
+5 6 8
+1 9 4
+3 8 2
+
+Du
+bli
+NE
+NS
+W
+WA
+An
+h i
+An
+h i
+CA
+We
+t
+WA
+ON
+NY
+CA
+VA
+NM
+NJ
+Hu
+b i
+Hu
+b i
+
+Yang
+
+Sun
+
+Poole
+
+Eason
+
+Gerken
+
+Parnell
+
+Peng
+
+Huang
+
+Nelson
+
+Zhiming
+
+Ledder
+
+Franklin
+
+Spedding
+
+Spielman
+
+Liu
+
+Liu
+
+Rong
+
+Grannell
+
+Cox
+
+Casey
+
+Problem Designation
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+
+Graham-Eagle
+
+Rolf
+
+Sacker
+
+Van Vuuren
+
+Greenbaum
+
+Gruszka
+
+Cedio-Fengya
+
+Hamilton
+
+Cai
+
+Hong-wei
+
+Ji-min
+
+Hui-chan
+
+Yang
+
+Hendricks
+
+Rayburn
+
+Rayburn
+
+Marland
+
+Marland
+
+Arnholt
+
+Arnholt
+
+yuan
+
+yuan
+
+Institution
+Xi'an Jiaotong University
+Xidian University
+Xidian University
+Xidian University
+Zhejiang University
+zhongshan university
+zhongshan university
+Abilene Christian University
+Angelo State University
+anhui university
+Appalachian State University
+Appalachian State University
+Appalachian State University
+Appalachian State University
+Austin Peay State University
+Austin Peay State University
+Baoding Teachers' College
+Baoding Teachers' College
+Baoding Teachers' College
+Baoding Teachers' College
+Baoding Teachers' College
+Baoding Teachers' College
+Baylor  University
+Beijing Institute of Technology
+Beijing Union University
+Beijing Union University
+Beijing University of Aeronautics and
+ti
+A t
+Beijing University of Aeronautics and
+A t
+ti
+BeiJing University of Chemical Technology
+Beijing university of chemical technology
+Beijing university of chemical technology
+Bellarmine University
+Bellarmine University
+Beloit College
+Bloomsburg University
+Bloomsburg University
+Boise State University
+Brevard College
+Brevard College
+Bucknell University
+Bucknell University
+California Polytechnic State University
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+Xi 'an
+Sha
+i
+Xi 'an
+Sha
+Xi 'an
+Sha
+Xi 'an
+Sha
+Hangzhou
+Zhe
+ji
+guangzhou
+gua
+d
+guangzhou
+gua
+d
+Abilene
+Tex
+San Angelo
+TX
+hefei
+anh
+i
+Boone
+NC
+Boone
+NC
+Boone
+NC
+Boone
+NC
+Clarksville
+TN
+Clarksville
+TN
+Baoding
+Heb
+i
+Baoding
+Heb
+i
+Baoding
+Heb
+i
+Baoding
+Heb
+i
+Baoding
+Heb
+i
+Baoding
+Heb
+i
+Waco
+TX
+Beijing
+Beij
+i
+Beijing
+Beij
+i
+Beijing
+Beij
+i
+Beijing
+Beij
+i
+Beijing
+Beij
+i
+BeiJing
+BeiJ
+i
+Beijing
+beij
+university of
+i
+mail box 66
+Beij
+i
+Louisville
+KY
+Louisville
+KY
+Beloit College WI
+PA
+Bloomsburg
+Bloomsburg
+PA
+ID
+Boise
+NC
+Brevard
+Brevard
+NC
+PA
+Lewisburg
+PA
+Lewisburg
+San  Luis
+CA
+Obispo
+
+Advisor
+Dai
+Yonghong
+Liu
+Ye
+Chen
+Qifan
+zhuojian
+zhuojian
+David
+Robert
+Qian
+Alan
+Alan
+E r i c
+E r i c
+Nell
+Nell
+Yuan
+Yuan
+Jing
+Jing
+Wang
+Wang
+Frank
+Chen
+Zeng
+Zeng
+Liu
+Sanxing
+Weiguo
+Dongqing
+Damin
+William
+William
+Paul
+Kevin
+Kevin
+Jodi
+Clarke
+Clarke
+Sa l ly
+K a r l
+Thomas
+
+3 5 8
+8 5
+8 6
+9 5
+4 1
+6 8 2
+6 8 3
+5 0 2
+6 6 4
+7 9
+4 1 6
+4 1 7
+4 2 2
+4 2 3
+6 1 9
+6 2 1
+2 8 6
+2 8 7
+3 2 7
+3 2 8
+6 8 6
+6 8 7
+8 3
+3 3 7
+2 8 4
+7 4 6
+1 3
+1 5 4
+4 4 8
+5 5 3
+5 9 2
+4 8
+4 9
+2 3 1
+7 6
+7 7
+3 5 4
+1 1 7
+1 1 8
+2 9 0
+6 0 4
+2 8
+
+Qingli
+
+Qingli
+
+Hardin
+
+Hardin
+
+Xinzhe
+
+Xinzhe
+
+Knaub
+
+O'Neil
+
+Ferland
+
+Ferland
+
+Wellborn
+
+Wellborn
+
+Mathis
+
+Hong
+
+Jiang
+
+Liu
+
+Shaoqiang
+
+Shaoqiang
+
+Campbell
+
+hongying
+
+Mead
+
+Koutsoliotas
+
+Problem Designation
+A Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Honorable Mention
+B Honorable Mention
+A Honorable Mention
+A Honorable Mention
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+
+Shuangyan
+
+Shuangyan
+
+Wu
+
+Lin
+
+Hu
+
+Yuan
+
+Shengwu
+
+Chuandong
+
+Tongfu
+
+Xuanyun
+
+Boersma
+
+Boersma
+
+Luosheng
+
+Perrine
+
+Leighty
+
+Martelli
+
+Smaby
+
+Rush
+
+Jager
+
+Kong
+
+Institution
+California State Polytechnic University, Pomona
+California  State University  at Monterey Bay
+California  State University,  Bakersfield
+Calvin College
+Carson-Newman College
+Central South University
+Central Washington University
+Central Washington University
+ChangChun University
+Charleston Southern
+Chesterfield County Mathematics & Science HS
+China University of Mining and Technology
+Chongqing University
+Chongqing University
+Claremont McKenna College
+Clarion  University
+Clarion  University
+Clarion University of Pennsylvania
+Colby College
+Collage of sciences,Jiamusi university
+College of Saint Benedict/Saint John's
+it
+U i
+College of Saint Benedict/Saint John's
+U i
+it
+College of science
+College of Sciences Northeastern University
+College of Sciences Northeastern University
+College of Sciences of Northeastern University
+Colorado College
+Colorado State University
+Dalian  Nationalities  University
+Dalian  Nationalities  University
+Dalian University of Technology
+Dalian University of Technology
+Dalian University of Technology
+Dalian University of Technology
+Dalian University of Technology
+Dalian University of Techology
+Dong Hua University
+Duke University
+East China University of Science and Technology
+eastern oregon university
+eastern oregon university
+Eastern Oregon University
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+CA
+Pomona
+CA
+Seaside
+Bakersfield
+CA
+Grand Rapids M I
+Ten
+Jefferson City
+Hu
+Changsha
+WA
+Ellensburg
+Ellensburg
+WA
+J iL i
+ChangChun
+SC
+Charleston
+Midlothian
+VA
+Jian
+Xuzhou
+Chongqing
+Sha
+i
+Chongqing
+Sha
+i
+CA
+Claremont
+PA
+Clarion
+Clarion
+PA
+PA
+Clarion
+M E
+Waterville
+Jiamusi
+Hei
+L
+MN
+Collegeville
+MN
+Collegeville
+jiamusi
+Hei
+l
+L i a
+Shenyang
+i
+L i a
+Shenyang
+i
+shenyang
+l iao
+i
+Colorado
+CO
+Springs
+CO
+Fort Collins
+L i a
+Da l ian
+i
+L i a
+Da l ian
+i
+L i a
+Da l ian
+i
+Da l ian
+L i a
+i
+Da l ian
+L i a
+i
+Da l ian
+L i a
+i
+Dalian    116024
+Da l ian
+Shanghai
+Durham
+Shanghai
+La Grande
+La Grande
+La Grande
+
+Advisor
+Switkes
+Jennifer
+Hongde
+Maureen
+Thomas
+Catherine
+Qin
+Stuart
+Stuart
+Shuai
+Stan
+Diane
+Zhou
+L i
+Wen
+M a r io
+Richard
+Karen
+John
+Jan
+B a i
+Robert
+Robert
+L iv
+Ping
+Ping
+Tie_min
+Peter
+Michael
+Jinzhi
+Jinzhi
+He
+Zhao
+Zhao
+He
+Y i
+Y i
+Liangjian
+David
+Chunjie
+anthony
+anthony
+Robert
+
+5 7 8
+1 0 9
+5 1 1
+3 5 2
+5 3 3
+4 8 3
+5 3 7
+5 3 9
+4 1 1
+2 5 2
+9 1
+3 6 3
+2 9 5
+3 1 0
+3 5 5
+1 4 3
+1 6 2
+4 4 5
+4 1 3
+1 6 4
+5 0
+5 1
+1 9 2
+1 3 0
+7 4 9
+7 2 7
+4 9 5
+3 4 2
+1 6 6
+2 9 2
+1 9 7
+1 9 8
+1 9 9
+2 0 0
+3 9 6
+3 9 5
+4 0 9
+1 8 1
+3 2 9
+3 9 0
+3 9 1
+5 1 4
+
+L i a
+i
+Sha
+h
+NC
+Sha
+h
+OR
+OR
+OR
+
+Sun
+
+Sun
+
+Han
+
+Holly
+
+Shan
+
+Wang
+
+Wang
+
+Wang
+
+Wang
+
+Hesse
+
+Hesse
+
+tovar
+
+tovar
+
+Staab
+
+Kirby
+
+Lizhong
+
+Lizhong
+
+Hu
+
+Su
+
+Bolinger
+
+Heard
+
+Brandon
+
+Mingfeng
+
+Mingfeng
+
+Kraines
+
+Problem Designation
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+
+Gonsalves
+
+Gonsalves
+
+Wolf
+
+Montgomery
+
+Jihong
+
+Shang
+
+Zhang
+
+Sussman
+
+HU
+
+Cao
+
+Huband
+
+Sebrell
+
+Lewand
+
+Spradlin
+
+Lindsey
+
+Letson
+
+Peters
+
+Institution
+educational adminstration
+educational adminstration
+Embry-Riddle Aeronautical University
+Florida Gulf Coast University
+Florida Institute of Technology
+Florida Institute of Technology
+Florida  State University
+FUDAN UNIVERSITY
+Fudan University
+Georgia Southern University
+Godwin High School Science and Mathematics
+C t
+Goucher College
+Greenfield Community College
+Greenville Colllege
+Grinnell College
+Grinnell COllege
+Guangdong Commercial College
+Gustavus Adolphus College
+Harbin Engineering University
+Harbin Engineering University
+Harbin Engineering University
+Harbin Engineering University
+Harbin Institute of Technology
+Harbin Institute of Technology
+Harbin Institute of Technology
+Harbin Uinversity of Science and Technology
+Harbin University of Science and Technology
+Harbin University of Science and Technology
+Harbin University of Science and Technology
+Hefei university of technology
+Hefei University of Technology
+Hillsdale College
+Hiram College
+Hong Kong Baptist University
+Hood College
+Hope College
+Hunan University
+Huntingdon College
+Huntingdon College
+Idaho State University
+Indiana University of Pennsylvania
+Institute of Artificial Intellgence and Robotics of
+it
+U i
+t
+N th
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+l iao
+shenyang
+i
+shenyang
+l iao
+i
+Daytona  Beach FL
+Fort Myers
+FL
+Flo
+Melbourne
+id
+Flo
+Melbourne
+id
+FL
+Tallahassee
+SHANGHAI
+SH
+AN
+Sha
+Shanghai
+h
+GA
+Statesboro
+Richmond
+VA
+MD
+Baltimore
+MA
+Greenfield
+Greenville
+I l l i
+i
+IA
+Grinnell
+IA
+Grinnell
+Guangzhou
+Gu
+MN
+St. Peter
+Hei
+Harbin
+l
+Harbin
+Hei
+l
+Hei
+Harbin
+l
+Hei
+Harbin
+l
+Harbin
+Hei
+l
+Hei
+Harbin
+l
+Hei
+Harbin
+l
+Harbin
+Hei
+l
+Hei
+Harbin
+l
+Hei
+Harbin
+l
+Harbin
+Hei
+l
+An
+Hefei
+h i
+An
+Hefei
+h i
+M I
+Hillsdale
+Hiram
+OH
+Kowloon
+Frederick
+Holland
+Changsha
+Montgomery
+Montgomery
+Pocatello
+Indiana
+shenyang
+
+Advisor
+Zhang
+Shujun
+Shujun
+Greg
+Charles
+Michael
+Michael
+M a rk
+JINJIN
+Yuan
+Jacalyn
+Ann
+Robert
+Peter
+Galen
+Royce
+M a rk
+Xiang
+Thomas
+Luo
+Shen
+Zhang
+Gao
+Shouting
+Jiqun
+Xuefeng
+Dongyan
+Guangyue
+Dongmei
+Xiaoying
+Youdu
+yongwu
+John
+Brad
+Wai-chee
+Betty
+Aaron
+Luo
+Vyacheslav
+Vyacheslav
+Rob
+Frederick
+Cui
+
+5 0 0
+5 0 1
+6 0 5
+1 7 4
+1 4 6
+1 4 7
+5 1 3
+4 5 0
+7 0 0
+4 4 6
+5 4 6
+5 9 5
+4 0 2
+4 3 7
+5 7 4
+5 8 1
+7 1 3
+4 1 9
+7 2 9
+7 3 0
+7 3 1
+7 3 2
+2 0 9
+2 1 2
+7 1 9
+2 6 8
+2 0 2
+2 6 6
+2 6 7
+4 3 1
+4 7 1
+4 2 0
+5 0 3
+2 9 8
+5 2 0
+5 6 1
+1 3 8
+1 4 4
+1 4 5
+1 4 8
+5 0 6
+4 8 1
+
+MD
+M I
+Hu
+AL
+AL
+ID
+PA
+l iao
+i
+
+Rykov
+
+Rykov
+
+Boardman
+
+Shao
+
+Wang
+
+Chen
+
+Xiaowei
+
+Zhenbin
+
+Yuesheng
+
+Huang
+
+zhou
+
+Zigui
+
+LoFaro
+
+Mayfield
+
+Cinzori
+
+Van Kirk
+
+Adkins
+
+Jianjiang
+
+Gubser
+
+Shiu
+
+Tian
+
+Li
+
+Ni
+
+Han
+
+Problem Designation
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+
+Hollister
+
+Peterson
+
+l v
+
+Bonan-Hamada
+
+Rudmin
+
+Warne
+
+Fan
+
+Shiqi
+
+chun
+
+ting
+
+Song
+
+Fang
+
+Shiqi
+
+Zhi
+
+Wei
+
+x iu
+
+Advisor
+Conklin
+
+Institution
+Ithaca College
+Jacksonville University
+James Madison Univ
+James Madison University
+James Madison University
+jiamusi university
+jiamusi university
+Jiangxi Normal University,China
+jilin institute of technology
+jilin institute of technology
+Jilin University
+Jilin University
+Jilin University
+Jinan University
+Jinan University
+Jinan University
+Johnson State College
+Kansas  State University
+Keuka College
+Lafayette College
+Lawrence Technological University
+Lewis and Clark College
+Macalester College
+Macalester College
+Macalester College
+Malone College
+Malone College
+McClintock High School
+McKendree College
+Meredith College
+Mesa State College
+Messiah College
+Miami University
+Missouri Southern State College
+M IT
+Monmouth College
+Mount olive College
+Mount olive College
+Mt. Mercy College
+Mt. Mercy College
+Mt. Saint Mary's College
+Mt. St Mary's College
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+NY
+Ithaca
+Jacksonville
+FL
+Harrisonburg VA
+Harrisonburg VA
+Harrisonburg VA
+Hei
+jiamusi
+l
+Hei
+jiamusi
+l
+NanChang
+Jian
+i
+jilin
+Changchun
+jilin
+Changchun
+Changchun
+J i l i
+Jilin
+Chang Chun
+Jilin
+Changchun
+Guangzhou
+Gu
+Gu
+Guangzhou
+Gu
+Guangzhou
+Johnson
+V T
+K S
+Manhattan
+NY
+Keuka Park
+Easton
+PA
+M I
+Southfield
+OR
+Portland
+St. Paul
+MN
+MN
+St. Paul
+MN
+St. Paul
+Canton
+OH
+OH
+Canton
+A z
+Tempe
+Lebanon
+IL
+Raleigh
+NC
+Grand Junction CO
+PA
+Grantham
+Oxford
+OH
+MO
+Joplin
+MA
+Cambridge
+Monmouth
+IL
+NC
+Mount Olive
+NC
+Mount Olive
+Cedar Rapids
+IA
+IA
+Cedar Rapids
+MD
+Emmitsburg
+Emmitsburg
+Md
+
+Jim
+Robert
+Joseph
+Paul
+Dorn
+Gu
+Fan
+Wu
+Sun
+Yue
+L ix in
+Xianrui
+Peichen
+Ye
+Suohai
+Ye
+Christopher
+Korten
+Catherine
+Thomas
+Valentina
+Robert
+Daniel
+Daniel
+Elizabeth
+David
+David
+Ivan
+Raymond
+Cammey
+Edward
+Lamarr
+Doug
+Patrick
+Daniel
+Christopher
+Ollie
+Ollie
+K
+K
+john
+John
+
+5 5 4
+1 0 1
+5 9 4
+3 4 5
+5 7 0
+1 9 3
+2 0 5
+4 9 7
+5 5 6
+5 6 2
+5 5 5
+7 0 9
+7 4 4
+3 0 3
+3 0 6
+5 0 5
+6 3 1
+7 1 4
+7
+1 7 6
+6 2 0
+6 3 7
+4 3 5
+4 3 6
+4 4 0
+4 4 2
+4 4 3
+4 6 2
+6 0 3
+5 4 0
+8 1
+1 2 8
+2 6 3
+3 2 1
+5 2 4
+6 1 6
+3 1 6
+3 1 7
+7 8
+1 3 9
+4 5 9
+4 5 6
+
+Hahn
+
+Hahn
+
+Rose
+
+Rose
+
+Knopp
+
+Knopp
+
+Robb
+
+Cole
+
+Owens
+
+Kaplan
+
+Kaplan
+
+Aubuchon
+
+Auck ly
+
+Abbott
+
+Cassens
+
+Rothman
+
+dropp
+
+August
+
+Widmer
+
+Ward
+
+Hill
+
+Tobos
+
+Shoop
+
+Barkdoll
+
+Fasano
+
+Problem Designation
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+
+Teague
+
+Sweezy
+
+Bi
+
+Wu
+
+Liu
+
+Liu
+
+You
+
+Xu
+
+Bingtuan
+
+Mackin
+
+Fernando
+
+Honeycutt
+
+Zhang
+
+Mengda
+
+XiaoLong
+
+XiaoLong
+
+Doyle
+
+Shitai
+
+Advisor
+August
+
+Institution
+Mt. St Mary's College
+N.C. State University
+Nanjing Normal University
+Nanjing Univ.of Sci.& Tech
+Nanjing university of Sci&Tech
+Nanjing University of Science and Technology
+National Univ. of Defence Tech.
+National Univ. of Defence Technology
+National Univ. of Defence Technology
+NC School of Science and Mathematics
+NCSU
+New Mexico State University
+NORTH CHINA INSTITUTE OF
+TECHNOLOGY
+Northern Jiaotong University
+Northern Jiaotong University
+Northern Kentucky University
+Northern Kentucky University
+Northwest Missouri State University
+Northwestern Polytechnical University
+NUI  Galway
+Olin College of Engineering
+Peking University
+Peking University
+Peking University
+Peking University
+Peking University
+Peking University
+Peking University
+Peking University
+Qufu Normal University
+Qufu Normal University
+Regis University
+Rensselaer Polytechnic Institute
+Ripon College
+Ripon College
+Roanoke College
+Rose-hulman Institute of Technology
+Rowan University
+Sacred Heart University
+Sacred Heart University
+Saint Mary's College
+Saint Mary's College
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+Emmitsburg
+Raleigh
+Nanjing
+Nanjing
+Nanjing
+Nanjing
+ChangSha
+Chang Sha
+Chang Sha
+Durham
+Raleigh
+Las Cruces
+Taiyuan
+Beijing
+Beijing
+Highland
+Heights
+Highland
+Heights
+Maryv i l le
+Xi 'an
+Ga lway
+Needham
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+Qufu
+Qufu
+Denver
+Troy
+Ripon
+Ripon
+Salem
+Terre Haute
+Glassboro
+Fairfield
+Fairfield
+Notre Dame
+Notre Dame
+
+John
+Dorothy
+Fu
+Huang
+Chungen
+Zhengjun
+Wu
+Duan
+Duan
+Daniel
+Thomas
+Caroline
+Yong
+Faen
+Wang
+G a i l
+Shamanthi
+Russell
+Sun
+N ia l l
+Burt
+Yulong
+Yulong
+L ian
+Mingquan
+Ming
+Ming
+Yousheng
+L ian
+Feng
+Feng
+Linda
+Peter
+David
+David
+Jeffrey
+David
+Hieu
+Peter
+Peter
+Joanne
+Joanne
+
+S t a t e
+Md
+NC
+Jian
+Jian
+S
+Jian
+S
+Jian
+S
+Hu
+N
+Hu
+N
+Hu
+N
+NC
+NC
+NM
+Sha
+i
+Beij
+i
+Beij
+i
+KY
+KY
+MO
+Sha
+.
+MA
+Beij
+i
+Beij
+i
+Beij
+i
+Beij
+i
+Beij
+i
+Beij
+i
+Beij
+i
+Beij
+i
+Sha
+d
+Sha
+d
+CO
+NY
+WI
+WI
+VA
+IN
+NJ
+CT
+CT
+IN
+IN
+
+4 5 7
+9 9
+4 9 9
+4
+5
+6 7 6
+1 0 3
+1 4 0
+1 4 1
+3 3
+3 6 7
+5 6 0
+3 9 9
+3 3 1
+3 3 2
+2 8 1
+6 3 3
+5 9 8
+3 9 7
+1 8 3
+3 1 5
+4 3
+4 4
+2 2 5
+3 6 4
+3 7 8
+3 7 9
+5 9 0
+6 6 3
+1 2 3
+1 2 4
+3 4
+4 4 9
+1 6 0
+1 6 1
+2 8 5
+1 7 1
+3 5 3
+1 0 7
+1 0 8
+1 3 1
+1 3 2
+
+Sco t t
+
+Sco t t
+
+Snow
+
+Snow
+
+Wang
+
+Wang
+
+Wang
+
+Wang
+
+Loth
+
+Loth
+
+Guijun
+
+Zhang
+
+Euler
+
+Hao
+
+Rader
+
+Nguyen
+
+Shu
+
+Guijun
+
+Duchrow
+
+Kramer
+
+Madden
+
+Tilley
+
+Spielman
+
+Problem Designation
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+
+XIAOBIN
+
+Li
+
+Yang
+
+Huang
+
+Zhu
+
+Zhang
+
+Pan
+
+Wan
+
+Guo
+
+Yang
+
+Carroll
+
+Carroll
+
+Yang
+
+Luan
+
+Aimin
+
+Aimin
+
+Institution
+Salisbury  University
+School of Mathematics
+Shandong University
+Shanghai Foreign Language School
+Shanghai Foreign Language School
+Shanghai Jiaotong University
+Shanghai Normal university
+Shanghai Normal university
+Shanghai Normal University
+SHANGHAI UNIVERSITY OF FINANCE AND
+ECONOMICS
+SHANGHAI UNIVERSITY OF FINANCE AND
+ECONOMICS
+Shanxi University
+Shanxi University
+Shanxi Uuniversity
+Shanxi Uuniversity
+Siena Heights University
+Siena Heights University
+Simon's Rock College
+Simpson College
+Simpson College
+Simpson College
+Sonoma State University
+South China Normal University
+South Dakota School of Mines and Technology
+South Dakota School of Mines and Technology
+South-west Jiaotong University
+South-west Jiaotong University
+Southeast Missouri State University
+Southeastern Oklahoma State University
+Southern Connecticut State University
+Southern Connecticut State University
+Southwestern University
+St. Bonaventure University
+State University of West Georgia
+Texas  Christian University
+The College of Wooster
+the Information Science and Engineering of
+N th
+t
+U i
+it
+The University of the South
+The University of the South
+Towson  University
+Trinity College Dublin
+Truman State Univ.
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+M a
+Salisbury
+l
+T i a
+Tianjin
+ji
+Sha
+Jinan
+d
+Sha
+Shanghai
+h
+Sha
+Shanghai
+h
+Sha
+Shanghai
+h
+Sha
+Shanghai
+h
+Sha
+Shanghai
+h
+Sha
+Shanghai
+h
+sha
+SHANGHAI
+h
+SH
+SHANGHAI
+AN
+Sha
+Taiyuan
+i
+Sha
+Taiyuan
+i
+Sha
+Taiyuan
+i
+Sha
+Taiyuan
+i
+M I
+Adrian
+M I
+Adrian
+Great
+MA
+Barrington
+IA
+Indianola
+IA
+Indianola
+IA
+Indianola
+CA
+Rohnert Park
+Gu
+Guangzhou
+SD
+Rapid City
+SD
+Rapid City
+S ic
+Chengdu
+h
+Chengdu
+S ic
+h
+Cape Girardeau MO
+Durant
+OK
+CT
+New Haven
+CT
+New Haven
+Georgetown
+TX
+St. Bonaventure NY
+GA
+Carrollton
+TX
+Fort Worth
+Wooster
+OH
+l iao
+shenyang
+i
+TN
+Sewanee
+Sewanee
+TN
+MD
+Towson
+-
+Dublin
+Kirksville
+MO
+
+Advisor
+Bardzell
+Michael
+Qingzhi
+Junfeng
+LiQun
+Baihe
+Jianguo
+Detong
+Jizhou
+Shenghuan
+x iao
+YANG
+Jihong
+Aimin
+Zhao
+Zhao
+Toni
+Toni
+Allen
+Murphy
+Murphy
+Werner
+Elaine
+Limin
+Kyle
+Kyle
+Han
+Han
+Robert
+Christopher
+Ross
+Therese
+Therese
+Albert
+Scott
+George
+Charles
+hao
+Catherine
+Catherine
+Mike
+Timothy
+Steve
+
+1 6 9
+5 4 8
+2 3 8
+2 1 9
+2 2 0
+3 7 4
+5 2 9
+5 3 0
+5 3 1
+2 2 1
+2 4 7
+7 0 2
+7 0 4
+2 1 5
+7 2 4
+1 1 9
+1 2 0
+2 5
+6 5
+6 6
+6 8
+3 1 9
+2 7 7
+9
+1 0
+1 7
+2 2 3
+4 2 4
+6 2 2
+6 5 2
+6 5 3
+5 1 6
+6 2 3
+1 0 4
+6 0 6
+5 1 9
+7 2
+3 8 6
+3 8 7
+4 5 3
+7 4 1
+8 8
+
+Yang
+
+Yang
+
+Riley
+
+Riley
+
+Sheets
+
+Moretti
+
+Bennett
+
+Shelton
+
+Gordon
+
+Gilbert
+
+O'Leary
+
+Murphy
+
+Waggoner
+
+Waggoner
+
+McDonald
+
+Hampton
+
+peifeng
+
+Cavagnaro
+
+Cavagnaro
+
+Gingrich
+
+Altman
+
+Kolln
+
+Wang
+
+White
+
+Smith
+
+Problem Designation
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+
+Jun
+
+Sohan
+
+Meehan
+
+Meehan
+
+Yi
+
+Roy
+
+Qin
+
+Du
+
+Du
+
+Martin
+
+Martin
+
+Islam
+
+Rossi
+
+Rossi
+
+Advisor
+Jun
+
+Institution
+Tsinghua University
+Tsinghua University
+United States Air Force Academy
+Univ. of Elec. & Sci. Tech.
+Univ. of Elec.Sci.& Tech.
+Univ. of Elec.Sci.& Tech.
+Univ of Mass at Amherst
+University
+University College Cork
+University College Dublin
+University College Dublin
+University College Dublin
+University of Central Florida
+University of Central Florida
+University of Dayton
+University  of Delaware
+University  of Delaware
+University of Portland
+University of Puget Sound
+University of Puget Sound
+University of Richmond
+University of San Diego
+University  of  Saskatchewan
+University of Science & Technology of China
+University of Science & Technology of China
+University of Southern Colorado
+University of Stellenbosch
+University of Virginia's College at Wise
+University of Virginia's College at Wise
+University of Wisconsin--River Falls
+US Air Force Academy
+Vilnius  University
+Virginia Tech
+Virginia Western Community College
+Virginia Western Community College
+VWCC
+Wake Forest University
+Wartburg College
+Washington College
+Washington University
+Wells College
+Westchester Community College
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+S t a t e
+Chi
+Beijing
+Beijing
+Chi
+USAF Academy CO
+S ic
+Chengdu
+h
+SiC
+Chengdu
+h
+SiC
+Chengdu
+h
+MA
+Amherst
+Chang Sha
+Hu
+N
+Cor
+Cork
+k
+Dublin 4,
+Du
+bli
+Dublin 4,
+Du
+bli
+Du
+Belfield
+bli
+FL
+Orlando
+Orlando
+FL
+Ohi
+Dayton
+DE
+Newark
+Newark
+DE
+OR
+Portland
+WA
+Tacoma
+Tacoma
+WA
+VA
+Richmond
+CA
+San Diego
+Saskatoon
+S K
+An
+Hefei
+h i
+An
+Hefei
+h i
+Pueblo
+CO
+We
+Matieland
+t
+VA
+Wise
+Wise
+VA
+River  Falls
+WI
+USAF Academy CO
+V i l
+Vilnius
+i
+Blacksburg
+VA
+V i r
+Roanoke
+i i
+Roanoke
+VA
+Roanoke
+V a
+Winston Salem NC
+Waverly
+IA
+Chestertown MD
+MO
+Saint  Louis
+NY
+Aurora
+Va lha l la
+NY
+
+Ye
+Ye
+Gerald
+S iy i
+Hongfei
+Hongfei
+Edward
+Kunnan
+Supratik
+M a r i a
+M a r i a
+Ted
+Heath
+Heath
+Muhammad
+Louis
+Louis
+Michael
+Michael
+John
+Kathy
+Jeffrey
+Prof  James
+Dou
+L i
+Bruce
+Jan
+George
+George
+Kathy
+James
+Ricardas
+Catherine
+Ruth
+Steven
+B a r ry
+Miaohua
+Ma r iah
+Eugene
+Hiro
+Thomas
+Sheela
+
+2 4 2
+2 4 3
+6 3 9
+3 7 3
+4 2 7
+4 5 2
+7 3 4
+4 8 2
+5 9 9
+2 9 9
+3 0 0
+3 6 2
+5 0 8
+5 1 7
+4 3 9
+4 0 4
+4 0 5
+6
+3 8 9
+6 6 6
+1 5 9
+5 8 6
+3 1
+4 7 5
+4 9 1
+7 3 6
+6 9 2
+3 9 2
+3 9 3
+1 0 6
+6 4 1
+4 8 7
+4 0 3
+1 9
+6 1 0
+3 8 8
+2 7 2
+4 1 5
+1 8 7
+1 5 1
+3 1 4
+3 6
+
+Moss
+
+Moss
+
+Tomlinson
+
+Jiang
+
+Birgen
+
+Stiadle
+
+Whelan
+
+Wright
+
+Brooke
+
+Hammer
+
+Thomas
+
+Stephens
+
+Sherman
+
+Akerman
+
+Casey
+
+West
+
+Kudzma
+
+Hamilton
+
+Mukai
+
+Dou
+
+Yu
+
+Riegsecker
+
+Hoke
+
+Problem Designation
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+
+Connors
+
+Cox
+
+Lundberg
+
+Van Vuuren
+
+Institution
+Western new England College
+western washington university
+western washington university
+Westminster College
+Westminster College
+Wheaton College (IL)
+Winona State University
+WPI
+Wuhan University of Technology
+Xi'an Jiaotong University
+xi'an jiaotong university
+Xi'an University of Technology
+XiangMing Senior High School
+Youngstown State University
+Zhejiang University
+Zhejiang University
+Zhongshan University
+Zhongshan University
+
+Faires
+
+Faires
+
+ypma
+
+ypma
+
+2002 MATHEMATICAL CONTEST IN MODELING FINAL RESULTS
+Con tro l   #
+C i ty
+Springfield
+bellingham
+bellingham
+New
+Wilmington
+New
+Wilmington
+Wheaton
+Winona
+Worcester
+Wuhan
+Xi 'an
+Xi 'an
+xi  an
+Shanghai
+Youngstown
+Hangzhou
+Hangzhou
+Guangzhou
+Guangzhou
+
+Advisor
+Hanes
+Lorna
+tjalling
+tjalling
+B a rb a r a
+B a rb a r a
+Paul
+B a r ry
+Arthur
+Sijun
+Yicang
+xiang
+cao
+Wang
+Bob
+Yong
+Yong
+Zepeng
+Mengxi
+
+S t a t e
+MA
+w a
+w a
+PA
+PA
+IL
+MN
+MA
+Hu
+b i
+Sha
+i
+Sha
+sha
+Sha
+h
+OH
+Zhe
+ji
+Zhe
+ji
+GD
+Gu
+
+6 4 3
+2 3 4
+2 3 5
+6 5 4
+6 5 5
+5 5
+6 1 1
+7 1 7
+1 9 5
+3 4 6
+7 0 8
+4 2 6
+2 4 1
+4 7 0
+3 8
+3 9
+1 9 1
+2 4 9
+
+Chen
+
+Tang
+
+Peng
+
+Zhou
+
+Isihara
+
+Peratt
+
+Daren
+
+Kramer
+
+He
+
+He
+
+Problem Designation
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+A Successful Participant
+B Successful Participant
+B Successful Participant
+
+Heinricher
+
+wu
+
+maosheng
+
+

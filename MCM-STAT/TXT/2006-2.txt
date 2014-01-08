@@ -1,0 +1,1153 @@
+2006 Interdisciplinary Contest in Modeling 
+Press Release—March 20, 2006 
+
+• 
+• 
+• 
+• 
+
+• 
+• 
+• 
+• 
+ 
+
+ 
+2005 ICM Statistics 
+ 
+
+communication. The author of the problem was Heide Williams  
+Ph.D. student in Economics at Harvard University, who served 
+on the panel of final judges.  The problem originated from her 
+study and research in funding for child vaccinations.  The four 
+outstanding solution papers will be published in The UMAP 
+Journal, along with commentaries from the problem author and 
+judges.  All the members of the 224 competing teams are to be 
+congratulated for their excellent work and enthusiasm for 
+scientific and mathematical modeling and interdisciplinary 
+problem solving.  This year’s judges remarked that despite the 
+challenging problem, the quality of the modeling, analysis, and 
+presentation was extremely high and the award levels reflected 
+this increase in quality. 
+ 
+
+ 
+COMAP is pleased to announce the results of the 8th annual 
+Interdisciplinary Contest in Modeling (ICM). This year, 224 
+teams representing institutions from six countries participated 
+in the contest. 4  teams from the following three institutions 
+were designated as OUTSTANDING WINNERS: 
+  
+Duke University, Durham, NC (2 Teams) INFORMS Prize 
+Harvey Mudd College, Claremont, CA 
+United States Military Academy, West Point, NY 
+ 
+This year’s contest ran from Thursday, February 2 to Monday, 
+February 6, 2006. During that time, teams of up to three 
+undergraduate or high school students researched, analyzed, 
+modeled, and communicated a solution to an open-ended 
+interdisciplinary modeling problem. The 2006 ICM was 
+primarily an online contest, where teams registered, obtained 
+contest materials, and downloaded the problem statement and 
+data at the prescribed time through COMAP’s ICM Website.  
+ 
+This year’s public health problem was particularly challenging.  
+It required teams to understand the science of the HIV virus and 
+understand and model the financial and policy issues associated 
+with controlling the pandemic.  The problem contained issues 
+such as economic, demographic, political, environmental, 
+social, psychological, geographic, and science, had several 
+challenging requirements needing scientific and mathematical 
+modeling and analysis, and also had the ever-present 
+requirements in the ICM to use thorough data analysis, 
+creativity, approximation, precision, and effective 
+ 
+ICM is an extension of COMAP’s Mathematical Contest in Modeling (MCM), which is held during the same weekend.  ICM is 
+designed to develop and advance interdisciplinary problem-solving skills as well as competence in written communication.  The first 
+four interdisciplinary problems involved concepts from environmental science, environmental engineering, biology, chemistry, and/or 
+resource management.  The next three ICM problems involved operations research, information science, environmental science, and 
+interdisciplinary issues in security and safety.  This is the first of the series contest problems involving public health. Each team is 
+expected to have advisors and team members who represent a range of disciplinary interests in applied problem solving and modeling.  
+Next year, the ICM problem will continue to involve modeling in the area of public health. 
+ 
+To obtain additional information about the ICM and to obtain a complete listing of all team designations, please visit the ICM website 
+at:  www.comap.com/undergraduate/contests/icm, or contact COMAP at: icm@comap.com 
+ 
+Major start-up funding for the ICM was provided by COMAP. Additional support is provided by The Institute for Operations 
+Research and the Management Sciences (INFORMS, Two Sigma Investment, and IBM.  COMAP's Mathematical Contest in Modeling 
+and Interdisciplinary Contest in Modeling are unique among modeling competitions in that they are the only international contests in 
+which students work in teams to find a solution. Centering its educational philosophy on mathematical modeling, COMAP uses 
+mathematical tools to explore real-world problems. It serves the educational community as well as the world of work by preparing 
+students to become better informed—and prepared—citizens, consumers, workers, and community leaders. 
+ 
+
+224 teams participated  
+3 high school teams (%) 
+26 U.S. Teams (13%)  
+198 Foreign Teams (87%) from Ireland, Finland, Indonesia, 
+Hong Kong, and P.R. China.  
+4 Outstanding Winners (2%)  
+48 Meritorious Winners (21%)  
+113 Honorable Mentions (51%)  
+59 Successful Participants (26%)  
+
+ 
+Administered by 
+The Consortium for Mathematics 
+and Its Applications 
+
+ 
+Contest Directors 
+Chris Arney, U. S. Army Research Office, NC 
+Gary Krahn, United States Military Academy, NY 
+Executive Director 
+Solomon A. Garfunkel, COMAP, Inc., MA 
+ 
+ 
+
+ 
+
+Associate Directors 
+Richard Cassady, University of Arkansas 
+Joseph Myers, United States Military Academy, NY 
+
+ 
+
+2006
+
+ICM Contest Results
+
+Institution
+Control #
+605 United States Military Academy
+787 Duke University
+788 Duke University
+822 Harvey Mudd College
+
+35 Fudan University
+45 Harbin Institute of Technology Science Faculty
+81 Science College,Southeast  University
+86 Zhejiang University
+88 Zhejaing University
+89 Zhejaing University
+113 Nanjing University of Posts and
+118 Nanjing University of Posts and
+157  School of Mathematics and System Sciences
+178 Shandong University at Weihai
+188 East China University of Science and Technology
+189 School of Science, East China University of
+208 Tsinghua University
+212 Tsinghua University
+218 BEIHANG UNIVERSITY
+232 Shandong University
+264 Institute of University Students' Innovation
+269 Xidian University
+271 Xidian University
+306 Nonlinear Science Center
+322 Beijing Jiao Tong University
+339 School of Science,Beijing Jiao Tong University
+347 School of Computer and Information
+397 Zhejiang University City College
+437 Central University of Finance and Economics
+450 Beijing University of Posts and
+467 Jinan University
+468 Jinan University
+493 Beijing University of Chemical Technology
+497 Science College, National University of Defense
+
+Advisor
+
+Randal  Hickman
+David Kraines
+David Kraines
+Lisette dePillis
+
+Zhijie Cai
+Jiao Guanghong
+He Dan
+Zhiyi Tan
+Jiaer Fei
+Jiaer Fei
+Zhonghua Qiu
+Ming He
+Shuxiang Huang
+Zhulou Cao
+Zhongxin Ni
+Xiwen Lu
+Mei Lu
+Jinxing Xie
+liu hongying
+Shuxiang Huang
+Donghai Fu
+Shuisheng Zhou
+Xiaogang Qi
+Tao Zhou
+Guiting Li
+Shangli Zhang
+Bingli Fan
+Gui Wang
+Donghong Li
+Jianhua Yuan
+Daiqiang Hu
+Suohai Fan
+Yan Cheng
+Ziyang Mao
+1
+Page
+
+Designation
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+
+INFORMS Award
+
+Problem
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+2006
+
+ICM Contest Results
+
+Institution
+Control #
+511 School of Humanity and Management, National
+523 Hangzhou Dianzi University
+579 Harbin Engineering University
+584 harbin engineering university
+596 Sun Yat_sen University
+730 University of Colorado
+735 Peking University Health Science Center
+736 China University of Mining and Technology
+741 Chongqing University
+750 Chongqing University
+798 Dalian University
+828 Duke University
+842 University of Colorado at Colorado Springs
+867 University College Cork
+895 Carroll College
+896 Maggie L. Walker Governor's School
+897 Maggie L. Walker Governor's School
+936 Beijing University of Posts and
+
+6
+Tsinghua University
+11 School of Phys. and MEE,Xiamen University
+18 Southeast  University
+27 Ningbo Institute of Technology, Zhejiang
+28 Ningbo Institute of Technology, Zhejiang
+30 Ningbo Institute of Technology, Zhejiang
+37 Harbin Institute of Technology
+40 Harbin Institute of Technology
+43 Harbin Institute of Technology Science Faculty
+65 Science College,Southeast  University
+66 Shandong University
+73 Peking Univeristy
+95 Northwestern Polytechnical University
+107 Harbin Institute of Technology
+111 Harbin Institute of Technology
+116 Nanjing University of Posts and
+
+Advisor
+
+Mengda Wu
+Hao Shen
+Yuesheng Luo
+zhaobing fan
+ZePeng Chen
+Anne Dougherty
+Zhang Xia
+Zhou Shengwu
+Qu Gong
+Zhiliang Li
+Xinxin Tan
+William Allard
+Radu Cascaval
+Ben McKay
+Holly Zullo
+John Barnes
+John Barnes
+Zuguo He
+
+ChongEn Bai
+Chenxu Wu
+wang feng
+Zhening Li
+Jufeng Wang
+Lihui Tu
+Shouting Shang
+Ge Hong
+Zhang Chiping
+He Dan
+Junfeng Luan
+Minghua Deng
+Xiao Huayong
+Shang Shouting
+Zheng Tong
+LiWei Xu
+2
+Page
+
+Designation
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+2006
+
+ICM Contest Results
+
+Institution
+Control #
+125 Economics and Management College of Dalian
+127 Dalian Maritime University
+128 Huazhong University of Science and Technology
+130 Computer Science and Technology College of
+165 University of Electronic Science and Technology of
+167 University of Electronic Science and Technology of
+191 Northwestern Polytechnical University
+195 Shandong University
+198 Shandong University
+209 Tsinghua University
+210 School of Mathematical Sciences, Peking
+216 Peking University
+217 Peking University
+233 Hebei University of Technology
+249 Institute of University Students' Innovation
+251 Institute of Uiversity Students' Innovation
+254 Dalian University of Technology
+287 Xi'an Jiaotong University
+288 Xi'an Jiaotong University
+297 Dalian Nationalities University
+302 Dalian Nationalities Innovation College
+303 Dalian Nationalities Innovation College
+308 Beijing Language and Culture University
+309 Beijing Language and Culture University
+321 Beijing Jiao Tong University
+323 Beijing Jiao Tong University
+326 University of Science and Technology of China
+359 Zhejiang Sci-Tech University
+365 Jilin University
+372 University of Science and Technology of China
+375 School of Mathematics and System
+388 China University of Geosciences (Beijing)
+389 Nankai University
+393 Zhejiang University City College
+
+Advisor
+
+Yun Zhang
+Yunjie Zhang
+Liang Gao
+Shuqin Yang
+Du Hongfei
+Zhang Yong
+Xiao Huayong
+Guohua Fu
+Baodong Liu
+Mei Lu
+Lan Wu
+Yulong Liu
+Liangzhu Mu
+Changqing Xu
+Qiuhui Pan
+Yuxing Li
+Wanji Dai
+Shibin Fu
+Shibin Fu
+Hengbo Zhang
+Jie Fu
+Jie Fu
+Guilong Liu
+Guilong Liu
+Xiaoxia Wang
+Guiting Li
+Fu LI
+Guosheng Shi
+Xianrui Lv
+Manjun Zhang
+Baodong Liu
+Zhaodou Chen
+Wenhua Hou
+Xusheng Kang
+
+Page
+
+3
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+2006
+
+ICM Contest Results
+
+Institution
+Control #
+396 North China Eletric Power University
+399 Zhejiang University City College
+400 China University of Geosciences (Beijing)
+404 School of Science, Beijing University of Posts and
+410 Computer Science and Technology, Shandong
+422 Donghua University
+424 Donghua University
+425 Jilin University
+427 Jilin University
+429 School of Communication Engineering ,Jilin
+433 Harbin University of Science and Technology
+435 Harbin University of Science and Technology
+439 Central University of Finance and Economics
+441 Central University of Finance and Economics
+448 Beijing University of Posts and
+474 Jinan University
+475 Shandong University
+494 Beijing University of Chemical Technology
+509 School of Humanity and Management, National
+515 Xiamen University
+516 Xiamen University
+524 Hangzhou Dianzi University
+525 Hangzhou Dianzi University
+537 Zhejiang University of Technology
+538 Zhejiang University of Technology
+539 Zhejiang University of Technology
+540 Northeast Agricultural University
+542 Northeast Agricultural University
+543 Xiamen  university
+569  Hefei University of Technology
+578  Hefei University of Technology
+593 Sun Yat_sen University
+620 Hunan University
+622 Hunan University
+
+Advisor
+
+Hongshan Zhao
+Huizeng Zhang
+Zhaodou Chen
+Zuguo He
+Xiaoxia Rong
+Yong Li
+Yufang Ma
+Chunling Cao
+Chunling Cao
+Xiuling Yao
+Dongmei Li
+Shuzhong Wang
+Xiaoming Fan
+Xianjun Yin
+Wenbo Zhang
+Shizhuang Luo
+Haodi Feng
+Xinhua Jiang
+Xiaojun Duan
+Shengrui Wang
+Shengrui Wang
+Hao Shen
+Chengjia Li
+Xuejun Wu
+Xuejun Wu
+Wenxin Zhuo
+Fangge Li
+Fangge Li
+Songyue Liu
+Youdu Huang
+Xueqiao Du
+ZhuJun Fan
+Huahui Yan
+Xiaopei Li
+
+Page
+
+4
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+2006
+
+ICM Contest Results
+
+Institution
+Control #
+635 Nanjing Univ. of Sci. & Tech.
+639 Nanjing Univ. of Sci. & Tech.
+646 Zhejiang Gongshang University
+647 Zhejiang Gongshang University
+654 Minhang Branch of Shanghai Jiaotong University
+655 Minhang Branch of Shanghai Jiaotong University
+682 School of Science,Beijing Institute of Technology
+685 Beijing Institute of Technology
+688 South China University of Technology
+694 School of Science,Beijing Institute of Technology
+712 Tianjin University
+748 Xuzhou Institute of Technology
+749 Chongqing University
+759 China University of Mining and Technology
+790 James Madison University
+810 Franklin W. Olin College of Engineering
+821 Harvey Mudd College
+852 Dalian University
+853 Dalian University
+889 Carroll College
+901 Maggie L. Walker Governor's School
+905 Villa Julie College
+907 Youngstown State University
+908 Youngstown State University
+909 Youngstown State University
+932 Institut teknologi bandung
+942 Shenyang Institute of Aeronautical
+974 Asbury College
+988 James Madison University
+
+15 Southeast  University
+36 Fudan University
+42 Harbin Institute of Technology
+97 Northwestern Polytechnical University
+131 Computer Science and Technology College of
+
+Advisor
+
+Zhengjun Zhang
+Zhengyou Huang
+Zhu Ling
+Zhu Ling
+Liuqing Xiao
+Liuqing Xiao
+Huafei Sun
+Bingzhao Li
+Tao Zhi Sui
+Yuan Li
+Guoliang Shi
+Jiang Yingzi
+Zhiliang Li
+Zhu Kaiyong
+Hasan Hamdan
+Burt Tilley
+Lisette dePillis
+Xiangyu Dong
+Lianshan Shen
+Kelly Cline
+John Barnes
+Eileen McGraw
+George Yates
+George Yates
+Jay Kerns
+Edy Soewono
+Zhu Limei
+Kenneth Rietz
+David Walton
+
+wang feng
+Yuan Cao
+Liu Kean
+Lv Quanyi
+Shuqin Yang
+5
+Page
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+
+2006
+
+ICM Contest Results
+
+Institution
+Control #
+133 Dalian Maritime University
+164 University of Electronic Science and Technology of
+168 BeiHang Univ.(BHU)
+187 East China University of Science and Technology
+190 School of Science, East China University of
+228 Anhui University
+241 Anhui University
+248 Institute of University Students' Innovation
+250 Institute of Uiversity Students' Innovation
+267 Xidian University
+281 China University of Geosciences
+289 Xi'an Jiaotong University
+291 Beijing University of Technology
+294 Dalian Nationalities University
+296 Dalian Nationalities Innovation College
+299 Dalian Nationalities University
+316 Beijing Language and Culture University
+331 South-China Normal University
+332 South-China Normal University
+336 University of Science and Technology of China
+337 School of Science,Beijing Jiao Tong University
+338 School of Science,Beijing Jiao Tong University
+341 School of Electronics and Information
+343 School of Electronics and Information
+344 School of Electronics and Information
+348 School of Computer and Information
+350 School of Computer and Information
+355 Guizhou University for Nationalities
+423 Donghua University
+431 Harbin University of Science and Technology
+445 School of Science,Beijing University of Posts and
+457 School of Chemistry USTC
+492 Beijing University of Chemical Technology
+563  Hefei University of Technology
+
+Advisor
+
+Guoyan Chen
+Du Hongfei
+Sun HaiYan
+Xiyuan Qian
+Xiwen Lu
+Huayou Chen
+Ligang Zhou
+Qiuhui Pan
+Yuxing Li
+Xuewen Mu
+Xunye Zheng
+Yicang Zhou
+En Guo
+Xiangdong Liu
+Qiang Guo
+Rendong Ge
+Rou Song
+Liu xiuxiang
+Liu xiuxiang
+Yanjun Liu
+Guochen Feng
+Guochen Feng
+Bingtuan Wang
+Bingtuan Wang
+Jiaxin Yu
+Pengjian Shang
+Pengjian Shang
+Yingfu Tian
+Mingyou Ying
+Dongyan Chen
+Jinkou Ding
+Fu LI
+Wenyan Yuan
+Huaming Su
+
+Page
+
+6
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+2006
+
+ICM Contest Results
+
+Institution
+Control #
+572 Hong Kong Baptist University
+591 Inner Mongolia University
+595 Sun Yat-sen University
+616 Hunan University
+637 Nanjing Univ. of Sci. & Tech.
+648 Zhejiang Gongshang University
+692 South China University of Technology
+696 South China University of Technology
+714 Tianjin University
+733 Peking University Health Science Center
+734 Peking University Health Science Center
+793 Longwood University
+823 Harvey Mudd College
+846 California State University at Monterey Bay
+855 Institution of Information and Engineering , Dalian
+886 Carroll College
+935 Institut Teknologi Bandung
+940 Shenyang Institute of Aeronautical
+963 Helsingin matematiikkalukio
+972 Asbury College
+
+Advisor
+
+M. L. Tang
+hai han
+Qi-Ru Wang
+Han Luo
+Chungen Xu
+Zhao Heng
+Liu Xiao Lan
+Pan Shao Hua
+Zhenghai Huang
+Zhang Xia
+Zhang Xia
+M. Leigh Lunsford
+Darryl Yong
+Hongde Hu
+Zixin Liu
+Kelly Cline
+Kuntjoro Sidarto
+Shan Feng
+Juho Pakarinen
+Kenneth Rietz
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+
+Page
+
+7
+
+

@@ -1,0 +1,3522 @@
+2003 Mathematical/Interdisciplinary Contest in Modeling Press Release—March 18, 2003 
+ 
+ICM Problem C: 
+Asked teams to develop a model showing the required 
+number of Explosive Detection Systems at two large 
+airports to scan checked bags based on cost and 
+utilization, along with many other factors at each airport. 
+ 
+ 
+
+ 
+ 
+2003 MCM/ICM Statistics 
+ 
+679 teams registered  and 638 participated (94%) 
+305 U.S. Teams (48%) from 165 institutions 
+333 Foreign Teams (52%) from  Australia, Canada, Finland, 
+Hong Kong, Ireland, Lithuania, P.R. China, and South 
+Africa 
+267 Problem A MCM entries (42%) 
+225 Problem B MCM entries (35%) 
+146 Problem C ICM entries (23%) 
+16 Outstanding Winners (3%) – 6 A , 5 B, 5 ICM 
+89 Meritorious Winners (14%) – 36 A, 34 B, 19 ICM 
+213 Honorable Mentions (33%) – 97 A, 56 B, 60 ICM 
+320 Successful Participants (50%) – 128 A, 130 B, 62 ICM 
+  609 four-year institutions (95%) 
+9 two-year institutions (2%) 
+20 high schools (3%) 
+
+ 
+COMAP is pleased to announce the results of the 19th annual 
+Mathematical Contest in Modeling (MCM) and the 5th annual 
+Interdisciplinary Contest in Modeling (ICM). This year 638 
+teams representing 265 institutions from nine countries 
+participated in the contest. The following institutions had teams 
+designated as this year’s Outstanding Winners: California 
+Institute of Technology, Carroll College, Dong Hua 
+University, Harvard University, Harvey Mudd College(2), 
+Humboldt State University, Peking University, Southeast 
+University, United States Military Academy, University of 
+Colorado at Boulder, University Washington(2), Wake 
+Forest, Youngstown State University, and Zhejiang 
+University 
+ 
+The 2003 MCM/ICM began at 8:01 p.m. on Thursday, February 
+6 and officially ended at 8:00 p.m. on Monday, February 10, 
+2003. During that time, teams of up to three undergraduates 
+were to research and submit an optimal solution for one of three 
+open-ended modeling problems. 
+ 
+MCM Problem A: 
+Teams were asked to determine the size, location, and 
+number of cardboard boxes needed to cushion a stunt 
+person’s fall using different combined weights 
+(stuntperson & motorcycle) and different jump heights. 
+ 
+MCM Problem B: 
+Dealt with the use of a Gamma Knife in the treatment of 
+tumor cells in brain tissue. Teams were asked to design a 
+model to provide the fewest and most direct doses in 
+order to treat the tumor without going outside the target 
+tumor itself. 
+ 
+ 
+Major  funding  for  the  MCM/ICM  is  provided  by  a  grant  from  the  National  Security  Agency,  National  Science  Foundation,  and 
+COMAP.  Additional  support  is  provided  by  The  Institute  for  Operations  Research  and  Industrial  and  Applied  Mathematics 
+(INFORMS),  the  Society  for  Industrial  and  Applied  Mathematics  (SIAM),  and  the  Mathematical  Association  of  America  (MAA). 
+COMAP's  Mathematical  Contest  in  Modeling  is  unique  among  modeling  competitions  in  that  it  is  the  only  international  contest  in 
+which  students  work  in  teams  to  find  a  solution.  Centering  its  educational  philosophy  on  mathematical  modeling,  COMAP  uses 
+mathematical  tools  to  explore  real-world  problems.  It  serves  the  educational  community  as  well  as  the  world  of  work  by  preparing 
+students to become better informed—and prepared—citizens. 
+ 
+ 
+Contest Directors 
+Chris Arney, The College of St. Rose  
+Frank R. Giordano, COMAP, Inc., MA 
+John H. Grubbs, Tulane University, LA 
+Associate Directors 
+Bob Borrelli, Harvey Mudd College, CA 
+ 
+Bill Fox, Francis Marion University, SC 
+ 
+Patrick Driscoll, U.S. Military Academy, NY 
+Michael Kelley, U.S. Military Academy, NY 
+Gary W. Krahn, U.S. Military Academy, NY 
+Founding Director 
+Bernard Fusaro, Florida State University, FL 
+
+ 
+ 
+Executive Director 
+Solomon A. Garfunkel, COMAP, Inc., MA  
+Advisory Board 
+Courtney Coleman, Harvey Mudd College, CA 
+Patrick Driscoll, U.S. Military Academy, NY 
+Marvin S. Keener, Oklahoma State University, OK 
+Ben Fusaro, Florida State University, FL  
+Veena Mendiratta, AT&T Bell Labs, IL,  
+Larry Wargo, National Security Agency, MD 
+Maynard Thompson, Indiana University, IN 
+Maria Vanisko, Carroll College, MT 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Major funding provided by 
+The National Security Agency and 
+The National Science Foundation 
+
+      
+
+ 
+
+Administered by 
+The Consortium for Mathematics 
+and Its Applications 
+
+ 
+
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+•
+ 
+Control #
+
+Institution
+
+State
+
+Country
+
+Problem Selected
+
+235
+25
+177
+
+Humboldt State University
+University of Washington
+Zhejiang University
+
+Outstanding Winner INFORMS
+CA
+WA
+Zhejiang
+
+24
+611
+
+University of Washington
+Youngstown State University
+
+526
+457
+
+California Institute of Technology
+University of Colorado at Boulder
+
+Outstanding Winner -  MAA
+WA
+OH
+
+Outstanding Winner - SIAM
+CA
+CO
+
+Outstanding Winner
+
+480
+179
+192
+576
+582
+169
+239
+439
+465
+
+672
+673
+134
+75
+265
+266
+359
+522
+523
+188
+116
+346
+579
+562
+385
+387
+591
+
+Carroll College
+Dong Hua University
+Harvard University
+Harvey Mudd College
+Harvey Mudd College
+Peking University, School of Mathematical Sciences
+Southeast University
+United States Military Academy
+Wake Forest University
+
+Meritorious
+
+Asbury College
+Asbury College
+Beijing Northern Jiaotong University
+Beijing University of Posts and Telecommunications
+Bethel College
+Bethel College
+Boston University
+California Polytechnic State University, San Luis Obispo
+California Polytechnic State University, San Luis Obispo
+Central Washington University
+Chongqing University
+City Univ of Hong Kong
+Dalhousie University
+Duke University
+Earlham College
+Earlham College
+Elon University
+
+MT
+Shanghai
+MA
+CA
+CA
+
+NY
+NC
+
+KY
+KY
+
+MN
+MN
+MA
+CA
+CA
+WA
+
+Nova Scotia
+NC
+IN
+IN
+NC
+
+USA
+USA
+P.R.China
+
+USA
+USA
+
+USA
+USA
+
+USA
+P.R.China
+USA
+USA
+USA
+P.R.China
+P.R.China
+USA
+USA
+
+USA
+USA
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+Canada
+USA
+USA
+USA
+USA
+
+C
+B
+A
+
+A
+B
+
+A
+B
+
+C
+B
+A
+A
+C
+B
+A
+C
+C
+
+A
+C
+C
+C
+B
+B
+B
+A
+B
+A
+C
+A
+B
+A
+A
+A
+C
+
+Control #
+366
+131
+572
+580
+581
+583
+64
+650
+335
+420
+565
+432
+461
+597
+606
+668
+466
+144
+204
+483
+36
+475
+136
+536
+614
+100
+501
+424
+302
+305
+378
+322
+500
+356
+193
+16
+339
+398
+513
+558
+278
+284
+588
+436
+456
+
+Institution
+Hangzhou University of Commerce
+Harbin Institute of Technology
+Harvey Mudd College
+Harvey Mudd College
+Harvey Mudd College
+Harvey Mudd College
+Hong Kong Baptist University
+James Madison University
+Jinan University
+Kansas State University
+Kenyon College
+Lawrence Technological University
+Luther College
+Maggie Walker Governor’s School
+Maggie Walker Governor’s School
+Massachusetts Institute of Technology
+Mesa State College
+Messiah College
+N C School of Science and Mathematics
+National University of Defence Technology
+Northwestern Polytechnical University
+Olin College of Engineering
+Peking University, School of Mathematical Sciences
+Rensselaer Polytechnic Institute
+Rose-Hulman Institute of Technology
+Rowan University
+Saint Louis University
+Science Institution of Northeastern University
+Shanghai Jiaotong University
+Shanghai Jiaotong University
+Simpson College
+South China University of Technology
+Southeast Missouri State University
+Southeastern Oklahoma State University
+Southern Oregon University
+State University of West Georgia
+Tianjin University
+Tri-State University
+Trinity University
+Trinity University
+Truman State University
+Tsinghua University
+United States Air Force Academy
+United States Military Academy
+United States Military Academy
+
+State
+Zhejiang
+Heilongjiang
+CA
+CA
+CA
+CA
+
+VA
+Guangdong
+KS
+OH
+MI
+IA
+VA
+VA
+MA
+CO
+PA
+NC
+Hunan
+Shaanxi
+MA
+
+NY
+IN
+NJ
+MO
+Liaoning
+Shanghai
+Shanghai
+IA
+Guangdong
+MO
+OK
+OR
+GA
+TJ
+IN
+TX
+TX
+MO
+
+CO
+NY
+NY
+
+Country
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+Hong Kong
+USA
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+USA
+P.R.China
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+USA
+P.R.China
+USA
+USA
+USA
+USA
+P.R.China
+USA
+USA
+USA
+USA
+P.R.China
+USA
+USA
+USA
+
+Problem Selected
+B
+C
+B
+A
+A
+C
+B
+A
+C
+A
+B
+B
+A
+A
+C
+A
+A
+A
+A
+A
+B
+C
+C
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
+A
+B
+A
+C
+B
+A
+B
+A
+A
+C
+
+Control #
+548
+491
+496
+215
+225
+472
+675
+455
+379
+530
+469
+191
+665
+671
+674
+310
+312
+434
+463
+413
+656
+555
+163
+293
+294
+560
+174
+
+Institution
+United States Military Academy
+University College Cork
+University College Cork
+University College Dublin
+University College Dublin
+University of Alaska Fairbanks
+University of Arizona
+University of Colorado at Boulder
+University of Delaware
+University of New South Wales
+University of Puget Sound
+University of Richmond
+University of San Diego
+University of Saskatchewan
+University of Saskatchewan
+University of Science and Technology of China
+University of Science and Technology of China
+University of Virginia
+Wake Forest University
+Washington University
+Westminster College
+Worcester Polytechnic Institute
+Wuhan University of Technology
+Xidian University
+Xidian University
+York University
+Zhejiang University
+
+Honorable Mention
+
+69
+349
+403
+676
+679
+622
+451
+520
+189
+190
+155
+159
+319
+267
+268
+
+Anhui University
+Appalachian State University
+Arkansas School for Math & Sciences
+Asbury College
+Asbury College
+Austin Peay State University
+Baylor University
+Baylor University
+BeiHang University
+BeiHang University
+Beijing Institute of Technology
+Beijing Institute of Technology
+Beijing Northern Jiaotong University
+Beijing University of Chemical Technology
+Beijing University of Chemical Technology
+
+State
+NY
+
+Dublin
+Dublin
+AK
+AZ
+CO
+DE
+NSW
+WA
+VA
+CA
+SK
+SK
+Anhui
+AnHui
+VA
+NC
+MO
+PA
+MA
+Hubei
+Shaanxi
+Shaanxi
+Ontario
+Zhejiang
+
+Anhui
+NC
+AR
+KY
+KY
+TN
+TX
+TX
+
+Beijing
+Beijing
+Beijing
+
+Beijing
+Beijing
+
+Country
+USA
+Ireland
+ Ireland
+Ireland
+Ireland
+USA
+USA
+USA
+USA
+Australia
+USA
+USA
+USA
+Canada
+Canada
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+Canada
+P.R.China
+
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+
+Problem Selected
+C
+A
+A
+B
+C
+A
+B
+B
+B
+A
+A
+B
+A
+B
+B
+C
+A
+C
+C
+B
+B
+A
+B
+B
+A
+A
+C
+
+B
+C
+A
+C
+C
+A
+A
+A
+C
+A
+C
+C
+B
+A
+C
+
+Control #
+271
+71
+72
+73
+74
+76
+375
+60
+62
+430
+459
+505
+358
+592
+418
+444
+477
+478
+479
+207
+211
+212
+313
+264
+152
+161
+162
+171
+187
+48
+228
+540
+13
+14
+481
+97
+98
+99
+297
+638
+639
+181
+182
+328
+362
+
+Institution
+Beijing University of Chemical Technology
+Beijing University of Posts and Telecommunications
+Beijing University of Posts and Telecommunications
+Beijing University of Posts and Telecommunications
+Beijing University of Posts and Telecommunications
+Beijing University of Posts and Telecommunications
+Beijing University of Technology(original name:Beijing Polytechnic
+U i
+it )
+Bellarmine University
+Bellarmine University
+Bemidji State University
+Bemidji State University
+Boise State University
+Boston University
+California State University at Monterey Bay
+California State University, Bakersfield
+California State University, Northridge
+Carroll College
+Carroll College
+Carroll College
+Central South University
+Central South University
+Central South University
+Chesterfield County Mathematics and Science High School
+China University of Mining and Technology
+Chongqing University
+Chongqing University
+Chongqing University
+Chongqing University
+Chongqing University
+Colby College
+College of Saint Benedict/Saint John’s University
+Colorado College
+Concordia college
+Concordia college
+Cornell University
+Dalian Univ of Tech
+Dalian Univ of Tech
+Dalian Univ of Tech
+Dalian University
+Davidson College
+Davidson College
+Dong Hua University
+Dong Hua University
+Dulwich College
+Earlham College
+
+State
+Beijing
+
+KY
+KY
+MN
+MN
+ID
+MA
+CA
+CA
+CA
+MT
+MT
+MT
+Hunan
+Hunan
+Hunan
+VA
+Jiangsu
+
+ME
+MN
+CO
+ny
+ny
+NY
+
+Liaoning
+NC
+NC
+Shanghai
+Shanghai
+
+IN
+
+Country
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+Dalian
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+United Kingdom
+USA
+
+Problem Selected
+C
+B
+C
+A
+C
+B
+A
+A
+C
+B
+C
+A
+A
+A
+A
+A
+C
+A
+C
+B
+C
+B
+A
+C
+C
+B
+C
+B
+B
+A
+A
+A
+C
+C
+A
+C
+C
+C
+B
+B
+A
+B
+B
+C
+B
+
+Control #
+113
+624
+678
+445
+593
+447
+504
+83
+86
+437
+438
+15
+460
+18
+388
+519
+315
+370
+371
+372
+121
+128
+145
+146
+584
+510
+511
+307
+143
+502
+51
+318
+365
+544
+545
+632
+547
+609
+659
+599
+336
+627
+628
+433
+508
+
+Institution
+East China University of Science and Technology
+Eastern Oregon University
+Eastern Oregon University
+Edgewood College
+Elon University
+Embry-Riddle Aeronautical University
+Florida Gulf Coast University
+Fudan University
+Fudan University
+Georgia Southern University
+Georgia Southern University
+Gettysburg College
+Goshen College
+Goucher College
+Greenville College
+Grinnell College
+Gustavus Adolphus College
+Hangzhou University of Commerce
+Hangzhou University of Commerce
+Hangzhou University of Commerce
+Harbin Engineering University
+Harbin Institute of Technology
+Harbin University of Science and Technology
+Harbin University of Science and Technology
+Harvey Mudd College
+Hastings College
+Hastings College
+Hefei University of Technology
+Hillsdale College
+Hobart and William Smith Colleges
+Huazhong University of Science & Technology
+Huazhong University of Science & Technology
+Information Science & Eng Inst of Northeastern University
+Institut Teknologi Bandung
+Institut Teknologi Bandung
+Institut Teknologi Bandung
+Institute of Theoretical Physics
+Jacksonville University
+Jacksonville University
+James Madison University
+Jinan University
+Lafayette College
+Lafayette College
+Lawrence Technological University
+Lewis and Clark College
+
+State
+
+OR
+OR
+WI
+NC
+FL
+FL
+Shanghai
+Shanghai
+GA,
+GA,
+PA
+IN
+MD
+IL
+IA
+MN
+Zhejiang
+Zhejiang
+Zhejiang
+Heilongjiang
+P
+i
+Heilongjiang
+Heilongjiang
+Heilongjiang
+CA
+NE
+NE
+Anhui
+MI
+NY
+
+Liaoning
+
+Jawa Barat
+Jabar
+Beijing
+FL
+FL
+VA
+Guangdong
+PA
+PA
+MI
+OR
+
+Country
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+Indonesia
+Indonesia
+Indonesia
+P.R.China
+USA
+USA
+USA
+P.R.China
+USA
+USA
+USA
+USA
+
+Problem Selected
+A
+A
+C
+A
+B
+A
+B
+B
+C
+A
+A
+A
+A
+A
+A
+B
+A
+C
+C
+C
+C
+A
+A
+C
+C
+A
+A
+A
+A
+A
+B
+B
+B
+B
+A
+C
+A
+A
+A
+A
+B
+A
+C
+A
+A
+
+Control #
+509
+575
+440
+449
+462
+489
+607
+660
+423
+428
+651
+383
+331
+282
+220
+533
+140
+105
+495
+557
+34
+37
+39
+314
+476
+245
+246
+549
+137
+661
+333
+537
+78
+23
+499
+88
+647
+238
+425
+206
+303
+391
+539
+202
+377
+
+Institution
+Lewis and Clark College
+Lewis and Clark College
+Loyola College
+Loyola College
+Luther College
+Macalester College
+Maggie Walker Governor\’s School
+Mathematical High School Of Helsinki
+Mechanic Institution of Northeastern University
+Mechanic Institution of Northeastern University
+Monta Vista High School
+Mount St. Mary’s College
+Mount Vernon Nazarene University
+Nanchang University
+Nanjing Univ of Sci. & Tech.
+National University of Defence Technology
+Nazareth College
+Northern Jiaotong University
+Northern Kentucky University
+Northern Kentucky University
+Northwestern Polytechnical University
+Northwestern Polytechnical University
+Northwestern Polytechnical University
+Ohio Wesleyan University
+Olin College of Engineering
+Pacific Lutheran Uinversity
+Pacific Lutheran Uinversity
+Paivola College
+Peking University, School of Mathematical Sciences
+Randolph-Macon College
+Regis University
+Rensselaer Polytechnic Institute
+Roanoke College
+Sacred Heart University
+Saint Louis University
+Saint Mary’s College
+Salisbury University
+School of Mathematics & Comp Science of HeBei University
+Science Institution of Northeastern University
+Shanghai Foreign Language School
+Shanghai Jiaotong University
+Shanghai Jiaotong University
+Shanghai Normal University
+Siena Heights University
+Simpson College
+
+State
+OR
+OR
+MD
+MD
+IA
+MN
+VA
+ESL
+Liaoning
+Liaoning
+CA
+MD
+OH
+Jiangxi
+Jiangsu
+Hunan
+NY
+
+KY
+KY
+Shaanxi
+Shaanxi
+Shaanxi
+OH
+MA
+WA
+WA
+
+VA
+CO
+NY
+VA
+CT
+MO
+IN
+MD
+Hebei Province
+Liaoning
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+MI
+IA
+
+Country
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Finland
+P.R.China
+P.R.China
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+USA
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+Finland
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+
+Problem Selected
+B
+C
+A
+A
+A
+A
+C
+A
+B
+A
+A
+A
+A
+B
+C
+B
+A
+A
+B
+C
+C
+C
+A
+C
+A
+A
+A
+A
+C
+A
+C
+B
+B
+A
+A
+A
+A
+B
+B
+B
+B
+C
+B
+A
+A
+
+Control #
+325
+326
+17
+139
+244
+521
+151
+200
+343
+344
+412
+279
+150
+286
+287
+288
+402
+493
+442
+550
+468
+381
+45
+46
+89
+529
+524
+574
+308
+311
+26
+677
+601
+107
+108
+249
+250
+514
+595
+399
+400
+401
+669
+194
+195
+
+Institution
+South China University of Technology
+South China University of Technology
+South Dakota School of Mines and Technology
+South-China Normal University
+Southeast University
+Southwestern University
+St. Norbert College
+Tianjin Polytechnic University
+Tianjin University
+Tianjin University
+Towson University
+Truman State University
+Tsinghua University
+Tsinghua University
+Tsinghua University
+Tsinghua University
+United States Military Academy
+University College Cork
+University College Dublin
+University College Dublin
+University of Colorado
+University of Delaware
+University of Electronic Science and Technology
+University of Electronic Science and Technology
+University of Massachusetts Lowell
+University of New South Wales
+University of Pittsburgh
+University of Puget Sound
+University of Science and Technology of China
+University of Science & Technology of China
+University of Stellenbosch
+University of Utah
+University of Western Ontario
+University of Wisconsin--River Falls
+University of Wisconsin--River Falls
+Virginia Western
+Virginia Western
+Wartburg College
+Washington University
+Western Washington University
+Western Washington University
+Western Washington University
+Westminster College
+Wuhan University
+Wuhan University
+
+State
+Guangdong
+Guangdong
+SD
+Guangdong
+Jiangsu
+P
+i
+TX
+WI
+Tianjin
+TJ
+TJ
+MD
+MO
+
+NY
+-
+Dublin
+Dublin
+CO
+DE
+Sichuan
+Sichuan
+MA
+NSW
+PA
+WA
+AnHui
+Anhui
+Western Cape
+UT
+Ontario
+WI
+WI
+VA
+VA
+IA
+MO
+WA
+WA
+WA
+PA
+Hubei
+Hubei
+
+Country
+P.R.China
+P.R.China
+USA
+P.R.China
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+ Ireland
+Ireland
+Ireland
+USA
+USA
+P.R.China
+P.R.China
+USA
+Australia
+USA
+USA
+P.R.China
+P.R.China
+South Africa
+USA
+Canada
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+
+Problem Selected
+C
+C
+B
+A
+C
+B
+A
+B
+C
+C
+A
+A
+B
+A
+C
+C
+A
+A
+A
+B
+C
+A
+C
+C
+B
+B
+B
+A
+B
+C
+A
+C
+A
+A
+A
+A
+A
+A
+B
+A
+A
+A
+A
+A
+A
+
+Control #
+197
+198
+274
+230
+232
+233
+292
+295
+256
+561
+615
+619
+620
+175
+176
+178
+56
+50
+
+Institution
+Wuhan University
+Wuhan University
+Wuhan University of Technology
+Xavier University
+Xi\’an Jiaotong University
+Xi\’an Jiaotong University
+Xidian University
+Xidian University
+Xuzhou Institute of Technology
+York University
+Youngstown State University
+Youngstown State University
+Youngstown State University
+Zhejiang University
+Zhejiang University
+Zhejiang University
+Zhongshan(Sun Yat-sen) University
+Zhongshan University
+
+State
+Hubei
+Hubei
+Hubei
+OH
+
+Shaanxi
+Shaanxi
+Jiangsu
+Ontario
+OH
+OH
+OH
+Zhejiang
+Zhejiang
+Zhejiang
+Guangdong
+P
+i
+Guangdong
+
+Country
+P.R.China
+P.R.China
+P.R.China
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+Canada
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+
+Problem Selected
+B
+B
+C
+A
+B
+B
+B
+A
+B
+B
+A
+C
+A
+B
+C
+B
+C
+B
+
+Successful Participant
+
+66
+67
+68
+348
+458
+135
+670
+360
+590
+153
+154
+156
+157
+158
+291
+269
+270
+272
+273
+77
+317
+374
+585
+586
+
+Anhui University
+Anhui University
+Anhui University
+Appalachian State University
+Arkansas School for Math & Sciences
+Art Education Ctr ofSouth China Normal Univ
+Asbury College
+Athens State University
+Augsburg College
+Beijing Institute of Technology
+Beijing Institute of Technology
+Beijing Institute of Technology
+Beijing Institute of Technology
+Beijing Institute of Technology
+Beijing Normal University
+Beijing University of Chemical Technology
+Beijing University of Chemical Technology
+Beijing University of Chemical Technology
+Beijing University of Chemical Technology
+Beijing University of Posts and Telecommunications
+Beijing University of Technology
+Beijing University of Technology
+Beloit College
+Beloit College
+
+Anhui
+Anhui
+Anhui
+NC
+AR
+Guangdong
+KY
+AL
+MN
+Beijing
+Beijing
+Beijing
+Beijing
+Beijing
+
+Beijing
+Beijing
+Beijing
+Beijing
+
+WI
+WI
+
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+P.R.China
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+
+B
+C
+A
+B
+A
+B
+B
+C
+B
+C
+A
+B
+A
+B
+A
+A
+A
+B
+C
+B
+A
+B
+A
+C
+
+Control #
+431
+102
+380
+602
+227
+396
+452
+443
+657
+556
+208
+209
+210
+253
+255
+259
+263
+47
+160
+644
+645
+646
+404
+405
+406
+49
+229
+506
+567
+626
+93
+94
+95
+96
+296
+298
+180
+183
+357
+361
+110
+111
+112
+114
+115
+
+Institution
+Bemidji State University
+Benedict College
+Bloomsburg University
+Brazoswood High School
+Brevard College
+Bucknell University
+California State Polytechnic University, Pomona
+California State University, Northridge
+California State University, Stanislaus
+Calvin College
+Central South University
+Central South University
+Central South University
+China University of Mining and Technology
+China University of Mining and Technology
+China University of Mining and Technology
+China University of Mining and Technology
+Chongqing University
+Chongqing University
+City University of Hong Kong
+City University of Hong Kong
+City University of Hong Kong
+Clarion University of Pennsylvania
+Clarion University of Pennsylvania
+Clarion University of Pennsylvania
+Colby College
+College of Saint Benedict/Saint John\’s University
+Colorado College
+Colorado State University
+Colorado State University - Pueblo
+Dalian Univ of Tech
+Dalian Univ of Tech
+Dalian Univ of Tech
+Dalian Univ of Tech
+Dalian University
+Dalian University
+Dong Hua University
+Dong Hua University
+Earlham College
+Earlham College
+East China University of Science and Technology
+East China University of Science and Technology
+East China University of Science and Technology
+East China University of Science and Technology
+East China University of Science and Technology
+
+State
+MN
+SC
+PA
+TX
+NC
+PA
+CA
+CA
+CA
+MI
+Hunan
+Hunan
+Hunan
+Jiangsu
+
+Jiangsu
+Jiangsu
+
+PA
+PA
+PA
+ME
+MN
+CO
+CO
+CO
+
+Liaoning
+Liaoning
+Shanghai
+Shanghai
+IN
+IN
+
+Country
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+Hong Kong
+Hong Kong
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+
+Problem Selected
+A
+A
+B
+C
+A
+B
+C
+A
+A
+A
+C
+A
+A
+B
+B
+B
+C
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+A
+B
+B
+B
+B
+A
+C
+B
+C
+C
+B
+B
+B
+A
+C
+C
+
+Control #
+603
+605
+608
+79
+80
+587
+594
+84
+85
+617
+512
+19
+494
+497
+350
+389
+515
+516
+517
+535
+538
+542
+367
+368
+369
+122
+123
+124
+125
+126
+127
+129
+130
+132
+133
+147
+637
+304
+334
+393
+394
+395
+667
+4
+435
+
+Institution
+Eastern Mennonite University
+Eastern Mennonite University
+Eastern Mennonite University
+Eastern Michigan University
+Eastern Michigan University
+Elon University
+Francis Marion University
+Fudan University
+Fudan University
+Georgetown University
+Gonzaga University
+Goucher College
+Grand View College
+Grand View College
+Greenville College
+Greenville College
+Grinnell College
+Grinnell College
+Grinnell College
+Guangxi University
+Guangxi University
+Guangxi University
+Hangzhou University of Commerce
+Hangzhou University of Commerce
+Hangzhou University of Commerce
+Harbin Engineering University
+Harbin Engineering University
+Harbin Engineering University
+Harbin Engineering University
+Harbin Engineering University
+Harbin Institute of Technology
+Harbin Institute of Technology
+Harbin Institute of Technology
+Harbin Institute of Technology
+Harbin Institute of Technology
+Harbin University of Science and Technology
+Harbin University of Science and Technology
+Hefei University of Technology
+Hefei University of Technology
+Hefei University of Technology
+Hefei University of Technology
+Hefei University of Technology
+Hendrix College
+Heritage College
+Heritage College
+
+State
+VA
+VA
+VA
+MI
+MI
+NC
+SC
+Shanghai
+Shanghai
+DC
+WA
+MD
+IA
+IA
+IL
+IL
+IA
+IA
+IA
+Guangxi
+Guangxi
+Guangxi
+Zhejiang
+Zhejiang
+Zhejiang
+Heilongjiang
+P
+i
+Heilongjiang
+i
+P
+Heilongjiang
+i
+P
+Heilongjiang
+P
+i
+Heilongjiang
+P
+i
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+AR
+WA
+WA
+
+Country
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+
+Problem Selected
+B
+A
+B
+B
+A
+C
+A
+B
+C
+A
+A
+A
+A
+A
+B
+A
+A
+A
+B
+B
+A
+A
+A
+B
+B
+C
+A
+A
+C
+B
+A
+C
+A
+C
+B
+A
+B
+B
+A
+B
+C
+C
+B
+B
+A
+
+Control #
+503
+65
+464
+649
+309
+52
+327
+363
+364
+633
+635
+260
+262
+527
+528
+299
+300
+301
+411
+414
+415
+416
+417
+473
+337
+338
+345
+347
+467
+382
+421
+559
+573
+490
+525
+596
+409
+507
+658
+426
+427
+386
+450
+598
+641
+
+Institution
+Hobart and William Smith Colleges
+Hong Kong Baptist University
+Hood College
+Hope College
+Huazhong University of Science and Technology
+Huazhong University of Science & Technology
+Information Scienc & Eng Institution of Northeastern University
+Information Scienc & Eng Institution of Northeastern University
+Information Scienc & Eng Institution of Northeastern University
+Institut Teknologi Bandung
+Institut Teknologi Bandung
+Institution of Math.,Nankai Univ.
+Institution of Math.,Nankai Univ.
+Jacksonville University
+Jacksonville University
+Jiamusi University
+Jiamusi University
+Jiamusi University
+Jilin University
+Jilin University
+Jilin University
+Jilin University
+Jilin University
+Jilin University
+Jinan University
+Jinan University
+Jinan University
+Jinan University
+Johnson State College
+Juniata College
+Kansas State University
+Lawrence Technological University
+Lewis and Clark College
+Macalester College
+Macalester College
+Maggie Walker Governor\’s School
+Manhattan College
+Marist College
+Mathematical High School Of Helsinki
+Mechanical Institution of Northeastern University
+Mechanical Institution of Northeastern University
+Meredith College
+Miami University
+Mills E. Godwin High School
+Monmouth College
+
+State
+NY
+
+MD
+MI
+Hubei
+
+Liaoning
+Liaoning
+Liaoning
+Jabar
+Jabar
+Tianjin
+Tianjin
+FL
+FL
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+VT
+PA
+KS
+MI
+OR
+MN
+MN
+VA
+NY
+NY
+ESL
+Liaoning
+Liaoning
+NC
+OH
+VA
+IL
+
+Country
+USA
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+Indonesia
+Indonesia
+P.R.China
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+Finland
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+
+Problem Selected
+A
+A
+B
+A
+A
+B
+B
+A
+B
+C
+C
+C
+C
+A
+B
+B
+A
+B
+B
+B
+B
+B
+C
+C
+A
+A
+B
+C
+A
+B
+B
+A
+B
+B
+B
+B
+B
+A
+A
+B
+B
+A
+B
+A
+C
+
+Control #
+642
+654
+275
+276
+277
+12
+205
+280
+281
+219
+213
+216
+217
+218
+221
+222
+223
+109
+184
+148
+257
+258
+532
+534
+29
+407
+610
+625
+118
+119
+120
+91
+92
+103
+104
+106
+354
+355
+33
+35
+38
+474
+551
+552
+553
+
+Institution
+Monmouth College
+Monta Vista High School
+Mount Marty College
+Mount Marty College
+Mount Marty College
+Mount St. Mary’s College
+N C School of Science and Mathematics
+Nanchang University
+Nanchang University
+Nanjing
+Nanjing Normal University
+Nanjing Normal University
+Nanjing Normal University
+Nanjing Normal University
+Nanjing Univ. of Sci. & Tech.
+Nanjing Univ.of Sci. & Tech.
+Nanjing Univ. of Sci.& Tech.
+Nanjing University
+Nanjing University
+Nanjing University of Sci. & Tech.
+Nankai University
+Nankai University
+National University of Defence Technology
+National University of Defence Technology
+National University of Singapore
+Nazareth College
+New Mexico State University
+North Carolina State University
+Northeast Agricultural University
+Northeast Agricultural University
+Northeast Agricultural University
+Northern Jiaotong University
+Northern Jiaotong University
+Northern Jiaotong University
+Northern Jiaotong University
+Northern Jiaotong University
+Northwest Missouri State University
+Northwest Missouri State University
+Northwestern Polytechnical University
+Northwestern Polytechnical University
+Northwestern Polytechnical University
+Olin College of Engineering
+Paivola College
+Paivola College
+Paivola College
+
+State
+IL
+CA
+SD
+SD
+SD
+MD
+NC
+Jiangxi
+Jiangxi
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+
+Hunan
+Hunan
+
+NY
+NM
+NC
+Heilongjian
+Heilongjian
+Heilongjian
+
+MO
+MO
+Shaanxi
+Shaan Xi
+ShaanXi
+MA
+
+Country
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+Singapore
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+USA
+Finland
+Finland
+Finland
+
+Problem Selected
+A
+A
+A
+A
+B
+A
+C
+B
+A
+B
+B
+A
+A
+B
+B
+C
+A
+B
+A
+B
+A
+A
+B
+A
+A
+C
+B
+B
+A
+B
+A
+B
+B
+C
+A
+C
+A
+A
+C
+A
+B
+B
+B
+C
+C
+
+Control #
+373
+166
+168
+170
+384
+663
+332
+485
+613
+616
+101
+454
+498
+87
+252
+254
+241
+634
+636
+422
+429
+28
+117
+199
+203
+81
+82
+390
+306
+392
+486
+541
+543
+643
+201
+680
+577
+578
+58
+59
+61
+63
+376
+629
+630
+
+Institution
+Peking University
+Peking University, School of Mathematical Sciences
+Peking University, School of Mathematical Sciences
+Peking University, School of Mathematical Sciences
+Pomona College
+Randolph-Macon College
+Regis University
+Roanoke College
+Rose-Hulman Institute of Technology
+Rose-Hulman Institute of Technology
+Rowan University
+Saint Bonaventure
+Saint Louis University
+Saint Mary’s College
+School of Math. NanKai Univ.
+School of Math. NanKai Univ.
+School of Mathematics & Computer Science of HeBei University
+School of Mathematics & Computer Science of HeBei University
+School of Mathematics & Computer Science of HeBei University
+Science Institution of Northeastern University
+Science Institution of Northeastern University
+Shandong University
+Shandong University
+Shanghai Foreign Language School
+Shanghai Foreign Language School
+Shanghai Jiading No.1 High School
+Shanghai Jiading No.1 High School
+Shanghai Jiao Tong University
+Shanghai Jiaotong University
+Shanghai Jiaotong University
+Shanghai Normal University
+Shanghai Normal University
+Shanghai Normal University
+Shanghai University of Finanace and Economics
+Siena Heights University
+Siena Heights University
+Sierra Nevada College
+Sierra Nevada College
+Simon’s Rock College
+Simon’s Rock College
+Simon’s Rock College
+Simon’s Rock College
+Simpson College
+Sonoma State University
+Sonoma State University
+
+State
+
+CA
+VA
+CO
+VA
+IN
+IN
+NJ
+NY
+MO
+IN
+Tianjin
+Tianjin
+Hebei Province
+Hebei Province
+Hebei Province
+Liaoning
+Liaoning
+
+Shandong
+i
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+Shanghai
+
+MI
+MI
+NV
+NV
+MA
+MA
+MA
+MA
+IA
+CA
+CA
+
+Country
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+
+Problem Selected
+C
+B
+B
+B
+B
+A
+C
+B
+B
+B
+C
+C
+A
+B
+B
+B
+A
+B
+B
+A
+B
+B
+B
+A
+A
+B
+B
+C
+A
+C
+A
+B
+A
+B
+A
+A
+C
+A
+A
+B
+A
+A
+B
+A
+C
+
+Control #
+320
+321
+323
+324
+6
+138
+237
+240
+242
+243
+251
+612
+408
+5
+149
+340
+341
+342
+410
+471
+283
+285
+289
+563
+351
+446
+214
+224
+546
+570
+40
+41
+42
+43
+44
+631
+470
+664
+482
+27
+141
+484
+20
+21
+234
+
+Institution
+South China University of Technology
+South China University of Technology
+South China University of Technology
+South China University of Technology
+South Dakota School of Mines and Technology
+South-China Normal University
+Southeast University
+Southeast University
+Southeast University
+Southeast University
+Southeast University
+St. Joseph\’s College
+Stetson University
+SUNY Westchester Community College
+Tianjin Polytechnic University
+Tianjin University
+Tianjin University
+Tianjin University
+Towson University
+Trinity University
+Tsinghua University
+Tsinghua University
+Tsinghua University
+U. of Michigan - Dearborn
+United States Military Academy
+United States Military Academy
+University College Dublin
+University College Dublin
+University College Dublin
+University of Central Oklahoma
+University of Electronic Science and Technology
+University of Electronic Science and Technology
+University of Electronic Science and Technology
+University of Electronic Science and Technology
+University of Electronic Science and Technology
+University of Mary Hardin-Baylor
+University of Puget Sound
+University of San Diego
+University of Science and Technology of China
+University of Stellenbosch
+University of Virginia’s College at Wise
+Wake Forest University
+Washington College
+Washington College
+Washington State University
+
+State
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+SD
+Guangdong
+
+Jiangsu
+i
+P
+Jiangsu
+P
+i
+NY
+FL
+NY
+Tianjin
+TJ
+TJ
+TJ
+MD
+TX
+
+MI
+NY
+NY
+Dublin
+Dublin
+
+OK
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+TX
+WA
+CA
+Anhui
+Western Cape
+VA
+NC
+MD
+MD
+WA
+
+Country
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+Ireland
+Ireland
+Ireland
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+P.R.China
+South Africa
+USA
+USA
+USA
+USA
+USA
+
+Problem Selected
+C
+B
+B
+B
+A
+A
+B
+B
+B
+C
+C
+A
+B
+A
+B
+A
+B
+B
+A
+B
+B
+B
+C
+B
+B
+B
+A
+C
+C
+C
+B
+B
+B
+B
+C
+A
+A
+A
+A
+B
+A
+C
+A
+A
+C
+
+Control #
+3
+32
+352
+353
+248
+569
+554
+453
+196
+164
+165
+167
+185
+186
+236
+290
+70
+261
+618
+621
+623
+172
+173
+53
+54
+55
+57
+
+Institution
+Westchester Community College
+Western Connecticut State University
+Western New England College
+Western New England College
+Wheaton College 
+William Paterson University
+Worcester Polytechnic Institute
+Wright State University
+Wuhan University
+Wuhan University of Technology
+Wuhan University of Technology
+Wuhan University of Technology
+Wuhan University of Technology
+Wuhan University of Technology
+Xi\’an University of Technology
+Xi\’an University of Technology
+Xiamen University
+Xuzhou Institute of Technology
+Youngstown State University
+Youngstown State University
+Youngstown State University
+Zhejiang University
+Zhejiang University
+Zhongshan University
+Zhongshan University
+Zhongshan University
+Zhongshan University
+
+State
+NY
+CT
+MA
+MA
+IL
+NJ
+MA
+OH
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Shaanxi
+Shaanxi
+Fujian
+Jiangsu
+OH
+OH
+OH
+Zhejiang
+Zhejiang
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+
+Country
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+USA
+USA
+USA
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+P.R.China
+
+Problem Selected
+A
+A
+A
+A
+B
+A
+B
+A
+B
+A
+A
+B
+C
+C
+B
+B
+B
+A
+C
+C
+B
+C
+A
+A
+A
+B
+C
+
+

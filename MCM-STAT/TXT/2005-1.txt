@@ -1,0 +1,3032 @@
+    2005 Mathematical Contest in Modeling 
+Press Release—March 18, 2005 
+
+• 
+• 
+• 
+• 
+
+• 
+• 
+• 
+• 
+ 
+
+ 
+2005 MCM Statistics 
+ 
+
+B asked teams to propose a model to help determine the optimal 
+number of tollbooths in a barrier-toll plaza.  The ten 
+Outstanding solution papers will be published in The UMAP 
+Journal, along with commentary from the authors and other 
+judges.  All 644 of the competing teams are to be congratulated 
+for their excellent work and enthusiasm for mathematical 
+modeling and interdisciplinary problem solving.  This year’s 
+judges remarked that the quality of the modeling and 
+presentation in the papers was extremely high, making it 
+difficult to select just ten Outstanding papers. 
+ 
+
+ 
+COMAP is pleased to announce the results of the 21st annual 
+Mathematical Contest in Modeling (MCM). This year, 644 
+teams representing institutions from 10 countries participated in 
+the contest. Ten teams from the following nine institutions were 
+designated as OUTSTANDING: 
+ 
+ Duke University, Durham, NC 
+ Harvard University, Cambridge, MA 
+ Harvey Mudd College, Claremont CA 
+ Mass Institute of Technology, Cambridge, MA 
+ Rensselaer Polytechnic Institute, Troy, NY  
+ University of California, Berkley, CA (2 Teams) 
+ University of Colorado, Boulder, CO 
+ University of Saskatchewan, Saskatoon, Canada 
+ University of Washington, Seattle, WA 
+ 
+This year’s contest ran from Thursday, February 3rd to 
+Monday, February 7th, 2005.  During that time, teams of up to 
+three undergraduate or high school students researched, 
+modeled, and submitted a solution to one of two modeling 
+problems. The contest is primarily an online contest. Teams 
+register, obtain contest materials, and download the problems 
+and data at the prescribed time through COMAP’s MCM 
+Website.  
+ 
+This year, the two MCM problems were particularly 
+challenging.  Problem A asked teams to develop a model 
+showing the consequences of a massive dam failure. Problem 
+ 
+ 
+To obtain additional information about the MCM and to obtain a complete listing of all team designations, please visit the MCM 
+Website at:  www.comap.com/undergraduate/contests/mcm, or contact COMAP at: mcm@comap.com. 
+ 
+Major  funding for  the MCM  is provided by a grant  from  the National Security Agency and support  from COMAP. Additional support 
+is  provided  by  the  Institute  for Operations Research  and  the Management  Sciences  (INFORMS). COMAP's Mathematical Contest  in 
+Modeling  and  Interdisciplinary Contest  in Modeling  are unique  among modeling  competitions  in  that  they  are  the only  international 
+contests in which students work in teams to find a solution. Centering its educational philosophy on mathematical modeling, COMAP 
+uses  mathematical  tools  to  explore  real-world  problems.  It  serves  the  educational  community  as  well  as  the  world  of  work  by 
+preparing students to become better informed—and prepared—citizens, consumers, and workers. 
+ 
+
+664 teams participated  
+10 high school teams (2%) 
+249 U.S. Teams (37%)  
+415 Foreign Teams (63%) from Canada, China, Finland, 
+Germany, Hong Kong, Indonesia, Ireland, South Africa, and 
+South Korea 
+10 Outstanding Winners (2%)  
+85 Meritorious Winners (13%)  
+195 Honorable Mentions (29%)  
+374 Successful Participants (56%)  
+
+Administered by 
+The Consortium for Mathematics 
+and Its Applications 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Major funding provided by
+The National Science Foundation 
+
+ 
+
+            
+Contest Director 
+ 
+Frank Giordano, Naval Postgraduate School, Monterey CA 
+ 
+Executive Director 
+ 
+Solomon A. Garfunkel, COMAP, Inc., MA 
+Founding Director 
+Ben Fusaro, Florida State University 
+ 
+Associate Directors 
+William Fox, Francis Marion University, SC 
+Bob Borrelli, Harvey Mudd College, CA 
+Pat Driscoll, USMA, West Point, NY 
+ 
+ 
+
+ 
+
+Institution
+Control #
+36 University of Washington
+77 Harvard University
+246 University of Colorado
+323 MIT
+376 University of California, Berkeley
+482 University of California, Berkeley
+694 University of Saskatchewan
+770 Duke University
+799 Rensselaer Polytechnic Institute
+840 Harvey Mudd College
+
+2005 MCM Contest Results
+Advisor
+
+Rekha Thomas
+Clifford Taubes
+Anne Dougherty
+Martin Bazant
+Jim Pitman
+Lawrence Evans
+James Brooke
+William Mitchener
+Peter Kramer
+Jon Jacobsen
+
+Designation
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+
+Problem
+A
+INFORMS Award
+B
+B
+B
+B
+B
+A
+B
+B
+A
+
+INFORMS Award
+Ben Fusaro Award
+MAA Award
+MAA Award
+SIAM Award
+SIAM Award
+
+6
+Fudan University
+8
+University of Puget Sound
+15 Southeast University
+16 Southeast University
+19 College of Science,Southeast University
+31 University of Washington
+54 Wuhan University
+69 School of Mathematical Sciences
+127 Jiangsu University
+139 Wuhan University
+141 Nanjing University
+153 School of Science, Beijing University of Posts and
+182 University of Electronic Science and Technology of
+200 James Madison University
+263 South-China Normal University
+286 Truman State University
+288 School of Economics & Management, Tsinghua
+289 McGill University
+290 Hastings College
+293 Harbin Institute of Technology Science Faculty
+313 NC School of Science & Mathematics
+350 School of Financial Mathematics, Peking
+353 Nanchang University
+356 Beijing Normal University, School of Mathematical
+363 Worcester Polytechnic Institute
+368 Western Washington University
+369 Western Washington University
+407 Wuhan University of Technology
+412 Chongqing University
+416 College of Mount St. Joseph
+417 Davidson College
+421 University of Richmond
+422 University of Richmond
+428 Zhejiang University
+
+Zhijie Cai
+DeWayne Derryberry
+Liyan Wang
+Dan He
+Xingang Jia
+James Morrow
+Aijiao Deng
+Xufeng Liu
+Gang Xu
+Wenyi Chen
+Bo Wen
+Hongxiang Sun
+Gao Qing
+James Sochacki
+wang henggeng
+Steve Smith
+Xie Qun
+Nilima Nigam
+Dave Cooke
+Shouting Shang
+Daniel Teague
+Lan Wu
+Liao Chuangrong
+Haiyang Huang
+Suzanne Weekes
+Saim Ural
+Saim Ural
+Huang wei
+Renbin He
+Scott Sportsman
+Malcolm Campbell
+Kathy Hoke
+Kathy Hoke
+Yong He
+
+Page
+
+1
+
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+
+Ben Fusaro Award
+
+A
+B
+B
+B
+A
+A
+A
+B
+B
+B
+A
+B
+A
+A
+B
+B
+B
+A
+B
+B
+A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+
+Institution
+Control #
+453 Northern Kentucky University
+475 China University of Mining and Technology
+481 Eastern Oregon University
+483 Davidson College
+497 Tsinghua University
+500 Tsinghua University
+532 Zhejiang university city college
+537 Luther College
+538 Luther College
+541 Wake Forest University
+542 Wake Forest University
+548 Kansas State University
+556 South China University of Technology
+563 National University of Defense Technology
+577 University of Western Ontario
+582 Albertson College
+599 Wuhan University
+622 University of Colorado at Boulder
+643 Zhejiang Gongshang University
+655 Northwest University
+658 Bethel University
+663 Central Washington University
+671 Californit Polytechnic State University
+673 University of California, Berkeley
+676 University of Delaware
+677 University of Delaware
+683 Midlands Technical College
+698 Wesleyan College
+700 University of Pittsburgh
+705 Shanghai Jiao Tong University
+708 Shanghai Jiao Tong University
+740 Lewis and Clark College
+743 University of Pittsburgh
+744 Chongqing University
+746 United States Military Academy
+755 Youngstown State University
+771 Duke University
+776 Cornell University
+778 Duke University
+780 Duke University
+798 University of Saskatchewan
+800 Bucknell University
+803 Asbury College
+810 Asbury College
+812 Carroll College
+
+2005 MCM Contest Results
+Advisor
+
+Gail Mackin
+Zhang Xingyong
+Anthony Tovar
+Mark Foley
+Hu zhiming
+Lu mei
+Waibin Huang
+Reginald Laursen
+Reginald Laursen
+Miaohua Jiang
+Miaohua Jiang
+David Auckly
+Liu Shen Quan
+Yi Wu
+Allan MacIsaac
+Michael Hitchman
+Xinqi Hu
+Michael Ritzwoller
+Ding Zhengzhong
+Wang Liantang
+William Kinney
+Stuart Boersma
+Jonathan Shapiro
+Lawrence Evans
+Louis Rossi
+Louis Rossi
+John Long
+Joseph Iskra
+Jonathan Rubin
+Jianguo Huang
+Baorui Song
+Robert Owens
+Christopher Earls
+Li Fu
+John Jackson
+Angela Spalsbury
+William Mitchener
+Alexander Vladimirsky
+Owen Astrachan
+Owen Astrachan
+James Brooke
+Karl Voss
+David Coulliette
+Kenneth Rietz
+Sam Alvey
+
+Page
+
+2
+
+Designation
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+
+Problem
+B
+A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+A
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+A
+A
+B
+B
+B
+B
+A
+B
+B
+A
+A
+B
+B
+B
+A
+B
+A
+B
+B
+A
+
+Institution
+Control #
+839 Harvey Mudd College
+841 Harvey Mudd College
+842 Harvey Mudd College
+846 Lafayette College
+851 University College Cork
+856 Albion College
+
+2005 MCM Contest Results
+Advisor
+
+Jon Jacobsen
+Ran Libeskind-Hadas
+Ran Libeskind-Hadas
+Ethan Berkove
+Donal Hurley
+Darren Mason
+
+24 State University of West Georgia
+29 Shanghai University of Finance and Economics
+32 University of Washington
+33 Beijing Normal University
+35 University of Washington
+37 SD School of Mines & Technology
+41 Jiangsu University
+43 Northwestern Polytechnical University
+45 Northwestern Polytechnical University
+46 Northwestern Polytechnical University
+56 Concordia College
+67 School of Mathematical Sciences, Peking
+76 Shanghai University of Finance & Economics
+96 Anhui University
+97 shanghai university of finance and economics
+102 Nanjing University of Posts and
+103 Nanjing University of Posts and
+106 Xiamen University
+107 North China Electric Power University
+108 North China Electric Power University
+110 North China Electric Power University
+112 Beijing University of Chemical Technology
+126 Jiangsu University
+128 BeiHang University
+129 Nanjing University
+131 Beijing Normal University
+135 SHANGHAI FOREIGN LANGUAGE SCHOOL
+136 SHANGHAI FOREIGN LANGUAGE SCHOOL
+137 SHANGHAI FOREIGN LANGUAGE SCHOOL
+140 Wuhan University
+144 Xi'an Jiaotong University
+146 Xi'an Jiaotong University
+147 Xi'an Jiaotong University
+148 School of Science, Beijing University of Posts and
+149 School of Science, Beijing University of Posts and
+151 Beijing University of Posts and
+156 Beijing University of Posts and
+169 Sun Yat-Sen University
+
+Scott Gordon
+Juntai Yu
+James Morrow
+Hengjian Cui
+Rekha Thomas
+Kyle Riley
+Yimin Li
+Zhao Xuanmin
+Shi Yimin
+Xiao Huayong
+John Loase
+Minghua Deng
+Tao Li
+Wang Xuejun
+chenyuan yin
+Ming He
+Ming He
+Xiaolian Zheng
+Gu Gendai
+Shi Huifeng
+Liu Jinggang
+Guangfeng JIANG
+Gang Xu
+Sanxing Wu
+Tianxing Yao
+Fuxing Shen
+LIQUN PAN
+LIQUN PAN
+YU SUN
+Wenyi Chen
+Yonghong Dai
+Xiaoliang He
+Xiaoliang He
+Zuguo He
+Zuguo He
+Jinkou Ding
+Yunfeng Wu
+Guo Feng
+
+Page
+
+3
+
+Designation
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+A
+B
+B
+B
+B
+A
+
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+172 University of Stellenbosch
+174 Sun Yat-sen University
+176 Sun Yat-Sen University
+180 Tianjin University
+183 University of Electronic Science and Technology of
+187 University of Electronic Science and Technology of
+188 University of Electronic Science and Technology of
+193 JIA MU-SI UNIVERSITY
+197 Gannon University
+202 James Madison University
+204 Harbin University of Science and Technology
+205 Harbin University of Science and Technology
+206 Harbin University of Science and Technology
+208 Harbin University of Science and Technology
+209 Drury University
+211 beijing normal university
+215 Institute of University Students' Innovation,Dalian
+216 Institute of University Students' Innovation,Dalian
+217 Institute of University Students' Innovation, Dalian
+219 Dalian University of Technology
+220 Dalian University of Technology
+222 Dalian University of Technology
+225 Dalian University of Technology
+226 Central University of Finance and Economics
+227 Central University of Finance and Economics
+229 Wuhan University
+231 Central University of Finance and Economics
+237 Dalian Nationalities University
+238 Dalian Nationalities University
+242 Dalian Nationalities University
+244 McGill University
+247 University of Colorado at Boulder
+248 Wuhan University
+249 Nanjing University
+250 Juniata College
+264 South-China Normal University
+270 South-China Normal University
+272 Central South University
+276 School of Science,Beijing Jiaotong University
+278 School of Science,Beijing Jiaotong University
+294 Harbin Institute of Technology Science Faculty
+295 Harbin Institute of Technology ,School of
+298 Harbin Institute of Technology
+304 Harbin Institute of Technology
+308 Sichuan University
+
+Jan van Vuuren
+Zhou Yuan
+Xiao Long Jiang
+Guoliang Lan
+Gao Qing
+Qin Siyi
+Xu Quanzi
+FAN WEI
+Michael Caulfield
+Hasan Hamdan
+Shuzhong Wang
+Guangyue Tian
+Dongmei Li
+Dongyan Chen
+Bob Robertson
+wang jiayin
+Qi Zhou
+Qi Zhou
+Qiuhui Pan
+Lizhong Zhao
+Lizhong Zhao
+Hongquan Yu
+Yi Wang
+Binhua Ge
+Huiqing Huang
+Aijiao Deng
+Binhua Ge
+Xiaoniu Li
+Xiaoniu Li
+Qiang Guo
+Antony Humphries
+Bengt Fornberg
+Liuyi Zhong
+Tianxing Yao
+John Bukowski
+Liu Xiuxiang
+Yu Jianhua
+He Wei
+Minghui Liu
+Xiaoxia Wang
+Shouting Shang
+Wei Shang
+Kean Liu
+Xilian Wang
+Jie Zhou
+
+Page
+
+4
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+B
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+A
+B
+B
+B
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+A
+B
+A
+A
+A
+B
+A
+A
+B
+A
+A
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+318 East China University of Science and Technology
+324 Nankai University
+330 Tongji University, Shanghai, China
+337 Saint Mary's College
+340 Nazareth College
+343 Jilin University
+345 Jilin university
+346 Jilin university
+352 Nanchang University
+360 Shenyang Institute of Aeronautical Engineering
+361 Shenyang Institute of Aeronautical Engineering
+371 Bloomsburg University
+372 Saint Louis University
+373 Clarkson University
+374 Clarkson University
+381 Jinan University
+383 Jinan University
+386 Dalian University
+395 Academy of Science
+398 Academy of Science
+399 Jiangxi Normal University
+401 College of Life Science ,JiLin University
+402 Wuhan University of Technology
+404 Wuhan University of Technology
+406 Wuhan University of Technology
+410 Chongqing University
+413 China Agricultural University
+415 United States Military Academy
+429 Zhejiang University
+431 Zhejiang University
+436 Chu Kechen Honors College, ZJU
+437 Chu Kechen Honors College, ZJU
+439 Chu Kechen Honors College, ZJU
+450 Heritage University
+460 Tianjin University
+461 Tianjin University
+463 Beijing Institute of Technology
+465 Beijing Institute of Technology
+467 Beijing Institute of Science and Technology
+473 International University Bremen
+474 Xuzhou Institute of Technology
+484 Davidson College
+485 Davidson College
+486 Smith College
+491 Hefei University of Technology
+
+Qin Yan
+Xingwei Zhou
+Xiongda Chen
+Joanne Snow
+Daniel Birmajer
+Yongkui Zou
+Fang Peichen
+Fang Peichen
+Chen Tao
+Limei Zhu
+Limei Zhu
+Kevin Ferland
+James Dowdy
+Kathleen Fowler
+Kathleen Fowler
+Shizhuang Luo
+Daiqiang Hu
+Xinxin Tan
+Luo Hua
+Hu Jueliang
+Gengxiu Wu
+ZHOU LAI
+Li guang
+He Lang
+Chen ye
+Zhengmin Duan
+Hui Zou
+J. Billie
+Yong He
+Qifan Yang
+Jian Wu
+Lingxi Chen
+Yongming Zhou
+Richard Swearingen
+Fengzhen Liang
+Ximin Rong
+yan guifeng
+wang hongzhou
+sun huafei
+Peter Oswald
+Jiang Yingzi
+Tim Chartier
+Tim Chartier
+Ruth Haas
+Junli Gu
+
+Page
+
+5
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+A
+B
+A
+B
+B
+A
+B
+B
+B
+A
+A
+A
+A
+A
+B
+A
+B
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+A
+B
+B
+B
+A
+A
+B
+B
+A
+B
+B
+A
+B
+
+Institution
+Control #
+495 Xuzhou Institute of Technology
+498 Tsinghua University
+501 Tsinghua University
+502 Information
+507 Mechanism
+508 Hebei Polytechnic University,China
+510 Hebei Polytechnic University
+511 Software
+515 Northeastern University
+516 Information
+517 Information
+520 China University of Mining and Technology
+521 South China University of Technology
+525 Olin College of Engineering
+528 Embry-Riddle University
+560 China University of Mining and Technology
+568 Northwest Missouri State University
+571 Rowan University
+572 Rowan University
+584 Southern Oregon University
+588 Clarion University of Pennsylvania
+594 Lawrence Technological University
+617 Simpson College
+618 Simpson College
+625 Nanjing University of Sci. & Tech.
+627 Nanjing University of Sci. & Tech.
+630 Institute of Technology Bandung
+635 Chongqing University
+646 Zhejiang Gongshang University
+650 Shanghai Normal University
+661 Lawrence Technological University
+667 Siena Heights University
+670 Georgia Southern University
+682 Midlands Technical College
+685 Johns Hopkins University
+692 Ithaca College
+699 Wesleyan College
+701 University of Pittsburgh
+703 Eastern Mennonite University
+704 Eastern Mennonite University
+739 Jacksonville University
+745 KAIST
+748 York University
+754 Youngstown State University
+765 Saint John's University
+
+2005 MCM Contest Results
+Advisor
+
+Jiang Yingzi
+Hu zhiming
+Lu mei
+Peifeng Hao
+Jianjiang Cui
+yili Tan
+xinghuo Wan
+Huilin Liu
+Ping Sun
+Xuehong He
+Xuehong He
+Zhu Kaiyong
+Liu Xiao Lan
+Burt Tilley
+Greg Spradlin
+Wu Zongxiang
+Russell Euler
+Hieu Nguyen
+Hieu Nguyen
+Kemble Yates
+Dana Madison
+Ruth Favro
+Murphy Waggoner
+James Bohy
+Chungen Xu
+Peixin Chen
+Kuntjoro Sidarto
+Zhiliang Li
+Hua Jiukun
+Yongbing Shi
+Valentina Tobos
+Tim Husband
+Laurene Fausett
+John Long
+Fred Torcaso
+John Maceli
+Joseph Iskra
+Jonathan Rubin
+Leah Boyer
+Leah Boyer
+Robert Hollister
+Chang-Ock Lee
+Huaiping Zhu
+Angela Spalsbury
+Robert Hesse
+
+Page
+
+6
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+A
+A
+B
+A
+A
+B
+B
+B
+B
+A
+A
+B
+B
+B
+A
+A
+A
+A
+B
+A
+B
+B
+
+Institution
+Control #
+772 Monmouth College
+773 Carroll College
+785 Rose-Hulman Institute of Technology
+786 Rose-Hulman Institute of Technology
+787 University of Dayton
+790 Johns Hopkins University
+802 Ferris State University
+805 Westminster College
+808 Southern Connecticut State University
+816 University of Colorado-Denver
+821 United States Air Force Academy
+822 Northern Illinois University
+823 Northern Illinois University
+838 Regis University
+847 KAIST
+850 University College Cork
+852 University College Cork
+858 University of Colorado-Denver
+859 Oklahoma State University
+862 Colgate University
+864 Hood College
+869 Monmouth College
+
+1
+Fudan University
+2
+Shandong University
+3
+Shandong University
+4
+Fudan University
+9
+Shandong University
+11 Southeast University
+12 Southeast University
+17 College of Science,Southeast University
+18 College of Science,Southeast University
+20 College of Science,Southeast University
+21 Beijing University of technology
+23 Shandong University
+26 Southwest Jiaotong University,E'mei Campus
+27 Southwest Jiaotong University,E'mei Campus
+30 Huazhong University Of Science & Technology
+34 SHANDONG UNIVERSITY
+39 Fudan University
+42 Beijing Normal University
+47 Northwestern Polytechnical University
+48 Northwestern Polytechnical University
+49 Northwestern Polytechnical University
+50 Huazhong University of Science and Technology
+
+2005 MCM Contest Results
+Advisor
+
+Christopher Fasano
+Kelly Cline
+David Rader
+David Rader
+Youssef Raffoul
+Greg Eyink
+Holly Price
+Barbara Faires
+Ross Gingrich
+Lynn Bennethum
+Timothy Cooley
+Chris Hurlburt
+Chris Hurlburt
+David Bahr
+Chang-Ock Lee
+James Grannell
+Andrew Usher
+Michael Jacobson
+Lisa Mantini
+Warren Weckesser
+Betty Mayfield
+Howard Dwyer
+
+Haoming Chen
+Jianhua Ma
+Shuxiang Huang
+Yuan Cao
+Huang Shuxiang
+Zhiqiang Zhang
+Zhiqiang Zhang
+Zhizhong Sun
+Zhizhong Sun
+Xingang Jia
+Yi Xue
+Shuxiang Huang
+Zhao Lianwen
+Zhao Lianwen
+Linjie Yuan
+MA JIANHUA
+Haitao Wang
+Hengjian Cui
+Zhang Shenggui
+Peng Guohua
+Sun Hao
+Yongji Wang
+
+Page
+
+7
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
+B
+A
+
+B
+B
+A
+B
+A
+A
+B
+B
+B
+A
+B
+B
+A
+B
+B
+B
+B
+A
+B
+B
+A
+B
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+53 Northwestern Polytechnical University
+55 Shanghai University of Finance and Economics
+57 Department of Mathematics,Shandong University
+58 University of Massachusetts Lowell
+59 Ningbo Institute of Technology, Zhejiang
+63 Ningbo Institute of Technology, Zhejiang
+64 Ningbo Institute of Technology, Zhejiang
+65 Ningbo Institute of Technology, Zhejiang
+66 School of Mathematical Sciences, Peking
+68 School of Mathematical Sciences
+70 Peking University
+74 Sichuan University
+75 Shandong University
+78 Linfield College
+79 Linfield College
+80 Beijing University of Technology,P.R.China
+81 Beijing Normal University
+82 Xidian University
+84 Xidian University
+85 Xidian University
+88 Xidian University
+89 Nanjing University
+90 Shandong University
+93 Anhui Unversity
+94 Anhui University
+95 Anhui University
+99 Harbin Medical University
+101 Harbin Medical University
+105 Mathematics and Science Institution
+109 North China Electric Power University
+114 Beijing University of Chemical Technology
+116 Beijing University of Chemical Technology
+117 Beijing University of Chemical Technology
+118 Jiading No.1 Middle School,Shanghai,China
+119 Jiading No.1 Middle School,Shanghai,China
+120 beijing wuzixueyuan
+121 beijing wuzixueyuan
+122 Beijing Materials Institute
+123 Beijing Materials Institute
+124 Austin College
+125 Jiangsu University
+130 Western Oregon University
+132 Roanoke College
+134 SHANGHAI XIANGMING HIGH SCHOOL
+138 SHANGHAI FOREIGN LANGUAGE SCHOOL
+
+Xiaodong Liu
+Dong-cheng Dong
+Baodong Liu
+James Graham-Eagle
+Zhening Li
+Lihui Tu
+Lihui Tu
+Haina Sun
+Minghua Deng
+Xufeng Liu
+Ming Wang
+Hai Niu
+HUANG SHUXIANG
+Jennifer Nordstrom
+Jennifer Nordstrom
+Shilin Yang
+Peng Fanglin
+Hongwei Liu
+Houjian Tang
+Feng Ye
+Liefeng Bo
+zhaoyang wu
+Jianhua Ma
+Yunqi Wu
+xiaobao zhu
+Zhang Quanbing
+Wang QiangHu
+Wang QiangHu
+Laifu Liu
+Zhang Po
+Damin Liu
+Xinhua Jiang
+Wenyan Yuan
+Xilin Xie, Yunping Fang
+Xilin Xie, Yunping Fang
+cheng xiaohong
+cheng xiaohong
+Li Zhenping
+Li Zhenping
+John Jaroma
+Yimin Li
+Maria Fung
+Jeffrey Spielman
+QIANG FENG
+YU SUN
+
+Page
+
+8
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+B
+A
+A
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+B
+A
+B
+A
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+B
+A
+A
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+142 Xi'an Jiaotong University
+154 Beijing University of Posts and
+158 Beijing Normal University
+159 HoHai university
+160 SHANGHAI XIANGMING HIGH SCHOOL
+161 Shijiazhuang University of Economics
+162 Shijiazhuang University of Economics
+163 Beijing University of Technology
+164 Simon's Rock College
+165 Simon's Rock College
+166 Simon's Rock College
+167 Simon's Rock College
+168 Wuhan University
+170 Mount St. Mary's University
+171 Mount St. Mary's University
+173 University of Stellenbosch
+175 Sun Yat-sen University
+189 Wheaton College (IL)
+190 Franklin College
+191 Jia Mu-si university
+192 Jia Mu-si university
+195 South Dakota School of Mines and Technology
+198 Gannon University
+199 James Madison University
+210 Drury University
+212 Dalian University of Technology
+221 Central University of Finance and Economics
+223 Dalian University of Technology
+233 City Institute, Dalian University of Technology
+234 City Institute, Dalian University of Technology
+235 City Institute, Dalian University of Technology
+239 Dalian Nationalities University
+245 Dalhousie University
+251 Center for Computational Science & Engineering
+256 Harbin Engineering University
+257 Harbin Engineering University
+259 Harbin Engineering University
+266 South-China Normal University
+268 South-China Normal University
+269 South-China Normal University
+271 Central South University
+273 Colorado College
+274 Beijing Jiaotong University
+275 Beijing Jiaotong University
+277 School of Science,Beijing Jiaotong University
+
+Yicang Zhou
+Wenbo Zhang
+He Qing
+Shen Rong
+QIANG FENG
+Na Kang
+Jianping Peng
+jingang chang
+Allen Altman
+Allen Altman
+Michael Bergman
+Michael Bergman
+Xuming Yi
+Fred Portier
+Fred Portier
+Jan van Vuuren
+Ze Peng Chen
+Paul Isihara
+John Boardman
+zhang hong
+zhang hong
+Robert Kowalski
+Michael Caulfield
+Caroline Smith
+Bob Robertson
+Jianguo Liu
+Huiqing Huang
+Hongquan Yu
+Xubin Gao
+Xubin Gao
+Lianfu Li
+Qiang Guo
+Dorothea Pronk
+Huazhong Tang
+XiaoWei Zhang
+Fei Yu
+Yue Sheng Luo
+Liu Xiuxiang
+Li Hunan
+Li Hunan
+Zhang Hongyan
+David Brown
+Xiujuan Wang
+Xiujuan Wang
+Minghui Liu
+
+Page
+
+9
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+A
+B
+B
+B
+B
+B
+B
+A
+B
+B
+A
+B
+B
+A
+B
+B
+B
+B
+B
+A
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+A
+B
+A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+280 School of Computer and Information
+281 School of Computer and Information
+282  School of Science,Beijing Jiaotong University
+284 Beijing Language and Culture University
+287 Beijing Language and Culture University
+291 California Baptist University
+292 Drury University
+296 Harbin Institute of Technology Science Faculty
+297 Harbin Institute of Technology Science Faculty
+299 Harbin Institute of Technology
+300 Harbin Institute of Technology
+301 Harbin Institute of Technology
+302 Harbin Institute of Technology
+303 Harbin Institute of Technology
+305 Harbin Institute of Technology
+309 Central South University
+311 Beijing University of Technology
+314 NC School of Science & Mathematics
+315 Concordia College
+319 East China University of Science and Technology
+320 East China University of Science and Technology
+322 East China University of Science and Technology
+325 Nankai University
+326 Nankai University
+327 Nankai University
+328 Nankai University
+329 SHANGHAI YOUTH CENTRE OF SCIENCE AND
+333 Thomas More College
+334 Jilin University
+336 Jilin University
+338 Saint Mary's College
+344 Jilin University
+348 Tongji University, Shanghai, China
+349 Tongji University, Shanghai, China
+351 Nanchang University
+354 Nanchang University
+355 Renmin University of China
+357 Beijing Normal University, School of Mathematical
+358 Shenyang Institute of Aeronautical Engineering
+359 Shenyang Institute of Aeronautical Engineering
+362 Zhejiang University of Finance and Economics
+364 Worcester Polytechnic Institute
+366 Western Washington University
+367 Western Washington University
+370 Bloomsburg University
+
+Bingtuan Wang
+Bingtuan Wang
+Guochen Feng
+Guilong Liu
+Guilong Liu
+Catherine Kong
+Bruce Callen
+Hong Ge
+Hong Ge
+Kean Liu
+Guanghong Jiao
+Guanghong Jiao
+Chiping Zhang
+Chiping Zhang
+Xilian Wang
+Zhang Dianzhong
+Guo Sili
+Daniel Teague
+John Loase
+Liu Zhaohui
+Sun Jun
+Su Chunjie
+Chunsheng Zhang
+Zhaojun Wang
+Dianfa Chen
+Yi Wang
+GAN CHEN
+Robert Riehemann
+Yongchen Pei
+Yongchen Pei
+Joanne Snow
+Yongkui Zou
+Hualong Zhang
+Zipeng Gui
+Xinsheng Ma
+Chen Yuju
+Yang Jin
+Qing He
+Feng Shan
+Feng Shan
+Ji Luo
+Suzanne Weekes
+Tjalling Ypma
+Tjalling Ypma
+Kevin Ferland
+
+Page
+
+10
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+B
+B
+B
+B
+A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+A
+B
+B
+B
+B
+A
+B
+B
+B
+A
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+375 Clarkson University
+377 Anhui University of Technology and Science
+380 Jinan University
+384 Jinan University
+385 Dalian University
+387 Dalian University
+389 Dalian Maritime University
+391 Dalian Maritime University
+392 Computer Science & Technology College, Dalian
+393 Computer Science & Technology College, Dalian
+397 China University of Geosciences
+400 Jiangxi Normal University
+403 Wuhan University of Technology
+405 Wuhan University of Technology
+408 Nanjing University of Finance and Economics
+411 North University of China
+414 China Agricultural University
+418 Wesleyan College
+419 Drexel University
+423 Pacific Lutheran University
+424 Pacific Lutheran University
+425 Institut Teknologi Bandung
+433 Zhejiang University
+438 Chu Kechen Honors College, ZJU
+440 Chongqing University
+441 Chongqing University
+442 School of Electrical Engineering,Beijing Jiaotong
+443 Beijing Jiaotong University
+445 Zhejiang University of Technology
+446 Zhejiang University of Technology
+447 Zhejiang University of Technology
+448 Zhejiang University of Technology
+449 Beijing University of Technology
+451 Heritage University
+452 Northern Kentucky University
+455 Hartnell College
+456 Westchester Community College
+459 Tianjin University
+462 Tianjin University
+464 Beijing Institute of Technology
+466 Beijing Institute of Technology
+476 Chengdu university of technology
+477 Wartburg College
+479 Chengdu university of technology
+480 Bowling Green State University
+
+William Hesse
+Chuanyu Wang
+Shiqi Ye
+Suohai Fan
+Xinxin Tan
+Jiatai Gang
+Yunjie Zhang
+Yunjie Zhang
+Shuqin Yang
+Shuqin Yang
+ZhiHua Cai
+Zheng Xiongjun
+Li guang
+Chu jie
+Geng Wang
+Yang Ming
+Hui Zou
+Charles Benesh
+Hugo Woerdeman
+Daniel Heath
+Daniel Heath
+Rieske Hadianti
+Zhiyi Tan
+Lingxi Chen
+Chuandong Li
+Zongli Wang
+Xiaoqin Deng
+Faen Wu
+Shiming Wang
+Minghua Zhou
+Xuejun Wu
+Shiming Wang
+Shilin Yang
+Richard Swearingen
+Gail Mackin
+Kelly Locke
+Marvin Littman
+Genqi Xu
+genqi xu
+yan guifeng
+wang hongzhou
+Youhua Wei
+Brian Birgen
+Yong Yuan
+Juan Bes
+
+Page
+
+11
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+B
+B
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+A
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+A
+A
+B
+A
+B
+B
+B
+B
+B
+B
+A
+A
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+487 University of Northern Colorado
+492 Hefei University of Technology
+493 China University of Mining and Technology
+494 Hefei University of Technology
+496 Hefei University of Technology
+499 Central South University
+504 Information
+513 Software
+514 Hebei Polytechnic University,China
+519 Northeast Agricultural University
+522 Northeast Normal University
+523 Northeast Normal University
+524 zhejiang university city college
+527 Zhejiang university city college
+529 Zhejiang university city college
+530 Zhejiang university city college
+534 Northland College
+535 Northland College
+536 Meredith College
+539 Luther College
+543 Western Connecticut State University
+547 Kansas State University
+549 East China Institute of Technology
+550 The College Attached to North China Institute of
+551 The College Attached to North China Institute of
+552 Science school of North University of China
+553 South China University of Technology
+555 North University of China
+557 North University of China
+558 South China University of Technology
+562 National University of Defense Technology
+564 National University of Defense Technology
+565 Zhejiang University of Finance and Economics
+566 National University of Defense Technology
+573 California State University, Monterey Bay
+575 California State University at Monterey Bay
+578 Virginia Western
+580 Siena Heights University
+581 Siena Heights University
+583 Albertson College
+585 Illinois Institute of Technology
+587 Emporia State University
+590 Earlham College
+591 Earlham College
+592 Earlham College
+
+Nathaniel Miller
+Qi Zheng
+Zhu Kaiyong
+Xueqiao Du
+Youdu Huang
+Kunnan Yi
+Peifeng Hao
+Huilin Liu
+jixian Xiao
+Fangge Li
+zuofeng Li
+zuofeng Li
+xusheng kang
+Yanan Zhao
+Yanan Zhao
+Gui Wang
+William Long
+William Long
+Cammey Cole
+Steve Hubbard
+Josephine Hamer
+David Auckly
+Cai Ying
+Fan Xiaoren
+Fan Xiaoren
+Li Youwen
+Qin Yong An
+Xue YaKui
+Wang Peng
+Liang Man Fa
+Ziyang Mao
+Lizhi Cheng
+Fulai Wang
+Xiaojun Duan
+Jeffrey Groah
+Hongde Hu
+Ruth Sherman
+Pamela Warton
+Pamela Warton
+Michael Hitchman
+Michael Pelsmajer
+Brian Hollenbeck
+Mic Jackson
+Mic Jackson
+Charlie Peck
+
+Page
+
+12
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+A
+B
+B
+B
+A
+B
+B
+A
+A
+B
+A
+B
+A
+B
+B
+B
+A
+A
+B
+A
+B
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
+A
+A
+A
+B
+B
+A
+B
+A
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+595 Lawrence Technological University
+596 Pacific University
+600 Wuhan University
+603 Donghua University
+604 Donghua University
+605 Donghua University
+606 Donghua University
+608 School of Science, Xi\'an Communication Institute
+609 China University of Geosciences
+610 School of Science, Xi'an Communication Institute
+611 School of Science, Xi'an Communication Institute
+612 School of Information, Xi'an Communication
+613 School of Information, Xi'an Communication
+614 School of Information, Xi'an Communication
+615 Nanjing University
+616 Simpson College
+620 Simpson College
+626 Nanjing University of Sci. & Tech.
+628 School of Science, Xi'an Communication Institute
+629 Nanjing University of Sci. & Tech.
+631 Hong Kong Baptist University
+632 Hong Kong Baptist University
+636 Chongqing University
+637 Hunan University
+638 Hunan University
+639 Hunan University
+640 Hunan University
+642 Software Engineering
+644 Zhejiang Gongshang University
+645 Shanghai Normal University
+648 Shanghai Normal University
+649 Zhejiang Gongshang University
+653 Shanghai Normal University
+656 Northwest University
+657 Northwest University
+659 Bethel University
+664 Appalachian State University
+666 Malone College
+669 Georgia Southern University
+672 Californit Polytechnic State University
+674 Universität Karlsruhe
+675 Johns Hopkins University
+678 Helsinki Mathematical High School
+679 Helsinki Mathematical High School
+680 Hobart and William Smith Colleges
+
+Ruth Favro
+Christine Guenther
+Zhuangchu Luo
+Guoxin He
+Surong You
+ZhiJie Wang
+Chen chao
+Guo Li
+Wenqiang Luo
+Dongsheng Yang
+Yan Jiang
+Jinlong Kang
+Hong Wang
+Xiaofeng Song
+Chunying Duan
+Murphy Waggoner
+Jeff Parmelee
+Zhengjun Zhang
+Jianhang Zhang
+Liwei Liu
+C. S. Tong
+Wai Chee Shiu
+Qiongfang Liu
+Xiaopei Li
+Bolin Ma
+Han Luo
+Chuanxiu Ma
+Liu dong
+Ding Zhengzhong
+Shenghuan Guo
+Zhangjizhou Zhudetong
+Hua Jiukun
+Rongguan Liu
+Dou Jihong
+He Ruichan
+William Kinney
+Holly Hirst
+David Hahn
+Laurene Fausett
+Jonathan Shapiro
+Lars Behnke
+Fred Torcaso
+Terhi Olkkonen
+Terhi Olkkonen
+Scotty Orr
+
+Page
+
+13
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+A
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+A
+B
+B
+A
+B
+
+2005 MCM Contest Results
+Advisor
+
+Institution
+Control #
+681 Washington College
+686 Loyola College in Maryland
+687 Salem State College
+689 Cal Poly Pomona
+690 Angelo State University
+691 Northeastern University
+693 Shanghai Yucai High School
+695 Inner Mongolia University
+696 Inner Mongolia University
+697 CITY UNIVERSITY OF HONG KONG
+702 Albion College
+706 Shanghai Jiao Tong University
+709 Mount Marty College
+710 Mount Marty College
+711 Mount Marty College
+713 Mount Marty College
+714 Colby College
+715 Mt. Mercy College
+716 Maggie Walker Governor's School
+717 Maggie Walker Governor's School
+718 Trinity University
+719 Trinity University
+720 Maggie Walker Governor's School
+721 Maggie Walker Governor's School
+727 Grinnell College
+728 Grinnell College
+729 Eastern Oregon University
+731 Paivola college
+732 Grinnell College
+733 Paivola college
+736 Slippery Rock University
+737 Pomona College
+738 California State Polytechnic University, Pomona
+741 Lewis and Clark College
+742 Idaho State University
+747 York University
+750 York University
+752 Villa Julie College
+753 Virginia Western Community College
+756 Western New England College
+757 Youngstown State University
+766 Minhang Branch of Shanghai Jiaotong University
+767 Minhang Branch of Shanghai Jiaotong University
+768 Minhang Branch of Shanghai Jiaotong University
+769 Minhang Branch of Shanghai Jiaotong University
+
+Eugene Hamilton
+Jiyuan Tao
+Kenny Ching
+Peter Siegel
+Karl Havlak
+Ping Sun
+Zhengtai Li
+zhuang ma
+mei wang
+TO MING HO
+Darren Mason
+Jianguo Huang
+Stephanie Gruver
+Stephanie Gruver
+Bonita Gacnik
+James Miner
+Jan Holly
+K.R. Knopp
+John Barnes
+John Barnes
+Richard Cooper
+Allen Holder
+Harold Houghton
+Harold Houghton
+Karen Shuman
+Karen Shuman
+David Allen
+Merikki Lappi
+Charles Cunningham
+Merikki Lappi
+Richard Marchand
+Ami Radunskaya
+Kurt Vandervoort
+Robert Owens
+Robert Van Kirk
+Huaiping Zhu
+Hongmei Zhu
+Eileen McGraw
+Steve Hammer
+Lorna Hanes
+Michael Crescimanno
+Gang Zhou
+Gang Zhou
+Guobiao Zhou
+Guobiao Zhou
+
+Page
+
+14
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+B
+B
+B
+B
+A
+B
+B
+A
+B
+B
+B
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+A
+B
+A
+B
+B
+
+Institution
+Control #
+774 Carroll College
+775 Benedict College
+777 Cornell University
+782 Brescia University
+784 Gettysburg College
+788 Salisbury University
+789 United States Military Academy
+791 College of the Holy Cross
+797 Francis Marion University
+801 Rensselaer Polytechnic Institute
+806 New Mexico Tech
+813 Austin Peay State University
+814 Carroll College
+817 United States Air Force Academy
+818 Southeast Missouri State University
+820 United States Air Force Academy
+824 University of Science and Technology of China
+825 Cal Poly Pomona
+827 Cal Poly Pomona
+828 University of Science and Technology of China
+829 University of Science and Technology of China
+832 University of Science and Technology of China
+833 Mechanism
+834 Dalhousie University
+837 Regis University
+844 Lafayette College
+848 Liaoning High Police Academic School
+849 Liaoning High Police Academic School
+853 Trinity College Dublin
+854 Roberts Wesleyan College
+855 New Jersey Institute of Technology
+857 Miami University
+860 Colorado State University-Pueblo
+861 Minnesota State University Moorhead
+863 Eastern Mennonite University
+865 Morehead State University
+868 Greenville College
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+2005 MCM Contest Results
+Advisor
+
+Kelly Cline
+Balaji Iyangar
+Alexander Vladimirsky
+Chris Tiahrt
+Bogdan Doytchinov
+Michael Bardzell
+Sakura Therrien
+Gareth Roberts
+Thomas Fitzkee
+Peter Kramer
+Brian Borchers
+Nell Rayburn
+Sam Alvey
+James Rolf
+Robert Sheets
+Timothy Cooley
+Zhouwang Yang
+Hubertus von Bremen
+Ioana Mihaila
+Guangzhong Sun
+Yanjun Liu
+Zhangjin Huang
+Jianjiang Cui
+Dorothea Pronk
+David Bahr
+Ethan Berkove
+Shen Cong
+Shen Cong
+Conor Houghton
+Gary Raduns
+Roy Goodman
+Doug Ward
+Bruce Lundberg
+Ellen Hill
+Charles Cooley
+Michael Dobranski
+George Peters
+
+Page
+
+15
+
+Problem
+B
+B
+A
+B
+A
+B
+B
+B
+A
+B
+B
+A
+B
+A
+B
+A
+A
+A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+A
+B
+B
+A
+
+

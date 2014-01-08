@@ -1,0 +1,855 @@
+2005 Interdisciplinary Contest in Modeling 
+Press Release—March 11, 2005 
+
+• 
+• 
+• 
+• 
+
+• 
+• 
+• 
+• 
+ 
+
+ 
+2005 ICM Statistics 
+ 
+
+Campbell, editor of The UMAP Journal and Professor of 
+Mathematics and Computer Science at Beloit College, and 
+geoscientist and civil engineer Ted Hromadka, who served on 
+the panel of final judges.  The problem originated from their 
+research and interest in resource management.  The three 
+Outstanding solution papers will be published in The UMAP 
+Journal, along with commentary from both Dr. Campbell and 
+Dr. Hromadka.  All the members of the 164 competing teams 
+are to be congratulated for their excellent work and enthusiasm 
+for scientific and mathematical modeling and interdisciplinary 
+problem solving.  This year’s judges remarked that despite the 
+challenging problem, the quality of the modeling, analysis, and 
+presentation was high. 
+ 
+
+ 
+COMAP is pleased to announce the results of the 7th annual 
+Interdisciplinary Contest in Modeling (ICM). This year, 164 
+teams representing institutions from 4 countries participated in 
+the contest.  Three teams from the following institutions were 
+designated as OUTSTANDING WINNERS: 
+  
+Olin College of Engineering, Needham, MA 
+East China University of Science and Technology,  
+ 
+Shanghai City, China 
+Maggie Walker Governor’s School, Richmond, VA 
+ 
+This year’s contest ran from Thursday, February 3 to Monday, 
+February 7, 2005.  During that time, teams of up to three 
+undergraduate or high school students researched, analyzed, 
+modeled, and communicated a solution to an open-ended 
+interdisciplinary modeling problem. The 2005 ICM was 
+primarily an on-line contest, where teams registered, obtained 
+contest materials, and downloaded the problem statement at the 
+prescribed time through COMAP’s ICM Website.  
+ 
+This year’s nonrenewable resource problem was particularly 
+challenging.  It required teams to select a nonrenewable or 
+exhaustible resource and model its depletion over time.  The 
+problem contained issues such as economic, demographic, 
+political, environmental, security, and future technology to be 
+analyzed, had several challenging requirements needing 
+scientific and mathematical analysis, and also had the ever-
+present requirements in the ICM to use thorough data analysis, 
+creativity, approximation, precision, and effective 
+communication.  The authors of the problem were Paul 
+ 
+ICM is an extension of COMAP’s Mathematical Contest in Modeling (MCM), which is held during the same weekend.  ICM is 
+designed to develop and advance interdisciplinary problem-solving skills as well as competence in written communication.  The first 
+four interdisciplinary problems involved concepts from environmental science, environmental engineering, biology, chemistry, and/or 
+resource management.  The last three ICM problems involved operations research, information science, environmental science, and 
+interdisciplinary issues in security and safety.  Each team is expected to have advisors and team members who represent a range of 
+disciplinary interests in applied problem solving and modeling.  Next year, the ICM problem will involve modeling in the area of 
+public health. 
+ 
+To obtain additional information about the ICM and to obtain a complete listing of all team designations, please visit the ICM 
+Website at:  www.comap.com/undergraduate/contests/icm 
+ 
+Major start-up funding for the ICM was provided by a grant from the National Science Foundation (through Project INTERMATH) 
+and COMAP. Additional support is provided by The Institute for Operations Research and the Management Sciences (INFORMS).  
+COMAP's Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling are unique among modeling competitions in 
+that they are the only international contests in which students work in teams to find a solution. Centering its educational philosophy 
+on mathematical modeling, COMAP uses mathematical tools to explore real-world problems. It serves the educational community as 
+well as the world of work by preparing students to become better informed—and prepared—citizens, consumers, and workers. 
+ 
+
+164 teams participated  
+3 high school teams (1%) 
+33 U.S. Teams (20%)  
+131 Foreign Teams (80%) from Finland, Indonesia, and 
+P.R. China.  
+3 Outstanding Winners (2%)  
+26 Meritorious Winners (16%)  
+89 Honorable Mentions (54%)  
+46 Successful Participants (28%)  
+
+Major funding provided by 
+The National Science Foundation 
+
+ 
+
+            
+ 
+Contest Directors 
+Chris Arney, U. S. Army Research Office, NC 
+Gary Krahn, United States Military Academy, NY 
+Executive Director 
+Solomon A. Garfunkel, COMAP, Inc., MA 
+ 
+
+Administered by  
+The Consortium for Mathematics
+and Its Applications 
+
+ 
+
+ 
+Associate Directors 
+Richard Cassady, University of Arkansas 
+Kathleen Snook, U.S. Army (retired) 
+ 
+ 
+
+ 
+
+ 
+
+Institution
+Control #
+321 East China University of Science and Tech.
+561 Olin College of Engineering
+723 Maggie Walker Governor's School
+
+61 Ningbo Institute of Technology, Zhejiang
+72 Peking University
+73 Peking University
+86 Xidian University
+100 Nanjing University of Post and
+104 School of Mathematical Sciences,PKU
+177 Sun Yat-Sen University
+232 Central University of Finance and Economics
+236 Dalian Nationalities University
+243 Wuhan University,China
+310 Beijing Language and Culture University
+312 Shandong University
+317 East China University of Science and
+378 Jinan University
+394 Dalian Maritime University
+454 United States Military Academy
+526 zhejiang university city college
+533 Zhejiang university city college
+546 Dalian University of Technology
+567 National University of Defense Technology
+621 Shandong University
+724 Maggie Walker Governor's School
+735 Paivola college
+749 United States Military Academy
+764 University of Virginia
+830 University of Science and Technology of China
+
+Fudan University
+5
+7
+Fudan University
+10 Southeast University
+14 Southeast University
+25 Beijing University of technology
+28 Beijing University of Technology
+44 Northwestern Polytechnical University
+51 University of Washington
+52 University of Washington
+71 Peking University
+83 Xidian University
+87 Xidian University
+91 School of Earth and Space Science, Peking
+98 Nanjing University of Post and
+111 Beijing University of Chemical Technology
+113 Beijing University of Chemical Technology
+
+2005 ICM Contest Results
+Advisor
+
+Ni Zhongxin
+Burt Tilley
+John Barnes
+
+Jufeng Wang
+Yulong Liu
+Yulong Liu
+Xiaogang QI
+LiWei Xu
+Huang Hai
+Qi-Ru Wang
+Weihong Yu
+Xiangdong Liu
+Zhong Liuyi
+Rou Song
+Jianhua Ma
+Lu Yuanhong
+Daiqiang Hu
+Guoyan Chen
+Michael Smith
+xusheng kang
+Waibin Huang
+Mingfeng He
+Mengda Wu
+Baodong Liu
+John Barnes
+Esa Lappi
+Bart Stewart
+Robert Hirosky
+Qiang Meng
+
+Yuan Cao
+Zhijie Cai
+Enshui Chen
+Feng Wang
+Yi Xue
+Yu Chang
+Lv Quanyi
+Sandor Kovacs
+Sandor Kovacs
+Ming Wang
+Shuisheng Zhou
+Hailin Feng
+Chuxiong Liu
+LiWei Xu
+Hui Liu
+Jinyang Huang
+
+Page
+
+1
+
+Designation
+Outstanding Winner
+Outstanding Winner
+Outstanding Winner
+
+INFORMS Award
+
+Problem
+C
+C
+C
+
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+Meritorious Winner
+
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+2005 ICM Contest Results
+Advisor
+
+Institution
+Control #
+133 University of Washington
+145 Xi'an Jiaotong University
+150 Beijing University of Posts and
+152 School of Science, Beijing University of Posts
+155 Beijing University of Posts and
+157 Beijing University of Posts and
+179 Sun Yat-sen
+181 University of  Electronic Science and
+185 University of Electronic Science and
+186 University of Electronic Science and
+201 James Madison University
+203 Harbin University of Science and Technology
+213 Institute of University Students' Innovation,
+214 Institute of University Students' Innovation,
+224 Dalian University of Technology
+228 School of Software of Dalian University of
+252 Wuhan University
+254 Harbin Engineering University
+255 Harbin Engineering University
+258 Harbin Engineering University
+261 Harbin Engineering University
+265 Central South University
+267 Central South University
+306 Harbin Institute of Technology
+339 University of Colorado at Colorado Springs
+365 Jilin University
+388 Dalian University
+390 Dalian University
+409 Chongqing University
+427 Institut Teknologi Bandung
+434 Zhejiang University
+435 Chu Kechen Honors College, ZJU
+444 School of Science,Beijing Jiaotong University
+457 Tianjin University
+458 Tianjin University
+468 China University of Mining and Technology
+469 Beijing Institute of Technology
+471 Beijing Institute of Technology
+472 Hefei University of Technology
+489 Hefei University of Technology
+490 Hefei University of Technology
+505 Tsinghua University
+518 Northeast Agricultural University
+531 Zhejiang university city college
+554 North University of China
+559 South China University of Technology
+569 National University of Defense Technology
+576 California State University at Monterey Bay
+593 Earlham College
+
+Sara Billey
+Yonghong Dai
+Jinkou Ding
+Hongxiang Sun
+Yunfeng Wu
+Wenbo Zhang
+Cai Wei Li
+Zhang Yong
+Du Hongfei
+Du Hongfei
+David Walton
+Shuzhong Wang
+Mingfeng He
+Mingfeng He
+Yi Wang
+Changliang Yu
+Dichen Liu
+ZhenBin Gao
+XiaoWei Zhang
+Fei Yu
+JiHong Shen
+Hou Muzhou
+Hou Muzhou
+Yunfei Zhang
+Radu Cascaval
+Chunling Cao
+Jiatai Gang
+Yanchun Wang
+Qu Gong
+Agus Gunawan
+Yiwei Jiang
+Jian Wu
+Liwei Ren
+Dan Lin
+Zhanjie Song
+Zhou Shengwu
+li bingzhao
+chen yihong
+Chaowei Bao
+Weizhong Liang
+Kun Gong
+Ye jun
+yan tang
+Gui Wang
+Lei Yingjie
+Liang Man Fa
+Mengda Wu
+Hongde Hu
+Charlie Peck
+2
+Page
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+Institution
+Control #
+601 Harbin University of Science and Technology
+602 Donghua University
+607 Donghua University
+619 Simpson College
+623 Nanjing University of Sci. & Tech.
+633 Peking University Health Science Center
+634 Chongqing University
+641 Hunan University
+647 Peking University Health Science Center
+707 Shanghai Jiao Tong University
+725 Maggie Walker Governor's School
+734 Paivola college
+758 Youngstown State University
+759 Youngstown State University
+781 Carroll College
+783 Duke University
+804 Asbury College
+809 Asbury College
+811 Asbury College
+815 University of Colorado-Denver
+826 University of Science and Technology of China
+831 University of Science and Technology of China
+835 Regis University
+843 Harvey Mudd College
+
+13 Southeast University
+22 BeiHang University
+60 Ningbo Institute of Technology, Zhejiang
+62 Ningbo Institute of Technology, Zhejiang
+92 Anhui University
+115 Beijing University of Chemical Technology
+143 Xi'an Jiaotong University
+178 Sun Yat-sen University
+184 Beijing University of Technology
+207 Harbin University of Science and Technology
+218 Institute of University Students' Innovation,
+230 School of Software of Dalian University of
+240 Dalian Nationalities University
+241 Dalian Nationalities University
+253 Harbin Engineering University
+260 Harbin Engineering University
+262 South-China Normal University
+279 School of Science,Beijing Jiaotong University
+283  School of Science,Beijing Jiaotong University
+307 Harbin Institute of Technology
+342 Jilin University
+347 Jilin University
+379 Jinan University
+
+2005 ICM Contest Results
+Advisor
+
+Dongmei Li
+Biao Ma
+Yu-fang Ma
+James Bohy
+Haifei Zhang
+Shu Xue
+Zhiliang Li
+Xiaopei Li
+Shu Xue
+Baorui Song
+Martha Hicks
+Esa Lappi
+George Yates
+George Yates
+Mark Parker
+David Kraines
+David Coulliette
+Kenneth Rietz
+Duk Lee
+Lynn Bennethum
+Yezeng Cheng
+Huiwen Wang
+Jim Seibert
+Hank Krieger
+
+Feng Wang
+Sanxing Wu
+Zhening Li
+Jufeng Wang
+Wang Jian
+Yan Cheng
+Yicang Zhou
+Yun Bao
+Xue Yi
+Dongyan Chen
+Qiuhui Pan
+Changliang Yu
+Hengbo Zhang
+Rendong Ge
+ZhenBin Gao
+Tao Yu
+wang henggeng
+Xiaoxia Wang
+Guochen Feng
+Yunfei Zhang
+Qingdao Huang
+Ji Youqing
+Suohai Fan
+3
+Page
+
+Designation
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+Honorable Mention
+
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+Institution
+Control #
+382 Jinan University
+396 Academy of Science
+426 Institut Teknologi Bandung
+430 Zhejiang University
+432 Zhejiang University
+470 Beijing Institute of Technology
+509 Tsinghua University
+512 School of Science,Tsinghua University
+544 South China University of Technology
+545 South China University of Technology
+570 Clarion University of Pennsylvania
+574 California State University, Monterey Bay
+589 Clarion University of Pennsylvania
+624 Nanjing University of Sci. & Tech.
+651 Zhejiang Gongshang University
+652 Zhejiang Gongshang University
+654 Zhejiang Gongshang University
+684 Midlands Technical College
+726 Thomas More College
+751 Villa Julie College
+761 Youngstown State University
+779 Carroll College
+793 Paivola College
+
+2005 ICM Contest Results
+Advisor
+
+Chuanlin Zhang
+Shi Guosheng
+Edy Soewono
+Qifan Yang
+Zhiyi Tan
+li bingzhao
+Xie jinxing
+Huang hongxuan
+Tao Zhi Sui
+Pan Shao Hua
+John Heard
+Jeffrey Groah
+Curt Foltz
+Zhenyou Huang
+Zhu Ling
+Zhu Ling
+Zhao Heng
+Richard Bailey
+Steven Lameier
+Eileen McGraw
+Scott Martin
+Mark Parker
+Jukka Ilmonen
+
+Designation
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+Successful Participant
+
+Problem
+C
+C
+C
+C
+C
+C
+C
+C
+
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+Page
+
+4
+
+

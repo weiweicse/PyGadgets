@@ -1,0 +1,17862 @@
+2012 Interdisciplinary Contest in Modeling® 
+Press Release—April 6, 2012 
+
+ 
+COMAP is pleased to announce the results of the 14th annual 
+Interdisciplinary Contest in Modeling (ICM). This year, a 
+record 1329 teams representing institutions from six countries 
+participated in the contest.  Seven teams were designated as 
+OUTSTANDING WINNERS representing the following 
+schools: 
+  
+
+•  Cornell University, Ithaca, NY  (INFORMS winner) 
+•  Huazhong University of Science and Technology, Wuhan, 
+China 
+•  Mathematical Modeling Innovative Practice Base, China 
+•  Nanjing University of Information Science and Technology, 
+Nanjing, China 
+•  Northwestern Polytechnical University, Shaanxi, China  
+•  Shanghai Jiaotong University, Shanghai, China 
+•  University of Electronic Science and Technology of China, 
+Chengdu, China 
+
+comparison, and decision making to identify the most-likely 
+criminals.  In addition to network analysis and data mining, the 
+teams had to explain the potential use of semantic and text 
+analysis to improve their models.  This problem's inclusion of 
+network science and criminal analysis interested many teams 
+resulting in a doubling of the number of ICM teams in just one 
+year.  The problem also had the ever-present ICM requirements 
+to use thorough data analysis, creativity, approximation and 
+precision, along with effective writing and visualizations to 
+communicate their results in a 20-page report.  
+ 
+The seven Outstanding solution papers will be published in The 
+UMAP Journal, along with commentaries from the problem 
+author and judges. All the members of the 1329 competing 
+teams are to be congratulated for their excellent work and 
+enthusiasm for scientific and mathematical modeling and 
+interdisciplinary problem solving. This year’s judges remarked 
+that despite the challenging problem with myriad difficult tasks, 
+the quality of the modeling, analysis, and presentation was 
+extremely high. 
+ 
+
+• 
+• 
+• 
+
+• 
+• 
+• 
+• 
+• 
+
+ 
+2012 ICM Statistics 
+ 
+
+1329 Teams participated  
+44 US Teams (3%)  
+1285 Foreign Teams (97%) from  Indonesia, China, Hong 
+Kong, Palestine and United Kingdom 
+7 Outstanding Winners (1%)  
+4 Finalist Winners (1%)  
+125 Meritorious Winners (9%)  
+640 Honorable Mentions (48%)  
+553 Successful Participants (42%)
+
+ 
+This year’s contest ran from Thursday, February 9 to Monday, 
+February 13, 2012. During that time, teams of three students 
+researched, analyzed, modeled, and communicated a solution to 
+an open-ended interdisciplinary modeling problem. The 2012 
+ICM was primarily an online contest, where teams registered 
+and obtained contest materials through COMAP’s ICM 
+Website.  
+ 
+This year’s problem involved identifying the members of a 
+criminal network through social network analysis of message 
+traffic of an organization. It required teams to understand 
+concepts from the informational and social sciences to build 
+effective network models to analyze the message data between 
+83 people involving over 600 messages categorized into 15 
+topics. The problem contained many complex and multifaceted 
+issues to be analyzed and had several challenging requirements 
+for innovative scientific and mathematical modeling, analysis, 
+ 
+ 
+ICM is associated with COMAP’s Mathematical Contest in Modeling (MCM), which was held during the same weekend. ICM is designed to 
+develop and advance interdisciplinary problem-solving skills in science, technology, engineering, mathematics (STEM) and the humanities, as well 
+as competence in written communication. Over the years the ICM problems have included topics in environmental science, biology, chemistry, 
+resource management, operations research, information science, public health, and network science.   Each team is expected to include advisors and 
+team members who represent a range of disciplinary and interdisciplinary interests in applied problem solving and modeling.  Next year’s problem 
+will once again involve a problem in network science as its topic theme.  This is an emerging area of interest and advancement for society and 
+relevant to the future of the student contestants.  To obtain additional information about the ICM and to obtain a complete listing of all team 
+designations, please visit the ICM Website at: www.mcmcontest.com, or contact COMAP at: mcm@comap.com. 
+ 
+Major start-up funding for the ICM was provided by a grant from the National Science Foundation (through Project INTERMATH) and COMAP.  
+Additional support is provided by The Institute for Operations Research and the Management Sciences (INFORMS).  COMAP's Mathematical 
+Contest in Modeling and Interdisciplinary Contest in Modeling are unique among modeling competitions in that they are the only international 
+contests in which students work in teams to find a solution. Centering its educational philosophy on mathematical modeling, COMAP uses 
+mathematical tools to explore real-world problems. It serves the educational community as well as the world of work by preparing students to 
+become better informed—and prepared—citizens, consumers, workers, and community leaders. 
+ 
+
+Major  f unding pr ovided by 
+The N ational Scie nc e Foundation 
+
+A dminister ed by 
+The Consort ium for  Mathema tics 
+a nd Its A pplica tions 
+
+ 
+Contest Directors 
+Chris Arney, United States Military Academy, NY 
+Joseph Myers, Army Research Office, NC 
+
+ 
+
+ 
+Executive Director 
+Solomon A. Garfunkel, COMAP, Inc., MA 
+ 
+
+ 
+
+ 
+
+Ctrl #
+
+Institution
+
+12218
+
+Northwestern Polytechnical University
+
+Country
+
+China
+
+Zhou Bingchang
+
+13215
+
+Nanjing University of Information Science and
+
+China
+
+Guosheng Cheng
+
+13855
+
+Shanghai Jiaotong University
+
+14531
+
+University of Electronic Science and
+
+15356
+
+Mathematical Modeling Innovative Practice
+
+China
+
+China
+
+China
+
+Zulin Sun
+
+Tao Zhou
+
+Jianwen Xie
+
+16075
+
+Huazhong University of Science and
+
+China
+
+ZHENGYAN MEI
+
+17160
+
+Cornell University
+
+USA
+
+Alexander Vladimirsky
+
+14457
+
+Chongqing University
+
+China
+
+Tengzhong Rong
+
+15889
+
+NC School of Science and Mathematics
+
+16223
+
+Xidian University
+
+17229
+
+Capital Normal University
+
+12208
+
+Fudan University
+
+USA
+
+China
+
+China
+
+China
+
+Daniel Teague
+
+Xiaogang QI
+
+Hongting Shi
+
+Zhijie Cai
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Outstanding Winner
+
+Outstanding Winner
+
+Outstanding Winner
+
+Outstanding Winner
+
+Outstanding Winner
+
+Outstanding Winner
+
+Outstanding Winner
+
+INFORMS Award
+
+Finalist
+
+Finalist
+
+Finalist
+
+Finalist
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12247
+
+Harbin Institute of Technology
+
+12293
+
+University of International Business and
+
+12295
+
+Harbin Institute of Technology
+
+12303
+
+Harbin Institute of Technology
+
+12356
+
+Harbin Institute of Technology
+
+12357
+
+Harbin Institute of Technology
+
+12404
+
+Carroll College
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+USA
+
+Shouting Shang
+
+Lizhuo Zhang
+
+Ping Jiang
+
+Yuming Xing
+
+Cheng Cheng
+
+Guohua Wang
+
+Holly Zullo
+
+12425
+
+Minzu University Of China
+
+China
+
+Zhaoxiang Li
+
+12429
+
+Harbin Institute of Technology(HIT)
+
+12460
+
+Harbin Institute of Technology
+
+12563
+
+Harbin Institute of Technology
+
+12589
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+Jingwen Zhang
+
+Xiaoping Ji
+
+Fangfa Fu
+
+Wei Liu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12597
+
+Harbin Institute of Technology
+
+12629
+
+University of International Business and
+
+12810
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+Songbo Liu
+
+Wei Guo
+
+Yuhong Kang
+
+12822
+
+Central University of Finance and Economics
+
+China
+
+XiaoWei Sun
+
+12850
+
+Central University of Finance and Economics
+
+China
+
+Rui Yang
+
+12864
+
+South China University of Technology
+
+12903
+
+SSE, Beijing University of Posts and
+
+China
+
+China
+
+Ping Huang
+
+Xinchao Zhao
+
+12987
+
+Beihang University
+
+China
+
+Zengchang Qin
+
+12995
+
+Hua Zhong Agriculture University
+
+13104
+
+Southeast University
+
+13105
+
+Southeast University
+
+13115
+
+Peking University
+
+China
+
+China
+
+China
+
+China
+
+feng liu
+
+Liyan Wang
+
+Rui Du
+
+Huang Guan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13117
+
+Beijing Institute of Technology
+
+13138
+
+Southeast  University
+
+13155
+
+Zhejiang Normal University
+
+13198
+
+Sun Yat-sen University
+
+13204
+
+Dalian University of Technology
+
+13217
+
+Dalian University of Technology
+
+13232
+
+Beijing Institute of Technology
+
+13242
+
+Dalian University of Technology
+
+13246
+
+Dalian University of Technology
+
+13402
+
+North China Electric Power University
+
+13431
+
+Southeast  University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Peng Cao
+
+Jun Huang
+
+Yuehua Bu
+
+Zhuojian Yuan
+
+Zhen Wang
+
+Zhen Wang
+
+Gui-Feng Yan
+
+Zhen Wang
+
+Zhen Wang
+
+Pan Zhi
+
+Jinde Cao
+
+13437
+
+Harbin Institute of Technology
+
+China
+
+Rongning Xiaofang Li
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13514
+
+University of International Business and
+
+13591
+
+China Agricultural University
+
+China
+
+China
+
+Yong Wang
+
+Tang Mingyun
+
+13609
+
+Beijing Institute of Technology
+
+China
+
+Hong-Ying Man
+
+13672
+
+Shanghai Jiaotong University
+
+13797
+
+Xi'an Jiaotong University
+
+13809
+
+Xi'an Jiaotong University
+
+13836
+
+South China Normal University
+
+13867
+
+Shanghai Jiaotong University
+
+13938
+
+Northwestern Polytechnical University
+
+13952
+
+University of International Business and
+
+13961
+
+South China Agricultural University
+
+13962
+
+South China Agricultural University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Daming Li
+
+Huanqin Li
+
+Lei Chen
+
+Lianzu Jiao
+
+Xiaoming Wang
+
+Qin Sun
+
+Bo Zhao
+
+zhu yanke
+
+zhang shengxiang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13966
+
+South China Agricultural University
+
+14130
+
+University of Science and Technology of
+
+China
+
+China
+
+Chen yu
+
+Wen Zhang
+
+14132
+
+Huazhong University of Science and
+
+China
+
+Zhengyang Mei
+
+14144
+
+Harbin University of Science and Technology
+
+China
+
+Wei Sun
+
+14161
+
+Jinshan College of Fujian Agriculture and
+
+14179
+
+Peking University
+
+14198
+
+Shanghai Jiaotong University
+
+14203
+
+University of International Business and
+
+14271
+
+Beijing Univ. of Posts & Telecomm.
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Lurong Wu
+
+Zhangju Liu
+
+Jiang Yu
+
+bingchen yi
+
+Jinkou Ding
+
+14304
+
+Chongqing University
+
+China
+
+Luosheng Wen
+
+14313
+
+Beijing University of Posts and
+
+14383
+
+Beijing Univ. of Posts & Telecomm.
+
+China
+
+China
+
+Wenbo Zhang
+
+Xueli Wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14430
+
+Nanjing University
+
+China
+
+Weining Su
+
+14449
+
+Chongqing University
+
+China
+
+Luosheng Wen
+
+14470
+
+Chongqing University
+
+China
+
+Guanghui Huang
+
+14480
+
+Southeast  University
+
+14502
+
+University of International Business and
+
+14513
+
+Beijing Normal University
+
+14542
+
+School of Sci., Beijing Univ. of Posts &
+
+14584
+
+Nankai University
+
+14600
+
+Beijing Jiaotong University
+
+14675
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14683
+
+Chongqing University
+
+14685
+
+Beijing Univ. of Posts and Telecomm.
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Liang Xu
+
+Baimin Yu
+
+Jiafeng Liang
+
+Jinghua Xiao
+
+Min-Qian Liu
+
+Tao Feng
+
+Jianhua Yuan
+
+Renbin He
+
+Zuguo He
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14701
+
+Anhui University
+
+14813
+
+School of Civil Engineering Central South
+
+China
+
+China
+
+Ligang Zhou
+
+Qin X.Y.
+
+14904
+
+School of Comp. Sci. & Tech., Beijing Univ. of
+
+China
+
+Jianhua Yuan
+
+14908
+
+School of Comp. Sci. & Tech., Beijing Univ. of
+
+China
+
+Xiaoxia Wang
+
+14910
+
+Capital University of Economics and Business
+
+China
+
+Yanmin Cui
+
+14942
+
+Jilin University
+
+China
+
+Ran Zhang
+
+14994
+
+China University of Petroleum-Beijing
+
+China
+
+Xiaoguang Lu
+
+15069
+
+Harvey Mudd College
+
+15124
+
+The George Washington University
+
+15173
+
+Dalian University of Technology
+
+15193
+
+Beijing Institute of Technology
+
+15212
+
+University of International Business and
+
+USA
+
+USA
+
+China
+
+China
+
+China
+
+Susan Martonosi
+
+Susan Hwang
+
+Ling Xie
+
+Yi-Fu Wang
+
+Yong Wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15218
+
+Pacific Lutheran Unversity
+
+15245
+
+University of Science and Technology of
+
+15396
+
+University of International Business and
+
+15478
+
+University of International Business and
+
+USA
+
+China
+
+China
+
+China
+
+Mei Zhu
+
+Rong Lan
+
+Dongyi Lu
+
+DAN TANG
+
+15498
+
+Capital University of Economics and Business
+
+China
+
+Xinmin Tian
+
+15720
+
+Wuhan University
+
+China
+
+Yuanming Hu
+
+15732
+
+North China Electric Power University
+
+China
+
+Xin Gao
+
+15763
+
+Simpson College
+
+15764
+
+Simpson College
+
+15767
+
+Simpson College
+
+15768
+
+Simpson College
+
+15770
+
+Simpson College
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+M. E. Waggoner
+
+M. E. Waggoner
+
+Deb Czarneski
+
+Deb Czarneski
+
+Rick Spellerberg
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15887
+
+Salem State University
+
+15890
+
+NC School of Science and Mathematics
+
+15923
+
+United States Military Academy
+
+15927
+
+United States Military Academy
+
+15932
+
+United States Military Academy
+
+15953
+
+Hangzhou Dianzi University
+
+16112
+
+Peking University
+
+16155
+
+University of International Business and
+
+16216
+
+Xidian University
+
+16229
+
+Xidian University
+
+16233
+
+Xidian University
+
+16255
+
+Worcester Polytechnic Institute
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+USA
+
+Chris Boucher
+
+Daniel Teague
+
+Benjamin Hung
+
+Christopher Eastburg
+
+Karen Bliss
+
+Wei Li
+
+Yan Sun
+
+Dan Shi
+
+hailin feng
+
+banghe han
+
+houjian tang
+
+Suzanne Weekes
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Ctrl #
+
+Institution
+
+16390
+
+Peking University
+
+Country
+
+China
+
+Yingjie Lan
+
+16540
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+16544
+
+National University of Defense Technology
+
+16547
+
+National University of Defense Technology
+
+China
+
+China
+
+M. D. Wu
+
+Meihua Xie
+
+16551
+
+National University of Defense Technology
+
+China
+
+Wenqiang Yang
+
+16555
+
+National University of Defense Technology
+
+16819
+
+South China University of Technology
+
+16828
+
+Zhejiang University
+
+16845
+
+Zhejiang University
+
+16850
+
+Zhejiang University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+W. Q. Yang
+
+Weijian Ding
+
+Zhiyi TAN
+
+Long Wan
+
+Qi Zhang
+
+16857
+
+Zhejiang University
+
+China
+
+Chenglong Ruan
+
+16882
+
+Central University of Faniance and Economics
+
+China
+
+Chengzhan Wang
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16932
+
+PLA University of Science and Technology
+
+17000
+
+Tsinghua University
+
+17023
+
+Harvard University
+
+17261
+
+Rensselaer Polytechnic Institute
+
+12200
+
+North China Electric Power University
+
+12209
+
+Fudan University
+
+12210
+
+Fudan University
+
+12215
+
+Renmin University Of China
+
+12221
+
+Northwestern Polytechnical University
+
+12243
+
+Remin University of China
+
+12245
+
+Zhengzhou University
+
+12248
+
+Harbin Institute of Technology
+
+China
+
+China
+
+USA
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Kui Yao
+
+Mei Lu
+
+Margo Levine
+
+Mark Holmes
+
+Xin Gao
+
+Zhijie Cai
+
+Yuan Cao
+
+Yong Lin
+
+Lv Quanyi
+
+deying Li
+
+Junxiao Xue
+
+Shouting Shang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Meritorious Winner
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12270
+
+Renmin University of China
+
+China
+
+Lunchuan Zhang
+
+12277
+
+Renmin University of China
+
+12278
+
+Harbin Institute of Technology
+
+12280
+
+Harbin Institute of Technology
+
+12282
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+Yan Meng
+
+Huijun Gao
+
+Jie Zhao
+
+Weibo Deng
+
+12296
+
+Harbin Institute of Technology
+
+China
+
+Chengyan Xu
+
+12298
+
+Harbin Institute of Technology
+
+12310
+
+Harbin Institute of Technology
+
+12320
+
+Harbin Institute of Technology
+
+12325
+
+Harbin Institute of Technology
+
+12332
+
+Harbin Institute of Technology
+
+12336
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Junguo He
+
+Baodong Zheng
+
+Boying Wu
+
+Wei Guan
+
+Kean Liu
+
+Yan Liu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12342
+
+Harbin Institute of Technology
+
+12352
+
+Harbin Institute of Technology
+
+12358
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+Yu Xiao
+
+Fuli Li
+
+Guohua Wang
+
+12379
+
+Harbin Institute of Technology
+
+China
+
+Guanghong Gao
+
+12400
+
+University of International Business and
+
+12403
+
+Carroll College
+
+12409
+
+Harbin Institute of Technology
+
+12411
+
+Harbin Institute of Technology
+
+12415
+
+Xi'an University of Finance and Economics
+
+12416
+
+Xi'an University of Finance and Economics
+
+12419
+
+Xi'an University of Finance and Economics
+
+China
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Dan Tang
+
+Holly Zullo
+
+Chiping Zhang
+
+Lixin Wang
+
+Yingpeng Zhang
+
+Yanjie Zhou
+
+Qinglin Wang
+
+12428
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12431
+
+Beijing Normal University
+
+12456
+
+Harbin Institute of Technology
+
+12466
+
+Harbin Institute of Technology
+
+12475
+
+Harbin Institute of Technology
+
+12482
+
+Harbin Institute of Technology
+
+12497
+
+Harbin Institute of Technology
+
+12500
+
+Harbin Institute of Technology
+
+12502
+
+Harbin Institute of Technology
+
+12504
+
+Harbin Institute of Technology
+
+12506
+
+Harbin Institute of Technology
+
+12507
+
+Harbin Institute of Technology
+
+12509
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Rong Yuan
+
+Mingyan Wang
+
+Liang Ye
+
+Dazhi Zhang
+
+Wen Bao
+
+Jinxiu Zhang
+
+Wentao Liu
+
+Qiyue Yu
+
+Guoqiu Yang
+
+Shunli Li
+
+Shunli Li
+
+Dechen Zhan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12512
+
+East China Normal University
+
+12537
+
+Harbin Institute of Technology
+
+12543
+
+Harbin Institute of Technology
+
+12617
+
+Fudan University,Shanghai,China
+
+12642
+
+Univ. of Sci. & Tech. of China
+
+12668
+
+Harbin Institute of Technology
+
+12679
+
+Naval Aeronautical and Astronautical
+
+12698
+
+Harbin Institute of Technology
+
+12730
+
+Harbin Institute of Technology
+
+12746
+
+Harbin Institute of Technology
+
+12771
+
+Dalian Maritime University
+
+12800
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Weian Zheng
+
+Yufeng Zhang
+
+Hongxun Yao
+
+Jianjun Xu
+
+Ziyuan Bai
+
+Ping Fu
+
+Xiaoyun Zeng
+
+Dongli Sun
+
+Xuanli Wu
+
+Zhubin He
+
+Shu Yang
+
+Yongda Yan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12823
+
+School of Finance, Renmin University of China
+
+China
+
+Jianhua Gang
+
+12843
+
+China University of Petroleum
+
+12844
+
+China University of Petroleum
+
+12853
+
+University of Science & Technology Beijing
+
+China
+
+China
+
+China
+
+Mou Haining
+
+Wang Yan
+
+Jing Zhu
+
+12868
+
+South China University of Technology
+
+China
+
+Shenquan Liu
+
+12873
+
+China University of Petroleum
+
+12874
+
+South China University of Technology
+
+12875
+
+South China University of Technology
+
+12880
+
+South China University of Technology
+
+12881
+
+South China University of Technology
+
+12888
+
+South China University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Wang Ziting
+
+Weijian Ding
+
+Xinhui Mao
+
+Qing Liu
+
+Qing Liu
+
+Yongan Qin
+
+12889
+
+South China University of Technology
+
+China
+
+Yongkuan Cheng
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12898
+
+SSE, Beijing University of Posts and
+
+12901
+
+SSE, Beijing University of Posts and
+
+12902
+
+SSE, Beijing University of Posts and
+
+12904
+
+SSE, Beijing University of Posts and
+
+12906
+
+SSE, Beijing University of Posts and
+
+12909
+
+Huazhong Agricultural University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Xinchao Zhao
+
+Xinchao Zhao
+
+Xinchao Zhao
+
+Xinchao Zhao
+
+Xinchao Zhao
+
+Luwei Ding
+
+12914
+
+Hong Kong Baptist University
+
+Hong Kong
+
+Leevan Ling
+
+12920
+
+Beijing Institute of Technology
+
+China
+
+Hai-Rui Wen
+
+12932
+
+Harbin Institute of Technology
+
+China
+
+Xiangzhan Yu
+
+12934
+
+Harbin Institute of Technology
+
+China
+
+Rongqing Xu
+
+12937
+
+Harbin Institute of Technology
+
+12940
+
+Harbin Institute of Technology
+
+China
+
+China
+
+Xilian Wang
+
+Yingtao zhang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12941
+
+Harbin Institute of Technology
+
+12946
+
+Harbin Institute of Technology
+
+12965
+
+Harbin Institute of Technology
+
+12981
+
+Beijing Institute of Technology
+
+12992
+
+HOHAI  UNIVERSITY
+
+12997
+
+Civil Aviation University of China
+
+13006
+
+Beijing Institute of Technology
+
+13009
+
+Internatinal School Of Software WuHan
+
+13011
+
+Beijing Institute of Technology
+
+13012
+
+Beijing Foreign Studies University
+
+13017
+
+HuaZhong Agricultural University
+
+13021
+
+Zhejiang Normal University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Haochun Zhang
+
+Tao Ma
+
+Xiaoying Sun
+
+Baokui Li
+
+Ji Chu
+
+Lianshun Zhang
+
+Xuewen Li
+
+Jin Cai
+
+Huang Baosheng
+
+Xiaosong Ding
+
+Zhi Li
+
+Minbo Yang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13022
+
+Huazhong Agricultural University
+
+13023
+
+Beijing Institute of Technology
+
+13046
+
+Beijing Institute of Technology
+
+13048
+
+Zhejiang University
+
+13058
+
+Huaibei Normal University
+
+13059
+
+Huaibei Normal University
+
+13060
+
+Huazhong Agricultural University
+
+13063
+
+BEIJING INSTITUTE OF TECHNOLOGY
+
+13064
+
+BEIJING INSTITUTE OF TECHNOLOGY
+
+13080
+
+Peking University
+
+13082
+
+Peking University
+
+13086
+
+SUN YAT-SEN UNIVERSITY
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Zhimin Hou
+
+Chunlei Cao
+
+Xiaoxia Yan
+
+Xianliang Hu
+
+Chen Hao
+
+Li Changwen
+
+Xiaoyin Wang
+
+Qi-Yuan Cheng
+
+Qi-Yuan Cheng
+
+Tong Lei
+
+Wang Huan
+
+Zhenglu Jiang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13099
+
+Southeast University
+
+13100
+
+Southeast University
+
+13106
+
+Southeast University
+
+13119
+
+Beijing Institute of Technology
+
+13120
+
+University of Science and Technology of
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Dan He
+
+Dan He
+
+Rui Du
+
+Chunlei Cao
+
+Duo Shi
+
+13124
+
+UNIVERSITY OF INTERNATIONAL BUSINESS
+
+China
+
+WEI GUO
+
+13125
+
+Beijing Institute of Technology
+
+13127
+
+Beijing Institute of Technology
+
+13128
+
+Beijing Institute of Technology
+
+13135
+
+University of International Business and
+
+13137
+
+Southeast  University
+
+13157
+
+Shandong University of Science and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Guoqing Zhu
+
+Yanxia Zhang
+
+Tongzhu LI
+
+Xinjian Shao
+
+Jun Huang
+
+Li HongWei
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13158
+
+China Pharmaceutical University
+
+13164
+
+Southeast  University
+
+13165
+
+Southeast  University
+
+13177
+
+ShiJiaZhuang TieDao University
+
+13193
+
+Dalian University of Technology
+
+13194
+
+Dalian University of Technology
+
+13206
+
+Dalian University of Technology
+
+13207
+
+Dalian University of Technology
+
+13209
+
+Dalian University of Technology
+
+13216
+
+Dalian University of Technology
+
+13223
+
+Dalian University of Technology
+
+13225
+
+Dalian University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+fang rong yan
+
+Jinguan Lin
+
+Jinguan Lin
+
+BaoCai Zhang
+
+Qiuhui Pan
+
+Qiuhui Pan
+
+Qiuhui Pan
+
+Zhen Wang
+
+Zhen Wang
+
+Zhen Wang
+
+Qiuhui Pan
+
+Zhen Wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13227
+
+Dalian University of Technology
+
+13233
+
+Beijing Forestry University
+
+13234
+
+Beijing Institute of Technology
+
+13236
+
+Beijing Institute of Technology
+
+13239
+
+Beijing Institute of Technology
+
+13243
+
+Dalian University of Technology
+
+13247
+
+Dalian University of Technology
+
+13254
+
+Dalian University of Technology
+
+13257
+
+University of International Business and
+
+13266
+
+Dalian University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Qiuhui Pan
+
+Lin Si
+
+Gui-Feng Yan
+
+Yanxia Zhang
+
+Haiyan Jiang
+
+Zhen Wang
+
+Zhen Wang
+
+Zhen Wang
+
+Lixin Liu
+
+Qiuhui Pan
+
+13271
+
+Zhejiang Sci-Tech University
+
+China
+
+Shuguang Han
+
+13272
+
+Zhejiang Sci-Tech University
+
+China
+
+Jianming Dong
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+13276
+
+Northwestern Polytechnical University
+
+Country
+
+China
+
+Rong Han
+
+13285
+
+Central University of Finance and Economics
+
+China
+
+Naihui Chen
+
+13288
+
+Beijing University of Posts and
+
+13306
+
+Quanzhou Normal University
+
+13309
+
+Shandong University of Science and
+
+13313
+
+China University of Geosciences, Beijing
+
+13341
+
+Donghua University
+
+13344
+
+Donghua University
+
+13357
+
+North China Electric Power University
+
+13363
+
+North China Electric Power University
+
+13372
+
+Fudan University
+
+13373
+
+Huazhong Agricultural university
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Wenbo Zhang
+
+Xiyang Yang
+
+Xinzeng Wang
+
+Baozeng Chu
+
+Xiaoqian Wu
+
+Xiaofeng Wang
+
+Pan Zhi
+
+Qiu Qirong
+
+Yunxin Zhang
+
+Tan Jinying
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+13378
+
+Southwest Jiaotong University
+
+Country
+
+China
+
+Jian Yuan
+
+13385
+
+Southwest Jiaotong University
+
+China
+
+ChangHong Xue
+
+13391
+
+Harbin Institute of Technology
+
+China
+
+Rongning Xiaofang Li
+
+13398
+
+Xi'an Eurasia University
+
+13404
+
+Xi'an Eurasia University
+
+13407
+
+North China Electric Power University
+
+13410
+
+North China Electric Power University
+
+13411
+
+North China Electric Power University
+
+13412
+
+North China Electric Power University
+
+13413
+
+North China Electric Power University
+
+13414
+
+Zhejiang Normal University
+
+13416
+
+North China Electric Power University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Zhang Junli
+
+Wu Rui
+
+Qiu Qirong
+
+Yong Xuelin
+
+Yong Xuelin
+
+Cao Yanhua
+
+Cao Yanhua
+
+Huajun Zhang
+
+Zhi Pan
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13419
+
+Central university of finance and economics
+
+China
+
+Dingsheng Zhang
+
+13420
+
+North China Electric Power University
+
+13422
+
+Renmin University of China
+
+13423
+
+Beijing Language and Culture University
+
+13427
+
+North China Electric Power University
+
+13433
+
+Southeast  University
+
+13435
+
+Southeast  University
+
+13436
+
+Southeast  University
+
+13465
+
+Dalian University of Technology
+
+13469
+
+Dalian University of Technology
+
+13470
+
+Dalian University of Technology
+
+13472
+
+Dalian University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Gu Yundong
+
+zongfei Fu
+
+Xiaoxia Zhao
+
+Xuelin Yong
+
+Jinde Cao
+
+Guanjun Wang
+
+Guanjun Wang
+
+Qiuhui Pan
+
+Zhen Wang
+
+Zhen Wang
+
+Qiuhui Pan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+13515
+
+Wuhan University
+
+Country
+
+China
+
+Li Ma
+
+13517
+
+Harbin Institute of Technology
+
+China
+
+Rongning Xiaofang Li
+
+13519
+
+Nanjing University
+
+13524
+
+Beijing Language and Culture University
+
+13525
+
+Beijing Language and Culture University
+
+China
+
+China
+
+China
+
+Weining Su
+
+Jimei Li
+
+Jimei Li
+
+13534
+
+Beijing Forestry University
+
+China
+
+Quandong Feng
+
+13537
+
+Renmin University of China
+
+13543
+
+Shandong University of Science and
+
+13553
+
+Beijing Language and Culture University
+
+13554
+
+Beijing Language and Culture University
+
+13576
+
+China Agricultural University
+
+13583
+
+University of International Business and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Songtao Tan
+
+Yanlin Zheng
+
+Xiwen Zhang
+
+Xiwen Zhang
+
+Li Guohui
+
+Wei Zhu
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13607
+
+China Agricultural University
+
+13618
+
+Beijing Institute of Technology
+
+13636
+
+Shenzhen polytechnic
+
+13642
+
+Shenzhen polytechnic
+
+13662
+
+Beijing Institute of Technology
+
+13664
+
+Shanghai Jiaotong University
+
+13685
+
+Wuhan University
+
+13689
+
+BHSF
+
+13696
+
+East China University of Science and
+
+13700
+
+East China University of Science and
+
+13709
+
+East China University of Science and
+
+13721
+
+Zhejiang A&F University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Shi YuanChang
+
+Chunhui Li
+
+Xinhua Wang
+
+Bing Liang
+
+Junmin Wang
+
+Jianguo Huang
+
+Hengjin Cai
+
+Shi Wang
+
+Lu Xiwen
+
+Liu Zhaohui
+
+Yang Qinmin
+
+Yajun Shen
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13729
+
+Wenzhou University
+
+13730
+
+Wenzhou University
+
+13745
+
+Gannan Normal University
+
+China
+
+China
+
+China
+
+Xiaoqin Zhang
+
+Ancha Xu
+
+PAN Jian
+
+13778
+
+Central University of Finance and Economics
+
+China
+
+Dengshan Wang
+
+13780
+
+University of International Business and
+
+13818
+
+Xi'an Jiaotong University
+
+13820
+
+Xi'an Jiaotong University
+
+13826
+
+University of International Business and
+
+13831
+
+Chongqing University
+
+13837
+
+Wenzhou University
+
+13848
+
+Chongqing University
+
+13850
+
+Shanghai Jiaotong University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Weiyong Yang
+
+Jing Gao
+
+Hui Lian Jia
+
+Li Li
+
+Qu Gong
+
+Xinze Lian
+
+Renbin He
+
+Baorui Song
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13860
+
+Xi'an Jiaotong University
+
+China
+
+Hongliang Lu
+
+13869
+
+Xi'an Jiaotong University
+
+13877
+
+East China University of Science and
+
+China
+
+China
+
+Xiaoe Ruan
+
+Xiyuan Qian
+
+13878
+
+Shanghai University of Finance and
+
+China
+
+Wanzhong Lu
+
+13881
+
+Xi'an Jiaotong University
+
+13883
+
+School of Sci., Beijing Univ. of Posts &
+
+13891
+
+Xi'an Jiaotong University
+
+13898
+
+university of international business and
+
+13907
+
+Beijing Forestry University
+
+13929
+
+TongJi University
+
+13947
+
+Shanghai University of Finance and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yan Ni Xiao
+
+Haipeng Peng
+
+Feng Min Xu
+
+Junzhe Huang
+
+Hongjun Li
+
+Cheng Wei
+
+Yuxue Wang
+
+13949
+
+Central University of Finance and Economics
+
+China
+
+peng sun
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13978
+
+university of science and technology beijing
+
+13984
+
+Xi'an Jiaotong University
+
+13985
+
+Xi'an Jiaotong University
+
+13991
+
+Xi'an Jiaotong University
+
+14005
+
+Xi’an Jiaotong-Liverpool University
+
+14011
+
+Xi'an Jiaotong University
+
+14018
+
+Xi’an Jiaotong-Liverpool University
+
+14019
+
+Xi'an Jiaotong Liverpool University
+
+14055
+
+Nanjing University of Information Science &
+
+14068
+
+Xi'an Jiaotong Liverpool University
+
+14076
+
+Xi’an Jiaotong-Liverpool University
+
+14084
+
+Wuhan University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Hui Wang
+
+Jia Kun Zhao
+
+Jia Kun Zhao
+
+Xuanping Zhang
+
+Qiang Niu
+
+Fang Zhang
+
+Jie Fie
+
+Shan Wang
+
+Xingang Jia
+
+Jue Feng
+
+Mingxu Yao
+
+Aijiao Deng
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14108
+
+Xi'an Jiaotong Liverpool University
+
+14137
+
+Shandong University
+
+China
+
+China
+
+Yan Zhao
+
+Fangyi LI
+
+14145
+
+Harbin University of Science and Technology
+
+China
+
+Zhihui Wu
+
+14152
+
+Nanjing University of
+
+14154
+
+Nanjing University of
+
+14155
+
+South China Normal University
+
+China
+
+China
+
+China
+
+Jin Xu
+
+Xu Jin
+
+Jiao Lianzu
+
+14158
+
+Beijing University of Technology
+
+China
+
+Guanfeng Lv
+
+14168
+
+Beijing Jiaotong University
+
+14173
+
+Nanjing University of Posts and
+
+14201
+
+University of International Business and
+
+14244
+
+Renmin University of China
+
+14257
+
+Beijing Univ. of Posts & Telecomm.
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Bingtuan Wang
+
+Qiu Zhonghua
+
+Tang Dan
+
+wangli Xu
+
+Tianping Shuai
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+14272
+
+Beijing Univ. of Posts & Telecomm.
+
+Country
+
+China
+
+Jinkou Ding
+
+14274
+
+Shanghai Jiaotong University
+
+China
+
+Jianzhong Lin
+
+14308
+
+Chongqing University
+
+14316
+
+Beijing University of Posts and
+
+14322
+
+Sun Yat-Sen University
+
+14323
+
+Sun Yat-Sen University
+
+14326
+
+Beijing Univ. of Posts & Telecomm.
+
+14334
+
+Beijing Univ. of Posts & Telecomm.
+
+14336
+
+Sichuan University
+
+14375
+
+Beijing Univ. of Posts & Telecomm.
+
+14376
+
+Beijing Univ. of Posts & Telecomm.
+
+14377
+
+Beijing Univ. of Posts & Telecomm.
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Xiaobing Hu
+
+Wenbo Zhang
+
+Zhenglu Jiang
+
+Zhenglu Jiang
+
+Zuguo He
+
+Xiaoxia Wang
+
+Yunzhi Zou
+
+Jianhua Yuan
+
+Jianhua Yuan
+
+Qing Zhou
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14378
+
+Beijing Univ. of Posts & Telecomm.
+
+14385
+
+Beijing Univ. of Posts & Telecomm.
+
+14392
+
+Beijing Univ. of Posts & Telecomm.
+
+14397
+
+Beijing Univ. of Posts & Telecomm.
+
+14411
+
+Beijing University of Posts and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Qing Zhou
+
+Xueli Wang
+
+Xinchao Zhao
+
+Jinghua Xiao
+
+Wenbo ZHANG
+
+14415
+
+The University of  International Business and
+
+China
+
+Dongyun Du
+
+14436
+
+Dalian University of Technology
+
+14439
+
+Dalian University of Technology
+
+14442
+
+Wuhan University
+
+China
+
+China
+
+China
+
+Ning Ding
+
+Ning Ding
+
+Hu Xinqi
+
+14450
+
+Chongqing University
+
+China
+
+Zhengmin Duan
+
+14451
+
+Dalian University of Technology
+
+14463
+
+Chongqing University
+
+China
+
+China
+
+Ning Ding
+
+Xiaohong Wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14464
+
+Dalian University of Technology
+
+14471
+
+Chongqing University
+
+14473
+
+Dalian University of Technology
+
+14475
+
+Dalian University of Technology
+
+14487
+
+Beijing University of Posts and
+
+14488
+
+University of International Business and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Kun Lu
+
+Chaolin Liu
+
+Kun Lu
+
+Ming Zhu
+
+Wenbo ZHANG
+
+Yang Weiyong
+
+14494
+
+UNIVERSITY OF INTERNATIONAL BUSINESS
+
+China
+
+Yu He
+
+14500
+
+Beijing University of Posts and
+
+14503
+
+Shanghai Finance University
+
+14504
+
+Renmin University of China
+
+14516
+
+Shanghai University of Finance and
+
+14519
+
+Shandong University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Wenbo ZHANG
+
+Zhengyi Jiang
+
+Litao Han
+
+Yang Bai
+
+Yuhai Zhang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+14536
+
+School of Sci., Beijing Univ. of Posts &
+
+Country
+
+China
+
+Zuguo He
+
+14537
+
+School of Sci., Beijing Univ. of Posts &
+
+China
+
+Hongxiang Sun
+
+14539
+
+School of Sci., Beijing Univ. of Posts &
+
+14543
+
+School of Sci., Beijing Univ. of Posts &
+
+14544
+
+School of Sci., Beijing Univ. of Posts &
+
+14547
+
+School of Sci., Beijing Univ. of Posts &
+
+14549
+
+Beijing University of Posts and
+
+14556
+
+Beijing University of Posts and
+
+14560
+
+Beijing University of Posts and
+
+14561
+
+Beijing University of Posts and
+
+14565
+
+Beijing University of Posts and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Tianping Shuai
+
+Jianhua Yuan
+
+Jianhua Yuan
+
+Qing Zhou
+
+Wenbo ZHANG
+
+Wenbo ZHANG
+
+Wenbo ZHANG
+
+Wenbo ZHANG
+
+Wenbo ZHANG
+
+14569
+
+Renmin University of China
+
+China
+
+Yuanyuan Ke
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14570
+
+Fudan University
+
+14610
+
+Beijing Jiaotong University
+
+14612
+
+Zhejiang Gongshang University
+
+14615
+
+University of International Business and
+
+China
+
+China
+
+China
+
+China
+
+Jianguo Zhang
+
+Minghui Liu
+
+Jiukun Hua
+
+Dan Tang
+
+14621
+
+Zhengzhou Information Engineering Institute
+
+China
+
+Tian Tian
+
+14641
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+China
+
+Hongxiang Sun
+
+14644
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14647
+
+Ludong University
+
+14652
+
+Ludong University
+
+14657
+
+South China Normal University
+
+China
+
+China
+
+China
+
+China
+
+Xiaoxia Wang
+
+ZHANG MIN
+
+MZHANG GAO
+
+Tan Yang
+
+14658
+
+Xiamen University
+
+China
+
+Longcheng Liu
+
+14660
+
+Anhui University of Finance and Economics
+
+China
+
+Li Qingdong
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14668
+
+Anhui University of Finance and Economics
+
+14669
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14670
+
+Anhui University of Finance and Economics
+
+14671
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14672
+
+Anhui University of Finance and Economics
+
+14673
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14674
+
+Chongqing University
+
+14677
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14678
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14679
+
+Chongqing University
+
+14682
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14684
+
+Beijing Univ. of Posts and Telecomm.
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Chai Caichun
+
+Xinchao Zhao
+
+Zhang Kongsheng
+
+Xinchao Zhao
+
+Zhu Lei
+
+Jianhua Yuan
+
+Qu Gong
+
+Qing Zhou
+
+Qing Zhou
+
+Jianwen Xu
+
+Xueli Wang
+
+Zuguo He
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14693
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+14740
+
+Binzhou University
+
+14744
+
+Binzhou University
+
+14759
+
+Beijing Jiaotong University
+
+China
+
+China
+
+China
+
+Heli Gao
+
+Xinsheng Xu
+
+Bingtuan Wang
+
+14771
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+14795
+
+Central University of Finance and Economics
+
+China
+
+Xiaowei Sun
+
+14829
+
+University of International Business and
+
+14840
+
+Beijing Jiaotong University
+
+China
+
+China
+
+Wei Guo
+
+Bingtuan Wang
+
+14865
+
+Central University of Finance and Economics
+
+China
+
+Xiao Wei Sun
+
+14869
+
+University of International Business and
+
+China
+
+Hongyu Pan
+
+14879
+
+Central Universiy of Finance and Economics
+
+China
+
+XiaoMing Fan
+
+14886
+
+Anhui University of Finance and Economics
+
+China
+
+Sun Qi
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+14896
+
+Beijing Jiaotong University
+
+Country
+
+China
+
+Jiguang Shao
+
+14898
+
+Beijing Jiaotong University
+
+China
+
+Yongsheng Wei
+
+14899
+
+Beijing Jiaotong University
+
+China
+
+Bingtuan Wang
+
+14902
+
+School of Comp. Sci. & Tech., Beijing Univ. of
+
+China
+
+Qing Zhou
+
+14903
+
+School of Comp. Sci. & Tech., Beijing Univ. of
+
+China
+
+Qing Zhou
+
+14905
+
+School of Comp. Sci. & Tech., Beijing Univ. of
+
+China
+
+Jianhua Yuan
+
+14911
+
+Air Force Engineering University
+
+14912
+
+Peking University
+
+14924
+
+Jilin University
+
+14929
+
+Jilin University
+
+14930
+
+Jilin University
+
+14946
+
+Jilin University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Liang Fangchi
+
+Zuhui Fan
+
+Shuqing Liang
+
+Wenjie Gao
+
+Wenjie Gao
+
+Chunling Cao
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14948
+
+Jilin University
+
+14956
+
+Xiamen University
+
+14959
+
+Jilin University
+
+14971
+
+Jilin University
+
+China
+
+China
+
+China
+
+China
+
+Shishun Zhao
+
+shiyin li
+
+Guoming Wang
+
+Qingdao Huang
+
+14981
+
+Central University of Finance and Economics
+
+China
+
+zhao Sun
+
+14991
+
+Central University of Finance and Economics
+
+China
+
+Xiaowei Sun
+
+14997
+
+Central University of Finance and Economics
+
+China
+
+Zhaoxu Sun
+
+15007
+
+Central University of Finance and Economics
+
+China
+
+sun xiaowei
+
+15012
+
+Central University of Finance and Economics
+
+China
+
+Zhaoxu Sun
+
+15013
+
+central university of finance and economics
+
+15025
+
+University of International Business and
+
+15047
+
+University of International Business and
+
+China
+
+China
+
+China
+
+Fan Ming
+
+Ruiqi Zhang
+
+Dan Tang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15067
+
+Peking University,Beijing
+
+15070
+
+Harvey Mudd College
+
+15078
+
+Anhui University of Architecture
+
+15086
+
+Jilin University
+
+15094
+
+Jilin University
+
+15100
+
+Jilin University
+
+China
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+Heping Liu
+
+Susan Martonosi
+
+Jinyang Zhou
+
+Qiang Li
+
+DanDan Jiang
+
+ren Changyu
+
+15111
+
+Central University of Finance and Economics
+
+China
+
+Xiaozhou FENG
+
+15118
+
+Harvey Mudd College
+
+15122
+
+University of International Business and
+
+15127
+
+Dalian University of Technology
+
+15132
+
+Dalian University of Technology
+
+15133
+
+Dalian University of Technology
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+Jon Jacobsen
+
+Dan Tang
+
+Wenjie Liu
+
+Fengqi Li
+
+Fengqi Li
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15141
+
+Dalian University of Technology
+
+15146
+
+Dalian University of Technology
+
+15149
+
+Wuhan University
+
+15150
+
+Wuhan University
+
+15151
+
+Sun Yat-Sen University
+
+15190
+
+College of Information Technical Science
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Xiaochen Lai
+
+Huang Hui
+
+Zhong Liuyi
+
+Zhong Liuyi
+
+Yanhui Guan
+
+Tiege Zhou
+
+15257
+
+Central  University of Finance and Economics
+
+China
+
+Xiaoming FAN
+
+15258
+
+Peking University
+
+15277
+
+University of International Business and
+
+China
+
+China
+
+Bican Xia
+
+Mei Yu
+
+15302
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+15353
+
+Tsinghua university
+
+15390
+
+Dezhou University
+
+China
+
+China
+
+Zhuo Chen
+
+Jinchan Wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15399
+
+University of International Business and
+
+15401
+
+Peking University Health Science Center
+
+15416
+
+South China Normal University
+
+15419
+
+China University of Petroleum-Beijing
+
+15425
+
+China University of Mining and Technology
+
+15430
+
+Institution of Intelligent Robots and Pattern
+
+15436
+
+Beihang University
+
+15441
+
+Peking University Health Science Center
+
+15443
+
+Shanghai Linxin University of Commerce
+
+15452
+
+University of International Business and
+
+15453
+
+Nankai University
+
+15463
+
+China University of Mining and Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Weiyong Yang
+
+An Jinbing
+
+Zu Jiao
+
+Na Sun
+
+Jiang Shujuan
+
+Tong Jia
+
+Chao Liu
+
+An Jinbing
+
+Guifeng Deng
+
+BOWEN XU
+
+Jishou Ruan
+
+Wang Haijun
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15468
+
+Dezhou University
+
+15470
+
+Dezhou University
+
+15481
+
+University of Internetional Business and
+
+15483
+
+Nanjing University
+
+15484
+
+Sichuan University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Xiulian Gao
+
+Bo Yu
+
+Shuai Geng
+
+Xiaolin Xu
+
+Enbin Song
+
+15485
+
+Capital University of Economics and Business
+
+China
+
+Jiang Chen
+
+15487
+
+Capital University of Economics and Business
+
+China
+
+Jiang Chen
+
+15495
+
+Capital University of Economics and Business
+
+China
+
+Jiazhang Zhao
+
+15514
+
+Beijing Normal University
+
+15520
+
+North China Electric Power University
+
+15523
+
+North China Electric Power University
+
+15528
+
+North China Electric Power University
+
+China
+
+China
+
+China
+
+China
+
+Xiaole Su
+
+HUIFENG SHI
+
+Po Zhang
+
+Yagang Zhang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15529
+
+North China Electric Power University
+
+15531
+
+Zhejiang University of Technology
+
+15533
+
+North China Electric Power University
+
+15534
+
+Zhejiang University of Technology
+
+15537
+
+Zhejiang University of Technology
+
+15538
+
+Zhejiang University of Technology
+
+15544
+
+Beijing University of Posts and
+
+15545
+
+Zhejiang University of Technology
+
+15548
+
+Zhejiang University of Technology
+
+15549
+
+Zhejiang University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yagang Zhang
+
+Kai Zhou
+
+Lingcai Kong
+
+Xuejun Wu
+
+Xuejun Wu
+
+Minghua Zhou
+
+Hongwei Shi
+
+Wenxin Zhuo
+
+Shiming Wang
+
+Shiming Wang
+
+15566
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+15572
+
+University of Electronic Science and
+
+China
+
+Zhang Yong
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15576
+
+University of Electronic Science and
+
+15577
+
+China University of Mining and Technology
+
+15578
+
+University of Electronic Science and
+
+15588
+
+University of Electronic Science and
+
+15589
+
+Chengdu University of Technology
+
+15591
+
+Renmin University of China
+
+15597
+
+Century College,Beijing University of Posts
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Gao Jian
+
+Suo Xinli
+
+He GuoLiang
+
+Xu Quanzhi
+
+Yulan Wang
+
+Tianjia Ni
+
+Weibing Hua
+
+15598
+
+Central University of Finance and Economics
+
+China
+
+Zhaoxu Sun
+
+15601
+
+Century College,Beijing University of Posts
+
+China
+
+Wen Xiang
+
+15608
+
+Central University of Finance and Economics
+
+China
+
+Aihua Li
+
+15609
+
+University of International Business and
+
+China
+
+Ying Li
+
+15611
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15617
+
+Chengdu University of Technology
+
+15622
+
+Shanghai Jiao Tong University
+
+15625
+
+South China Normal University
+
+15642
+
+University of International Business and
+
+15646
+
+Zhejiang Normal University
+
+15647
+
+Hainan University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yong Yuan
+
+Tongsuo Wu
+
+Shaohui Zhang
+
+Bo Zhao
+
+Chen Han
+
+Yong Bai
+
+15650
+
+School of Architecture and Civil Engineering,
+
+China
+
+jing chen
+
+15651
+
+Capital Medical University
+
+15658
+
+Peking University
+
+China
+
+China
+
+Lin Li
+
+Minghua Deng
+
+15659
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+15660
+
+China University of Mining and Technology
+
+15661
+
+Chongqing University of Science &
+
+China
+
+China
+
+Duan ziming
+
+Liang XU
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15664
+
+Anqing Teachers College
+
+15668
+
+Jiangxi environment engineering vocational
+
+China
+
+China
+
+Su Benyue
+
+Qiwei Li
+
+15671
+
+Jiangxi environment engineering vocational
+
+China
+
+Zhongyou Xiao
+
+15672
+
+Chongqing University of Science &
+
+15673
+
+Jiangxi environment engineering vocational
+
+15675
+
+Jiangxi environment engineering vocational
+
+15676
+
+Wuhan University
+
+China
+
+China
+
+China
+
+China
+
+Hongke Wang
+
+Xiaojin Zhang
+
+Xinchun Dong
+
+Aijiao Deng
+
+15678
+
+Hong Kong University of Science and Tech
+
+Hong Kong
+
+Rachel Zhang
+
+15682
+
+China Jiliang University
+
+China
+
+Chengye Zhao
+
+15684
+
+University of International Business and
+
+China
+
+XiangLong Li
+
+15685
+
+China Jiliang University
+
+15687
+
+Southwest University
+
+China
+
+China
+
+Zhonglin Chai
+
+Lei Deng
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15689
+
+Southwest University
+
+15691
+
+Southwest University
+
+15699
+
+Xi'an Jiaotong University
+
+15704
+
+Hefei University of Technology
+
+15707
+
+Beijing University of Aeronautics &
+
+15721
+
+Peking University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Lei Deng
+
+Lei Deng
+
+Xianghua Yao
+
+Tong Li
+
+Xiaobing Ma
+
+Junfeng Hu
+
+15725
+
+Wuhan University
+
+China
+
+Yuanming Hu
+
+15733
+
+Zhejiang University of Finance and Economics
+
+China
+
+Fulai Wang
+
+15735
+
+Zhejiang University of Finance and Economics
+
+China
+
+Fulai Wang
+
+15746
+
+Sun Yat-sen University
+
+15759
+
+Zhejiang University
+
+15760
+
+Fudan University
+
+China
+
+China
+
+China
+
+Tao Su
+
+Qifan Yang
+
+Wenhai Liu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15766
+
+Simpson College
+
+15772
+
+Simpson College
+
+15773
+
+Simpson College
+
+15774
+
+Simpson College
+
+15775
+
+Simpson College
+
+15779
+
+Simpson College
+
+15780
+
+Simpson College
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+USA
+
+Bill Schellhorn
+
+Heidi Berger
+
+Werner Kolln
+
+Werner Kolln
+
+Clint Meyer
+
+Paul Craven
+
+Paul Craven
+
+15783
+
+China Heilongjiang University
+
+China
+
+zhitao zhao
+
+15788
+
+Wuhan University of Technology
+
+China
+
+Mengdong Wang
+
+15796
+
+Nankai University
+
+China
+
+Qingzhi Yang
+
+15803
+
+central university of finace and economics
+
+China
+
+chengzhan wang
+
+15805
+
+University of International Business and
+
+China
+
+XiangLong Li
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15807
+
+Jinshan College of Fujian Agriculture and
+
+15811
+
+China University of Mining and Technology
+
+China
+
+China
+
+Lurong Wu
+
+Gong Dunwei
+
+15820
+
+Central University of Finance and Economics
+
+China
+
+Zhongyuan Zhang
+
+15823
+
+Central University of Finance and Economics
+
+China
+
+XiaoMing Fan
+
+15825
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+15826
+
+Jiang Xi College of Applied Technology
+
+15839
+
+Jinan University
+
+15844
+
+Jiang Xi College of Applied Technology
+
+15845
+
+Jinan University
+
+15846
+
+Nanjing University of Posts and
+
+15857
+
+Nanjing University of Posts and
+
+15877
+
+China University of Mining and Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Ling Weiwei
+
+Fan Suohai
+
+Li Fanchun
+
+Fan Suohai
+
+Gaohua Kong
+
+Wang Youguo
+
+Han Miao
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15888
+
+Beijing Institute of Technology
+
+China
+
+Yonggang Lin
+
+15893
+
+Shenyang Aerospace University
+
+China
+
+Yin Na
+
+15914
+
+Wuhan University
+
+China
+
+Zhuangchu Luo
+
+15929
+
+United States Military Academy
+
+15945
+
+Hangzhou Dianzi University
+
+15948
+
+Hangzhou Dianzi University
+
+15950
+
+Hangzhou Dianzi University
+
+15959
+
+Hangzhou Dianzi University
+
+15960
+
+Hangzhou Dianzi University
+
+15967
+
+Shangdong University at Weihai
+
+15983
+
+Shangdong University at Weihai
+
+15988
+
+Dalian Nationalities University
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Jessica Libertini
+
+Zheyong Qiu
+
+Hao Shen
+
+Zhifeng Zhang
+
+Chengjia Li
+
+Chengjia Li
+
+Bing Yang
+
+Bing Yang
+
+Ge Rendong
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+15991
+
+Dalian Nationalities University
+
+Country
+
+China
+
+Bai Rixia
+
+15997
+
+Shangdong University at Weihai
+
+China
+
+Bing Yang Wei Sun
+
+16005
+
+Dalian Nationalities University
+
+16032
+
+Xi'an University of Technology
+
+China
+
+China
+
+Ma Yumei
+
+Xiaofeng Wang
+
+16048
+
+Xi'an University of Technology
+
+China
+
+Shangping Wang
+
+16064
+
+Shangdong University at Weihai
+
+China
+
+Cao Zhulou Qi Xingqin
+
+16086
+
+Tsinghua University
+
+16102
+
+Sun Yat-sen University
+
+16110
+
+BeiHang University
+
+16130
+
+China University of Mining and Technology
+
+16137
+
+Shangdong University at Weihai
+
+16141
+
+Shangdong University at Weihai
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Zhenbo Wang
+
+Yanhui Li
+
+Wei Feng
+
+Wang Haijun
+
+Bing Yang
+
+Song Qi Xingqin
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16144
+
+Shangdong University at Weihai
+
+16148
+
+University of International Business and
+
+16153
+
+Nanjing University
+
+16157
+
+the University of International Business and
+
+China
+
+China
+
+China
+
+China
+
+Song Qi Xingqin
+
+Yasheng Zou
+
+Min Kong
+
+Xuewei Wang
+
+16160
+
+Central University of Finance and Economics
+
+China
+
+Sun Zhaoxu
+
+16161
+
+University of International Business and
+
+16163
+
+Dalian University
+
+16167
+
+Xiamen University
+
+16170
+
+Changzhou Campus, Hohai University,
+
+China
+
+China
+
+China
+
+China
+
+Dan Tang
+
+Gang Jiatai
+
+Hao Jiang
+
+Jianyong Zhang
+
+16177
+
+Central University of Finance and Economics
+
+China
+
+Chengzhan Wang
+
+16181
+
+Changzhou Campus, Hohai University,
+
+China
+
+Chunyuan He
+
+16182
+
+Changzhou Campus, Hohai University,
+
+China
+
+Binwu zhang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16184
+
+Changzhou Campus, Hohai University,
+
+16199
+
+BeiHang University
+
+16200
+
+CUFE
+
+16210
+
+Xidian University
+
+China
+
+China
+
+China
+
+China
+
+Binwu zhang
+
+Rui Li
+
+Wang Zhang
+
+Xiaogang QI
+
+16215
+
+Xidian University
+
+China
+
+Shuisheng Zhou
+
+16217
+
+Xidian University
+
+16220
+
+Xidian University
+
+16221
+
+Xuhai College of China University of Mining
+
+16222
+
+Xidian University
+
+16225
+
+Xidian University
+
+16226
+
+Xuhai College of China University of Mining
+
+16227
+
+Xidian University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Xuewen MU
+
+Zhenguo BAI
+
+Wei Zhang
+
+Zhenguo BAI
+
+banghe han
+
+Hongjun Peng
+
+Youlong YANG
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16231
+
+Xidian University
+
+16237
+
+University
+
+16238
+
+University of International Business and
+
+China
+
+China
+
+China
+
+Youlong YANG
+
+Guoxiang Lu
+
+Yiping Xu
+
+16241
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+16247
+
+Shandong University
+
+16272
+
+Ningbo Institute of Technology,  Zhejiang
+
+China
+
+China
+
+Yuan Zhang
+
+Jufeng Wang
+
+16284
+
+Central University of Finance and Economics
+
+China
+
+Zhaoxu Sun
+
+16344
+
+Shenzhen  University
+
+16368
+
+Tsinghua University
+
+16375
+
+Wuhan University
+
+China
+
+China
+
+China
+
+Zeyi Liu
+
+zhuo chen
+
+Xinqi Hu
+
+16383
+
+Wuhan university
+
+China
+
+Zhuangchu Luo
+
+16434
+
+University of Minnesota
+
+USA
+
+Vincent Quenneville-
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16446
+
+Beijing jiaotong University
+
+China
+
+Bingtuan Wang
+
+16447
+
+BeiHang university
+
+China
+
+Chenyang Yang
+
+16450
+
+Dalian University
+
+16453
+
+central university of finance and economics
+
+16454
+
+Xi'an University of Architecture and
+
+16459
+
+Xi'an University of Architecture and
+
+16471
+
+National University of Defense Technology
+
+16473
+
+National University of Defense Technology
+
+16475
+
+National University of Defense Technology
+
+16476
+
+National University of Defense Technology
+
+16481
+
+China University of Geosciences(Beijing)
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Wang Sen
+
+Sun ZHAOXU
+
+Zongtian Wei
+
+Zongtian Wei
+
+Xiaojun Duan
+
+X. J. Duan
+
+Yicheng Liu
+
+Yicheng Liu
+
+Shuai Wang
+
+16487
+
+Renmin University of China
+
+China
+
+XiangYang Huang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16517
+
+Guangxi University
+
+China
+
+Zhongxing Wang
+
+16521
+
+Guangxi University
+
+China
+
+Chunhong Li
+
+16528
+
+Guangxi University
+
+China
+
+Gengrong Zhang
+
+16530
+
+Guangxi University
+
+16538
+
+South China University of Technology
+
+16545
+
+Guangzhou University
+
+16546
+
+National University of Defense Technology
+
+16550
+
+Guangzhou University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Jinbiao Shen
+
+Bo Xie
+
+Zhong Yubin
+
+Meihua Xie
+
+Yubing Zhon
+
+16553
+
+National University of Defense Technology
+
+China
+
+Wenqiang Yang
+
+16556
+
+National University of Defense Technology
+
+16558
+
+Guangzhou University
+
+16559
+
+Guangzhou University
+
+China
+
+China
+
+China
+
+W. Q. Yang
+
+Qin Jian
+
+Cai Yunlu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16562
+
+Inner Mongolia University
+
+16624
+
+PLA University of Science and Technology
+
+16627
+
+PLA University of Science and Technology
+
+China
+
+China
+
+China
+
+Haitao Han
+
+Zuowei Tian
+
+Qin Zheng
+
+16655
+
+Queens College, CUNY
+
+USA
+
+Christopher Hanusa
+
+16680
+
+Wuhan University
+
+China
+
+Yuanming Hu
+
+16692
+
+Hunan University
+
+16713
+
+Northeast Agricultural University
+
+16727
+
+China University of Mining and Technology
+
+China
+
+China
+
+China
+
+Ping Xiao
+
+Zhanguo Zhang
+
+Zhang Xingyong
+
+16728
+
+Jiangxi University of Finance and Economics
+
+China
+
+Hua Changsheng
+
+16748
+
+Beijing University of Chemical Technology
+
+16750
+
+Nanjing University
+
+16754
+
+Beijing University of Chemical Technology
+
+China
+
+China
+
+China
+
+Guang JIANG
+
+Xiaojie Tan
+
+Dao Jian CHENG
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Ctrl #
+
+Institution
+
+16757
+
+University of International Business and
+
+Country
+
+China
+
+Yuzhuo Zhang
+
+16775
+
+Northeast Agricultural University
+
+China
+
+Zhenzhong Liu
+
+16777
+
+University of Science and Technology of
+
+16786
+
+Zhejiang University of Science and
+
+China
+
+China
+
+Ziqi Wan
+
+Liping Sun
+
+16787
+
+Northeast Agricultural University
+
+China
+
+Zhenzhong Liu
+
+16793
+
+WuHan University
+
+16798
+
+South China University of Technology
+
+16812
+
+South China University of Technology
+
+16813
+
+South China University of Technology
+
+China
+
+China
+
+China
+
+China
+
+Aijiao Deng
+
+Yongan Qin
+
+Qing Liu
+
+Bo Xie
+
+16815
+
+South China University of Technology
+
+China
+
+Yongkuan Cheng
+
+16830
+
+harbin engineering university
+
+16835
+
+China University of Geosciences(Beijing)
+
+China
+
+China
+
+dong yunji
+
+Yan Deng
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16841
+
+Sun Yat-sen University
+
+China
+
+Shuxiang Xie
+
+16860
+
+Zhejiang University
+
+China
+
+Chenglong Ruan
+
+16863
+
+Zhejiang University
+
+16883
+
+harbin engineering university
+
+16889
+
+harbin engineering university
+
+16891
+
+harbin engineering university
+
+16892
+
+harbin engineering university
+
+16897
+
+harbin engineering university
+
+16898
+
+harbin engineering university
+
+16900
+
+harbin engineering university
+
+16907
+
+Xi'an University of Architecture and
+
+16915
+
+harbin engineering university
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yujie Yan
+
+wang xiaoyin
+
+cai kuijie
+
+cai kuijie
+
+gao zhenbin
+
+zhen xiongbo
+
+zhen xiongbo
+
+jiang jin
+
+Jiarong Shi
+
+xu liyan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16917
+
+harbin engineering university
+
+16919
+
+harbin engineering university
+
+16942
+
+harbin engineering university
+
+16955
+
+harbin engineering university
+
+16959
+
+harbin engineering university
+
+16966
+
+harbin engineering university
+
+16988
+
+harbin engineering university
+
+16990
+
+Harbin engineering university
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+zhang xiaowei
+
+yu fei
+
+zhang wenying
+
+chai yanyou
+
+wang feng
+
+yao hongmei
+
+deng tingquan
+
+Li qiangda
+
+17014
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+17017
+
+Renmin University of China
+
+17024
+
+FuJian Normal University
+
+17038
+
+Fujian Normal University
+
+China
+
+China
+
+China
+
+Yanhong Wang
+
+Sheng Zhang
+
+Chang Ma
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+17046
+
+Nankai University
+
+17058
+
+Zhejiang Normal University
+
+17067
+
+Asbury University
+
+17074
+
+Carroll College
+
+17086
+
+Georgetown College
+
+17161
+
+Beijing University of Chemical Technology
+
+17168
+
+Tsinghua University
+
+China
+
+China
+
+USA
+
+USA
+
+USA
+
+China
+
+China
+
+Jun Li
+
+Guolong He
+
+David Coulliette
+
+Mary Keeffe
+
+William Harris
+
+Guang LAN
+
+Zhenbo Wang
+
+17175
+
+Wuhan University, P.R.China
+
+China
+
+Yuanming Hu
+
+17182
+
+Jiangnan University
+
+17197
+
+Jiangnan University
+
+17212
+
+Jiangnan University
+
+17213
+
+Jiangnan University
+
+China
+
+China
+
+China
+
+China
+
+Yongqing Yang
+
+Manfeng Hu
+
+Xuqing Tang
+
+Xuqing Tang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+17215
+
+Jiangnan University
+
+China
+
+Manfeng Hu
+
+17218
+
+Central University of Finance and Economics
+
+China
+
+Xiaomin Fan
+
+17256
+
+The Chinese university of Hong Kong
+
+17257
+
+Shanghai
+
+17285
+
+University of Jinan
+
+China
+
+China
+
+China
+
+Sidharth JAGGI
+
+Keying Chen
+
+Zhenyu Xu
+
+17286
+
+&#20013;&#22830;&#36130;&#32463;&#22823;
+
+China
+
+Fan xiaoming
+
+17291
+
+Harbin Institute of Technology
+
+China
+
+Rongning Xiaofang Li
+
+17332
+
+Beihang University
+
+China
+
+Dajun Xu
+
+12201
+
+North China Elcetric Power Unversity
+
+China
+
+Hongshan ZHAO
+
+12222
+
+Northwestern Polytechnical University
+
+12223
+
+Northwestern Polytechnical University
+
+12224
+
+Northwestern Polytechnical University
+
+China
+
+China
+
+China
+
+Xiao Huayong
+
+Yuan Zhanbin
+
+Song Weijie
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Honorable Mention
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12249
+
+Harbin Institute of Technology
+
+12250
+
+Harbin Institute of Technology
+
+12253
+
+Fudan University
+
+China
+
+China
+
+China
+
+Hong Ge
+
+Hong Ge
+
+Cao Yuan
+
+12254
+
+Harbin Institute of Technology
+
+China
+
+zhongping yao
+
+12256
+
+Harbin Institute of Technology
+
+China
+
+zhongping yao
+
+12258
+
+Donghua University
+
+12299
+
+Harbin Institute of Technology
+
+12300
+
+Harbin Institute of Technology
+
+12301
+
+Harbin Institute of Technology
+
+12308
+
+Harbin Institute of Technology
+
+12309
+
+Harbin Institute of Technology
+
+12312
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Liangjian Hu
+
+Junguo He
+
+Zhigang Sun
+
+Zhigang Sun
+
+Yong Wang
+
+Yong Wang
+
+Tiantian wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12318
+
+Harbin Institute of Technology
+
+12323
+
+Harbin Institute of Technology
+
+12324
+
+Harbin Institute of Technology
+
+12331
+
+Harbin Institute of Technology
+
+12338
+
+Harbin Institute of Technology
+
+12353
+
+Harbin Institute of Technology
+
+12374
+
+Harbin Institute of Technology
+
+12386
+
+Harbin Institute of Technology
+
+12387
+
+Harbin Institute of Technology
+
+12398
+
+Huazhong Agricultural University
+
+12401
+
+University of International Bussiness and
+
+12439
+
+Dalian Maritime University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Bo Han
+
+Guangzhi Wang
+
+Wei Guan
+
+Yunfei Zhang
+
+Xuexi Zhang
+
+Wei Yang
+
+Yaqin Zhao
+
+Tong Zheng
+
+Tong Zheng
+
+Xiaoyin Wang
+
+Dan Tang
+
+Zhang Yunjie
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12442
+
+Dalian Maritime University
+
+12448
+
+Harbin Institute of Technology
+
+12451
+
+Harbin Institute of Technology
+
+12468
+
+Harbin Institute of Technology
+
+12470
+
+Harbin Institute of Technology
+
+12491
+
+Harbin Institute of Technology
+
+12494
+
+Harbin Institute of Technology
+
+12496
+
+Harbin Institute of Technology
+
+12505
+
+Harbin Institute of Technology
+
+12510
+
+Harbin Institute of Technology
+
+12525
+
+Harbin Institute of Technology
+
+12534
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yang Shuqin
+
+Lili Zhang
+
+Xiangjun Zhang
+
+Hongbin Wang
+
+Huiying Yin
+
+Yuku Wang
+
+Zhiqiang Chen
+
+Jinxiu Zhang
+
+Guoqiu Yang
+
+Lishan Sun
+
+Binhao Jiang
+
+Jixian Yang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+12539
+
+Harbin Institute of Technology
+
+Country
+
+China
+
+Shu Lin
+
+12548
+
+Jiangxi Environmental Engineering Vocational
+
+China
+
+Chen Wanjun
+
+12552
+
+Harbin Institute of Technology
+
+12559
+
+Harbin Institute of Technology
+
+12561
+
+Harbin Institute of Technology
+
+12565
+
+Harbin Institute of Technology
+
+12568
+
+Harbin Institute of Technology
+
+12569
+
+Harbin Institute of Technology
+
+12572
+
+Harbin Institute of Technology
+
+12573
+
+Harbin Institute of Technology
+
+12576
+
+Harbin Institute of Technology
+
+12578
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Ping Chen
+
+Mao Wang
+
+Longsuo Li
+
+Guofu Zhai
+
+Guang Han
+
+Guang Han
+
+Shaohua Wu
+
+Shaohua Wu
+
+Liguo Wang
+
+Yongren Xu
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+12582
+
+Harbin Institute of Technology
+
+Country
+
+China
+
+Gang Ding
+
+12585
+
+Harbin Institute of Technology
+
+China
+
+Chengshao Hong
+
+12595
+
+Harbin Institute of Technology
+
+12600
+
+Harbin Institute of Technology
+
+12601
+
+Harbin Institute of Technology
+
+12602
+
+Harbin Institute of Technology
+
+12614
+
+Harbin Institute of Technology
+
+12634
+
+Harbin Institute of Technology
+
+12645
+
+Harbin Institute of Technology
+
+12647
+
+Harbin Institute of Technology
+
+12648
+
+Harbin Institute of Technology
+
+12651
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Hui Zhao
+
+Wei Zheng
+
+Guodong Liu
+
+Guodong Liu
+
+Chunqi Sun
+
+Jianing Mi
+
+Shijun Ren
+
+Zhe Zhang
+
+Jing Chen
+
+Yuyin Wang
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12663
+
+Harbin Institute of Technology
+
+12665
+
+Harbin Institute of Technology
+
+12670
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+Xiubo Tian
+
+Ru Fang
+
+Yang Bai
+
+12671
+
+Beijing Forestry University
+
+China
+
+Quandong Feng
+
+12678
+
+Naval Aeronautical and Astronautical
+
+12686
+
+Dalian Maritime University
+
+12690
+
+Dalian Maritime University
+
+12691
+
+Dalian Maritime University
+
+12692
+
+Harbin Institute of Technology
+
+12693
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Decun Zhang
+
+Guo Chen
+
+Zhang Jie
+
+Zhang Jie
+
+Zhongyu Wang
+
+Zhongyu Wang
+
+12701
+
+Harbin Institute of Technology
+
+China
+
+Rongfeng Yang
+
+12702
+
+Harbin Institute of Technology
+
+China
+
+Weizhong Ma
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12703
+
+Harbin Institute of Technology
+
+China
+
+Weizhong Ma
+
+12707
+
+Harbin Institute of Technology
+
+12708
+
+Harbin Institute of Technology
+
+China
+
+China
+
+Liang Ding
+
+Jingjun Zhao
+
+12718
+
+Tsinghua University
+
+China
+
+Yuan-Yuan FENG
+
+12723
+
+Huazhong Agricultural University
+
+12728
+
+Huazhong Agricultural University
+
+12738
+
+Fuzhou University
+
+12744
+
+Harbin Institute of Technology
+
+12750
+
+Harbin Institute of Technology
+
+12757
+
+Harbin Institute of Technology
+
+12762
+
+Harbin Institute of Technology
+
+12763
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+hong fang
+
+BangJu Wang
+
+Yuzhong Chen
+
+Liang Zhou
+
+Jihong Yan
+
+Yang Yu
+
+Xiaoyu Li
+
+Tao Li
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12766
+
+Harbin Institute of Technology
+
+12775
+
+Beijing Institute of Technology
+
+12778
+
+Naval Aeronautical and Astronautical
+
+China
+
+China
+
+China
+
+Weijie Wang
+
+Liang Shen
+
+Gang Zhou
+
+12781
+
+Dalian Maritime University
+
+China
+
+Yongchao Liu
+
+12786
+
+Dalian Maritime University
+
+12788
+
+Dalian Maritime University
+
+12795
+
+Dalian Maritime University
+
+12796
+
+Dalian Maritime University
+
+12798
+
+Harbin Institute of Technology
+
+12801
+
+Harbin Institute of Technology
+
+12806
+
+Harbin Institute of Technology
+
+12807
+
+Harbin Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Y. Zhang
+
+Yunjie Zhang
+
+S. Yang
+
+S. Yang
+
+Qingxin Yang,
+
+Yongda Yan
+
+Baiqing Sun
+
+Baiqing Sun
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12812
+
+Harbin Institute of Technology
+
+12815
+
+Harbin Institute of Technology
+
+12830
+
+China University of Petroleum
+
+12832
+
+China University of Petroleum
+
+12833
+
+China University of Petroleum
+
+12846
+
+China University of Petroleum
+
+12847
+
+China University of Petroleum
+
+12855
+
+Tianjin  Agricultural University
+
+12860
+
+HuaZhong Agricultural University
+
+12866
+
+South China University of Technology
+
+12870
+
+South China University of Technology
+
+12871
+
+South China University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Jin Feng
+
+Dalie Sun
+
+Qiao Tiantian
+
+Zhang Jiansong
+
+Zhang Jiansong
+
+Lin Chao
+
+Lin Chao
+
+Zhi-hong Ma
+
+Liu Feng
+
+Ping Huang
+
+Yongan Qin
+
+Yongan Qin
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12877
+
+South China University of Technology
+
+12878
+
+South China University of Technology
+
+12883
+
+China University of Petroleum
+
+China
+
+China
+
+China
+
+Bo Xie
+
+Bo Xie
+
+Sun Qingying
+
+12884
+
+South China University of Technology
+
+China
+
+Shenquan Liu
+
+12886
+
+South China University of Technology
+
+12887
+
+South China University of Technology
+
+China
+
+China
+
+Ping Huang
+
+Yongan Qin
+
+12890
+
+South China University of Technology
+
+China
+
+Yongkuan Cheng
+
+12891
+
+South China University of Technology
+
+12897
+
+SSE, Beijing University of Posts and
+
+China
+
+China
+
+Qing Liu
+
+Xinchao Zhao
+
+12913
+
+Hong Kong Baptist University
+
+Hong Kong
+
+Ka Ho Law
+
+12915
+
+Hong Kong Baptist University
+
+Hong Kong
+
+Wai Chee Shiu
+
+12925
+
+Harbin Institute of Technology
+
+China
+
+Xiyue Yang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+12929
+
+Harbin Institute of Technology
+
+12938
+
+Harbin Institute of Technology
+
+12954
+
+Harbin Institute of Technology
+
+12959
+
+East China Normal University
+
+12964
+
+Harbin Institute of Technology
+
+12966
+
+Harbin Institute of Technology
+
+12978
+
+Harbin Institute of Technology
+
+12986
+
+Shanghai University of Finance and
+
+13015
+
+Beijing Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Lixin Qiao
+
+Xilian Wang
+
+Jinfu Liu
+
+Xiangyun Zhang
+
+Xiaoying Sun
+
+Wei Pan
+
+Xuejun Sha
+
+Jieyong Zhou
+
+Xiuling Ma
+
+13038
+
+Harbin Institute of Technology
+
+China
+
+Zhanshan Liu
+
+13053
+
+East China Normal University
+
+13055
+
+Dalian University of Technology
+
+China
+
+China
+
+Jianyu Pan
+
+Qiuhui Pan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13065
+
+Beijing Institute of Technology
+
+13070
+
+Peking University
+
+13083
+
+Peking University
+
+13089
+
+Harbin Institute of Technology
+
+13091
+
+Harbin Institute of Technology
+
+13103
+
+Southeast University
+
+13116
+
+Peking University
+
+13122
+
+Beijing Institute of Technology
+
+13168
+
+Southeast  University
+
+13169
+
+Southeast  University
+
+13184
+
+Nankai University
+
+13208
+
+Dalian University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Xiaoxia Yan
+
+Li Bo
+
+Wang Huan
+
+Mingying xin
+
+Jiqun Shao
+
+Liyan Wang
+
+Huang Guan
+
+ZhiZhong Yan
+
+Daoyuan Zhu
+
+Daoyuan Zhu
+
+Dianfa Chen
+
+Zhen Wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13226
+
+Dalian University of Technology
+
+13235
+
+Beijing Institute of Technology
+
+13237
+
+Dalian University of Technology
+
+13251
+
+Shandong University of Science and
+
+13253
+
+Dalian University of Technology
+
+13259
+
+Dalian University of Technology
+
+13286
+
+Beijing University of Posts and
+
+13289
+
+Beijing University of Posts and
+
+13450
+
+North China Electric Power University
+
+13502
+
+SHENYANG LIGONG UNIVERSITY
+
+13555
+
+Beijing Language and Culture University
+
+13570
+
+Beijing Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Qiuhui Pan
+
+Yi-Fu Wang
+
+Qiuhui Pan
+
+Xinzeng Wang
+
+Zhen Wang
+
+Qiuhui Pan
+
+Wenbo Zhang
+
+Wenbo Zhang
+
+Xuelin Yong
+
+Zhiqiang Ding
+
+Weihua An
+
+Yongfei Fang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13589
+
+Huazhong Agricultural University
+
+13602
+
+China Agricultural University
+
+13619
+
+School of Physics Shandong University
+
+13633
+
+Shenzhen polytechnic
+
+13634
+
+Shenzhen polytechnic
+
+13640
+
+Shenzhen polytechnic
+
+13644
+
+Shenzhen polytechnic
+
+13669
+
+Shanghai Jiaotong University
+
+13702
+
+East China University of Science and
+
+13703
+
+East China University of Science and
+
+13713
+
+Nanjing University
+
+13723
+
+shandong university
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+BangJu Wang
+
+Li Guohui
+
+Minglei Zhao
+
+Zhiyong Liu
+
+Xiaohong Kang
+
+Wenzhi Wang
+
+Yueming Liu
+
+Jinliang Yue
+
+Qian Xiyuan
+
+Li Yilong
+
+Hua Qiu
+
+maokui
+
+li
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13728
+
+Tianjin  Agricultural University
+
+13734
+
+Wenzhou University
+
+13735
+
+University of International Business and
+
+China
+
+China
+
+China
+
+Zhi-hong Ma
+
+Mingyu Fan
+
+Hao Huang
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+13746
+
+Harbin Institute of Technology
+
+China
+
+Xiaofang Li Rongning Qu
+
+C
+
+Successful Participant
+
+13755
+
+Zhejiang A&F University
+
+China
+
+Guanghui Xu
+
+13757
+
+Beijing Normal University, Zhuhai
+
+13791
+
+University of Science and Technology of
+
+13800
+
+Huanggang Normal University
+
+13801
+
+Huanggang Normal University
+
+13808
+
+university of international business and
+
+13810
+
+Xi'an Jiaotong University
+
+13813
+
+Xi'an Jiaotong University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Wei Zhou
+
+XIN YANG
+
+Ping Li
+
+Zhibing Liu
+
+Weiyong Yang
+
+Lei Chen
+
+Lei Lei Chu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+13814
+
+Xi'an Jiaotong University
+
+13839
+
+Xiamen University
+
+13858
+
+Xi'an Jiaotong University
+
+13941
+
+Sun Yat-sen University
+
+13945
+
+Northwest University,PRC
+
+14059
+
+Xi'an Jiaotong Liverpool University
+
+14183
+
+University of Science and Technology of
+
+14185
+
+SUN YAT-SEN UNIVERSITY
+
+14186
+
+Beijing Institute of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Lei Lei Chu
+
+Jianbao Chen
+
+Qingfang Liu
+
+GuoCan Feng
+
+Jihong Dou
+
+Qijian Xie
+
+FENG ZHU
+
+Junyu Zhang
+
+Houbao XU
+
+14187
+
+Nanjing University of Posts and
+
+China
+
+Zhonghua Qiu
+
+14192
+
+Nanjing University
+
+14196
+
+Shanghai Jiaotong University
+
+China
+
+China
+
+Huang Weihua
+
+Dewen Xiong
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14209
+
+Huazhong University of Science and
+
+China
+
+Xinxiang Qi
+
+14211
+
+Huazhong University of Science and
+
+China
+
+zymeihust Xinxiang
+
+14220
+
+Huazhong University of Science and
+
+14225
+
+Huazhong University of Science and
+
+14241
+
+Shanghai Jiaotong University
+
+14249
+
+Beijing Univ. of Posts & Telecomm.
+
+China
+
+China
+
+China
+
+China
+
+Yong Hu
+
+Zhibin Han
+
+Jing Zeng
+
+Zuguo He
+
+14253
+
+Beijing Univ. of Posts & Telecomm.
+
+China
+
+Hongxiang Sun
+
+14259
+
+Beijing Univ. of Posts & Telecomm.
+
+14261
+
+Beijing Univ. of Posts & Telecomm.
+
+14266
+
+Beijing Univ. of Posts & Telecomm.
+
+14267
+
+Shanghai Jiaotong University
+
+14290
+
+Sun Yat-sen University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Jianhua Yuan
+
+Jianhua Yuan
+
+Qing Zhou
+
+Zhen Cui
+
+Daoqing Dai
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14292
+
+Xiamen University
+
+14293
+
+Huazhong Agriculture University
+
+14294
+
+Xiamen University
+
+14296
+
+Zhejiang University City College
+
+14303
+
+Chongqing University
+
+14306
+
+South China Normal University
+
+14307
+
+Shandong University
+
+14310
+
+Chongqing University
+
+14325
+
+Beijing Univ. of Posts & Telecomm.
+
+14328
+
+Beijing Univ. of Posts & Telecomm.
+
+14332
+
+Beijing Univ. of Posts & Telecomm.
+
+14343
+
+Beijing University of Posts and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yunfeng Wu
+
+Qiang Zhu
+
+Yunfeng Wu
+
+Xusheng Kang
+
+Dong Li
+
+Shaohui Zhang
+
+LIU Baodong
+
+Yonglu Shu
+
+Xueli Wang
+
+Zuguo He
+
+Tianping Shuai
+
+Wenbo ZHANG
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14345
+
+Beijing University of Posts and
+
+14379
+
+Beijing Univ. of Posts & Telecomm.
+
+14380
+
+Beijing Univ. of Posts & Telecomm.
+
+14414
+
+Beijing Jiaotong University
+
+China
+
+China
+
+China
+
+China
+
+Wenbo ZHANG
+
+Jinkou Ding
+
+Jinkou Ding
+
+Meng Xu
+
+14416
+
+Beijing Jiaotong University
+
+China
+
+Yongsheng Wei
+
+14418
+
+Beijing Jiaotong University
+
+China
+
+Yongsheng Wei
+
+14422
+
+Beijing Jiaotong University
+
+14434
+
+Beijing Jiaotong University
+
+China
+
+China
+
+Bingli Fan
+
+Bingtuan Wang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+14438
+
+Harbin Institute of Technology
+
+China
+
+Xiaofang Li Rongning Qu
+
+C
+
+Successful Participant
+
+14445
+
+Chongqing University
+
+14484
+
+Beijing University of Posts and
+
+14498
+
+Shandong Agricultural University
+
+China
+
+China
+
+China
+
+Renbin He
+
+Wenbo ZHANG
+
+Junben Zhang
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14545
+
+School of Sci., Beijing Univ. of Posts &
+
+14564
+
+Beijing University of Posts and
+
+China
+
+China
+
+Qing Zhou
+
+Wenbo ZHANG
+
+14577
+
+Beijing Jiaotong University
+
+China
+
+Yongsheng Wei
+
+14579
+
+Beijing Jiaotong University
+
+China
+
+Hongwei Jia
+
+14589
+
+Hong Kong Baptist University
+
+Hong Kong
+
+Leevan Ling
+
+14591
+
+Zhejiang Gongshang University
+
+14597
+
+Zhejiang Gongshang University
+
+14599
+
+Beijing Jiaotong University
+
+China
+
+China
+
+China
+
+Ding Zhengzhong
+
+Hua Jiukun
+
+Tao Feng
+
+14619
+
+Zhengzhou Information Engineering Institute
+
+China
+
+Jianping Du
+
+14624
+
+Zhengzhou Information Engineering Institute
+
+China
+
+Jingxu Liu
+
+14626
+
+Zhengzhou Information Engineering Institute
+
+China
+
+Zhonggeng Han
+
+14631
+
+Ludong University
+
+China
+
+LIU WEI
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+14634
+
+School of Sci., Beijing Univ. of Posts &
+
+Country
+
+China
+
+Xiaoxia Wang
+
+14638
+
+School of Inf. & Telecomm. Eng., Beijing Univ.
+
+China
+
+Zuguo He
+
+14640
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+China
+
+Hongxiang Sun
+
+14645
+
+School of Telecomm. Eng.,Beijing Univ. of
+
+14648
+
+Ludong University
+
+14649
+
+Ludong University
+
+14655
+
+Ludong University
+
+China
+
+China
+
+China
+
+China
+
+Xiaoxia Wang
+
+ZHANG MIN
+
+WLIU LIU
+
+liugc Liu
+
+14659
+
+The Arab American University
+
+Palestine
+
+Hasan Hanayshi
+
+14687
+
+Chongqing University
+
+China
+
+Luosheng Wen
+
+14688
+
+Shandong University
+
+China
+
+Ren Tan
+
+14691
+
+Chongqing University
+
+China
+
+Tengzhong Rong
+
+14699
+
+Anhui University
+
+China
+
+Huayou Chen
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14703
+
+Anhui University
+
+14708
+
+Anhui University
+
+14715
+
+Beijing Jiaotong University
+
+14721
+
+Beijing Jiaotong University
+
+14722
+
+Beijing Jiaotong University
+
+14723
+
+Beijing Jiaotong University
+
+14730
+
+Zhejiang Gongshang University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yi Wang
+
+Zhixiang Huang
+
+Yingdong Liu
+
+Xiaoduo Ma
+
+Xiaoduo Ma
+
+Bingtuan Wang
+
+Heng Zhao
+
+14731
+
+Central University of Finance and Economics
+
+China
+
+ChengZhan Wang
+
+14734
+
+Binzhou University
+
+14735
+
+Binzhou University
+
+14737
+
+East China Normal University
+
+14741
+
+Binzhou University
+
+China
+
+China
+
+China
+
+China
+
+Liguo Huang
+
+Xia Song
+
+ZHIGUO LIU
+
+Xiangkai Dou
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14742
+
+Binzhou University
+
+14752
+
+Zhejiang Gongshang University
+
+14753
+
+Zhejiang Gongshang University
+
+14760
+
+Beijing Jiaotong University
+
+14775
+
+School of mathematical sciences of XMU
+
+14784
+
+Xiamen University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Lufang Mi
+
+Qiu Yuyang
+
+Yuyang Qiu
+
+Hongwei Jia
+
+Shiyin li
+
+congmin Wu
+
+14790
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+14796
+
+School of Mathematics and Computing Central
+
+China
+
+Xuanyun Qin
+
+14814
+
+Beijing Jiaotong University
+
+14818
+
+Beijing Jiaotong University
+
+14822
+
+Chang'an University
+
+14828
+
+Beijing Jiaotong University
+
+China
+
+China
+
+China
+
+China
+
+Bingtuan Wang
+
+Bingtuan Wang
+
+Limei Ren
+
+Qin Yu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14831
+
+Beijing Jiaotong University
+
+14838
+
+Beijing Jiaotong University
+
+14841
+
+School of Energy Science and Engineering
+
+14843
+
+School of Energy Science and Engineering
+
+14844
+
+Air Force Engineering University
+
+14861
+
+Kunming University of Science and
+
+14866
+
+South China Normal University
+
+14875
+
+West Anhui University
+
+14880
+
+Zhejiang Normal University
+
+14883
+
+Anhui University of Finance and Economics
+
+14884
+
+Anhui University of Finance and Economics
+
+14890
+
+Anhui University of Finance and Economics
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Bingtuan Wang
+
+Bingtuan Wang
+
+Yun Qing
+
+Yun Qing
+
+Wang Weiliang
+
+Tao Chen
+
+Hunan Li
+
+Zhou Benda
+
+Shugui Wang
+
+Wang Kai
+
+Xu Jian
+
+Liu Dezhi
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14893
+
+Beijing Jiaotong University
+
+14895
+
+Beijing Jiaotong University
+
+China
+
+China
+
+Bingtuan Wang
+
+Jiguang Shao
+
+14907
+
+School of Comp. Sci. & Tech., Beijing Univ. of
+
+China
+
+Zuguo He
+
+14914
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+14922
+
+Jilin University
+
+14923
+
+Jilin University
+
+14938
+
+Fudan University
+
+14940
+
+Jilin University
+
+14941
+
+Jilin University
+
+14943
+
+Jilin University
+
+14961
+
+Jilin University
+
+14963
+
+Jilin University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Dehui Wang
+
+Dehui Wang
+
+Weiping Zhang
+
+Guangwu Yan
+
+Ran Zhang
+
+Shuguan Ji
+
+Bingzhe Hou
+
+Mingji Liu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+14995
+
+Xiamen University
+
+15006
+
+University of International Business and
+
+China
+
+China
+
+Zhen Yu
+
+Yong Yang
+
+15021
+
+Capital University of Economics and Business
+
+China
+
+Xing Fang
+
+15023
+
+University of Internatioal Business and
+
+15028
+
+Renmin University of China
+
+15029
+
+China University of Petroleum-Beijing
+
+China
+
+China
+
+China
+
+Weiyong Yang
+
+Qingcai Zhang
+
+Ling Zhao
+
+15031
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+15042
+
+Central University of Finance and Economics
+
+China
+
+Junfeng Li
+
+15058
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+15059
+
+Beijing University of Posts and
+
+15062
+
+Communication University of China
+
+China
+
+China
+
+Binxing Fang
+
+Suqin Min
+
+15063
+
+Central University of Finance and Economics
+
+China
+
+Zhaoxu Sun
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15074
+
+China University of Petroleum-Beijing
+
+15093
+
+Jilin University
+
+15099
+
+Jilin University
+
+15112
+
+Beijing Normal University
+
+15135
+
+Tsinghua University
+
+15136
+
+Dalian University of Technology
+
+15138
+
+Dalian University of Technology
+
+15139
+
+Dalian University of Technology
+
+15159
+
+university of international business and
+
+15161
+
+central university of finance and economy
+
+15174
+
+Dalian University of Technology
+
+15175
+
+Dalian University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yang Gao
+
+DanDan Jiang
+
+ren Changyu
+
+Ying Liang
+
+Jun Ye
+
+Nanhai Yang
+
+Jiaxin Zhao
+
+Houyun Jiang
+
+Dan Tang
+
+lei
+
+liu
+
+Ling Xie
+
+Jinpeng Liu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15178
+
+China University of Petroleum-Beijing
+
+15194
+
+Renmin University of China
+
+15200
+
+South China Normal University
+
+15204
+
+Tsinghua University
+
+15208
+
+Shandong University
+
+15215
+
+North China Electric Power University
+
+15217
+
+Pacific Lutheran Unversity
+
+15222
+
+Shanghai University of Finance and
+
+15226
+
+Research Center of Control & Simulation;
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+USA
+
+China
+
+China
+
+Xuehui Cui
+
+Hui Jiang
+
+Lianzu Jiao
+
+Jun Ye
+
+Meng He
+
+Xuelin Yong
+
+Mei Zhu
+
+Chunjie Wu
+
+jianjiang cui
+
+15231
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+15240
+
+University of International Business and
+
+China
+
+SHUXI WANG
+
+15256
+
+Central  University of Finance and Economics
+
+China
+
+Xiaoming FAN
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15261
+
+South China Normal University
+
+15273
+
+University of International Business and
+
+15275
+
+Chongqing Jiaotong University
+
+China
+
+China
+
+China
+
+Xiuxiang Liu
+
+QIANG TONG
+
+Ming Lei
+
+15278
+
+Central University of Finance and Economics
+
+China
+
+Xiaowei Sun
+
+15296
+
+Institute of Computer System; Northeast
+
+15343
+
+University of Science and Technology of
+
+China
+
+China
+
+HuiLin Liu
+
+Weidong Li
+
+15346
+
+Central University of Finance and Economics
+
+China
+
+Chengzhan Wang
+
+15347
+
+China University of Petroleum-Beijing
+
+15351
+
+Central University of Finance and Economic
+
+15352
+
+Shandong University
+
+15379
+
+China University of Mining and Technology
+
+15381
+
+university of international business and
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Ning Ma
+
+Wentao Xiao
+
+Peng ZHANG
+
+Zhang Xingyong
+
+Jigao Zhu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15383
+
+Central University of Finance and Economics
+
+China
+
+Chuanliang Jia
+
+15393
+
+South China Normal University
+
+China
+
+Hunan Li
+
+15407
+
+Nankai University
+
+China
+
+Chenchen Zhang
+
+15488
+
+Capital University of Economics and Business
+
+China
+
+15489
+
+Capital University of Economics and Business
+
+China
+
+15490
+
+Cappital University of Economics and
+
+15491
+
+Cappital University of Economics and
+
+China
+
+China
+
+Xue Li
+
+Xue Li
+
+Hui Hu
+
+Hui Hu
+
+15492
+
+Capital University of Economics and Business
+
+China
+
+Hua Zhou
+
+15493
+
+Capital University of Economics and Business
+
+China
+
+Hua Zhou
+
+15494
+
+Capital University of Economics and Business
+
+China
+
+Jiazhang Zhao
+
+15497
+
+Capital University of Economics and Business
+
+China
+
+Xinmin Tian
+
+15499
+
+Capital University of Economics and Business
+
+China
+
+Mingqiu Liao
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15500
+
+Capital University of Economics and Business
+
+China
+
+Mingqiu Liao
+
+15501
+
+Cappital University of Economics and
+
+15502
+
+Cappital University of Economics and
+
+China
+
+China
+
+Zengkui Kang
+
+Zengkui Kang
+
+15503
+
+Capital University of Economics and Business
+
+China
+
+Guixi Zhang
+
+15504
+
+Capital University of Economics and Business
+
+China
+
+Guixi Zhang
+
+15512
+
+China University of Mining and Technology
+
+15521
+
+North China Electric Power University
+
+15526
+
+Zhejiang University of Technology
+
+15527
+
+Southwestern University of Finance and
+
+15536
+
+North China Electric Power University
+
+15539
+
+Zhejiang University of Technology
+
+15546
+
+Zhejiang University of Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Han Miao
+
+Po Zhang
+
+Kai Zhou
+
+Hong Feng
+
+Yanpeng Ma
+
+Minghua Zhou
+
+Wenxin Zhuo
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15551
+
+Zhejiang University of Technology
+
+15553
+
+Zhejiang University of Technology
+
+15554
+
+wuhan university
+
+15555
+
+Zhejiang University of Technology
+
+15569
+
+University of Electronic Science and
+
+15574
+
+University of International Business and
+
+15575
+
+University of Electronic Science and
+
+15582
+
+West Anhui University
+
+15583
+
+University of Electronic Science and
+
+15585
+
+West Anhui University
+
+15586
+
+University of Electronic Science and
+
+15808
+
+East China Normal University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Yongqi Li
+
+Yongqi Li
+
+aijiao deng
+
+Aizhen Deng
+
+Wang Zhiyong
+
+Kong Ningning
+
+Gao Qing
+
+Shi Minghua
+
+Wang Zhiyong
+
+Ni Baixiu
+
+Li Mingqi
+
+Fang Li
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+15849
+
+Jinan University
+
+Country
+
+China
+
+HU Daiqiang
+
+15851
+
+Jinan University
+
+China
+
+Shizhuang Luo
+
+15852
+
+Jinan University
+
+China
+
+Shizhuang Luo
+
+15855
+
+Jinan University
+
+15862
+
+South China Normal University
+
+China
+
+China
+
+Ye Shi-qi
+
+Shaohui Zhang
+
+15867
+
+University of Science and Technology Beijing
+
+China
+
+Xing Hu
+
+15872
+
+Xiamen University
+
+China
+
+Wen Zhang
+
+15913
+
+Wuhan University
+
+China
+
+Zhuangchu Luo
+
+15930
+
+United States Military Academy
+
+USA
+
+Elizabeth Schott
+
+15944
+
+Hangzhou Dianzi University
+
+15952
+
+Hangzhou Dianzi University
+
+15964
+
+Jinan University Zhuhai Campus
+
+China
+
+China
+
+China
+
+Zheyong Qiu
+
+Wei Li
+
+Zhang Yuanbiao
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+15965
+
+Hangzhou Dianzi University
+
+15966
+
+Jinan University
+
+15969
+
+Hangzhou Dianzi University
+
+15970
+
+Jinan University
+
+15980
+
+Hangzhou Dianzi University
+
+15981
+
+Hangzhou Normal University
+
+15984
+
+Dalian Nationalities University
+
+15995
+
+Dalian Nationalities University
+
+16000
+
+Dalian Nationalities University
+
+16002
+
+Dalian Nationalities University
+
+16003
+
+Dalian Nationalities University
+
+16021
+
+Dalian Nationalities University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Zongmao Cheng
+
+ZHANG CHUANLIN
+
+Zongmao Cheng
+
+ZHANG CHUANLIN
+
+Jianlan Chen
+
+Chuankui Yan
+
+Ge Rendong
+
+Liu Xiangdong
+
+Liu Yan
+
+Liu Xiaodong
+
+Li Xiaoniu
+
+Wang Lidong
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16046
+
+Xi'an University of Technology
+
+China
+
+Shangping Wang
+
+16050
+
+Shangdong University at Weihai
+
+16054
+
+University of Science and Technology of
+
+16055
+
+Shangdong University at Weihai
+
+16056
+
+Shangdong University at Weihai
+
+China
+
+China
+
+China
+
+China
+
+Luo Chang
+
+Yichen Liu
+
+Jintao Zhulou Cao
+
+Jintao Zhulou Cao
+
+16061
+
+Beijing Normal University
+
+China
+
+Bangming Deng
+
+16065
+
+Shangdong University at Weihai
+
+China
+
+Liu Jiaguo Cao Zhulou
+
+16066
+
+Shangdong University at Weihai
+
+China
+
+Liu Jiaguo Cao Zhulou
+
+16068
+
+Shangdong University at Weihai
+
+16076
+
+Renmin University of China
+
+16079
+
+China University of Geosciences(Beijing)
+
+16080
+
+Hangzhou Normal University
+
+China
+
+China
+
+China
+
+China
+
+Jing Li Sun Huaqing
+
+Wei Xue
+
+Xun ye Zheng
+
+Guochun Ma
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16089
+
+Shandong University at Weihai
+
+China
+
+Yongping Zhang
+
+16093
+
+Shandong Univeristy at Weihai
+
+China
+
+Zengchao Mu
+
+16098
+
+Renmin University of China
+
+China
+
+Lunchuan Zhang
+
+16099
+
+Nankai University
+
+China
+
+Jianzhao Gao
+
+16100
+
+Nanjing University of Science and Technology
+
+China
+
+Chungen Xu
+
+16103
+
+Nankai University, P.R.China
+
+China
+
+Kaibo Hu
+
+16114
+
+Nanjing University of Science and Technology
+
+China
+
+Meng Xu
+
+16117
+
+Nanjing University of Science and Technology
+
+China
+
+Jinhua Fan
+
+16119
+
+Nanjing University of Science and Technology
+
+China
+
+Peibiao Zhao
+
+16120
+
+Nanjing University of Science and Technology
+
+China
+
+Yuan Xu
+
+16129
+
+China University of Mining and Technology
+
+China
+
+Jiang Shujuan
+
+16142
+
+Shangdong University at Weihai
+
+China
+
+Qi Xingqin Song Huimin
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16146
+
+East China University of  Science and
+
+16158
+
+Liaoning Police Academy
+
+16185
+
+Peking University
+
+16203
+
+Chengdu Polytechnic
+
+16242
+
+Xuhai College of China University of Mining
+
+16246
+
+Agricultural University of Hebei
+
+16249
+
+Shanghai Jiao Tong University
+
+16251
+
+Tsinghua University
+
+16252
+
+Sichuan University
+
+16262
+
+Beijing Normal University
+
+16264
+
+Ningbo Institute of Technology,  Zhejiang
+
+16267
+
+Shanghai University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+yongfei
+
+jin
+
+Shen Cong
+
+Zongyan Qiu
+
+FENGTAI MEI
+
+Sai Wang
+
+Bo Zhang
+
+Lipo Wang
+
+NING JIANG
+
+Xiaohu Wang
+
+Qing He
+
+Yong Wu
+
+Xu Xiaoxia
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Ctrl #
+
+Institution
+
+16275
+
+Ningbo Institute of Technology,  Zhejiang
+
+Country
+
+China
+
+Ling Lin
+
+16276
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+16282
+
+Dalian Nationalities University
+
+16292
+
+Dalian University
+
+China
+
+China
+
+Yan Dejun
+
+Gang Sanshan
+
+16293
+
+Central University of Finance and Economics
+
+China
+
+CHENGZHA WANG
+
+16299
+
+Dalian Nationalities University
+
+16301
+
+Dalian Nationalities University
+
+16303
+
+University of International Business and
+
+16309
+
+Academy of Armored Forces Engineering
+
+16317
+
+Hainan University,China
+
+16330
+
+United International College
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Tian Yun
+
+Xue Ye
+
+HONG LIU
+
+ziwei qi
+
+Yong Bai
+
+Ken Tsang
+
+16338
+
+Central University of Finance and Ecomonics
+
+China
+
+tan bang
+
+2012
+
+ICM Contest Results
+
+Advisor
+
+Problem
+
+Designation
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16339
+
+Nanjing Normal University
+
+16341
+
+Hunan University
+
+16342
+
+Hunan University
+
+China
+
+China
+
+China
+
+Guoan Tang
+
+Minru Bai
+
+Minru Bai
+
+16346
+
+Hunan University
+
+China
+
+Shangjiang Guo
+
+16351
+
+Zhengzhou University
+
+16353
+
+Shenyang Pharmaceutical University
+
+16356
+
+North University of China
+
+16357
+
+Shenyang Pharmaceutical University
+
+16373
+
+Peking University
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Chaogai Xue
+
+Rongwu Xiang
+
+Yang Ming
+
+Rongwu Xiang
+
+Ruo Li
+
+16392
+
+Shandong University
+
+China
+
+Guanghui WANG
+
+16397
+
+Chongqing University
+
+16404
+
+Sun Yat-sen University
+
+China
+
+China
+
+Hailiang Feng
+
+Yanhui Li
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16405
+
+Xi'an University of Finance and Economics
+
+16449
+
+SUN YAT-SEN UNIVERSITY
+
+16457
+
+Dalian University
+
+16461
+
+University of Science and Technology of
+
+16467
+
+National University of Defense Technology
+
+16470
+
+National University of Defense Technology
+
+16477
+
+Dalian University
+
+16480
+
+National University of Defense Technology
+
+16494
+
+National University of Defense Technology
+
+16507
+
+National University of Defense Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Zeng Xiaolong
+
+Wei-Shi Zheng
+
+Wang Sen
+
+Da Wei
+
+Yueshan Xiong
+
+Xiaojun Duan
+
+Liu Guangzhi
+
+Y. C. Liu
+
+Zenghui Zhang
+
+Mengda Wu
+
+16529
+
+Guangxi University
+
+China
+
+Gengrong Zhang
+
+16532
+
+Guangxi University
+
+China
+
+Xiaoceng Wu
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16536
+
+South China University of Technology
+
+China
+
+Shenquan Liu
+
+16570
+
+Inner Mongolia University
+
+16572
+
+Inner Mongolia University
+
+16578
+
+Beijing Forestry University
+
+China
+
+China
+
+China
+
+Mei Wang
+
+Fengqin LI
+
+Sheng Liu
+
+16601
+
+Central University of Finance and Economics
+
+China
+
+Chengzhan Wang
+
+16634
+
+University of Southampton
+
+United Kingdom
+
+Francesca Rossi
+
+16636
+
+Whittier College
+
+16648
+
+Longwood University
+
+16675
+
+Beloit College
+
+16681
+
+Peking University
+
+16693
+
+China University of Geosciences, Beijing
+
+16697
+
+Hunan University
+
+USA
+
+USA
+
+USA
+
+China
+
+China
+
+China
+
+William Kronholm
+
+Thomas Wears
+
+Bruce Atwood
+
+LI NIU
+
+Minggui Duan
+
+Xiangyu Yang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16699
+
+Northeast Agricultural University
+
+16700
+
+Hunan University
+
+16706
+
+Northeast Agricultural University
+
+China
+
+China
+
+China
+
+Yueying Yang
+
+Shurong Zhang
+
+Yueying Yang
+
+16707
+
+Institut Teknologi Bandung
+
+Indonesia
+
+Rieske Hadianti
+
+16717
+
+Renmin University of China
+
+16721
+
+Beijing University of Chemical Technology
+
+16732
+
+Beijing University of Chemical Technology
+
+16736
+
+Beijing University of Chemical Technology
+
+16739
+
+Shanghai University of Finance and
+
+16743
+
+Beijing University of Chemical Technology
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Shancai Wang
+
+Xin Hua JIANG
+
+Wen Yan YUAN
+
+Qiu Min GUO
+
+Yangfan Qin
+
+Kai Su WU
+
+16749
+
+Renmin University of China
+
+China
+
+XiangYang Huang
+
+16763
+
+Dalian University of Technology
+
+China
+
+Qiuhui Pan
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16771
+
+Northeast Agricultural University
+
+16780
+
+Northeast Agricultural University
+
+16790
+
+Northeast Agricultural University
+
+China
+
+China
+
+China
+
+Jun Meng
+
+Fangge Li
+
+Hualing Deng
+
+16796
+
+South China University of Technology
+
+China
+
+Shenquan Liu
+
+16804
+
+South China University of Technology
+
+16809
+
+South China University of Technology
+
+16811
+
+School of Information,Renmin University of
+
+16827
+
+Peking University
+
+16848
+
+harbin engineering university
+
+16873
+
+harbin engineering university
+
+16876
+
+harbin engineering university
+
+16877
+
+harbin engineering university
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Ping Huang
+
+Bo Xie
+
+Xiaoyan Liu
+
+Zhiping Zhou
+
+dong yunji
+
+luo yuesheng
+
+chen zhijie
+
+zhou shuanghong
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16878
+
+harbin engineering university
+
+16879
+
+University of International Business and
+
+16881
+
+harbin engineering university
+
+16899
+
+harbin engineering university
+
+16901
+
+harbin engineering university
+
+16916
+
+harbin engineering university
+
+16921
+
+harbin engineering university
+
+16944
+
+harbin engineering university
+
+16950
+
+harbin engineering university
+
+16962
+
+harbin engineering university
+
+16980
+
+harbin engineering university
+
+16982
+
+harbin engineering university
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+chen zhijie
+
+Weiyong Yang
+
+wang xiaoyin
+
+fan zhaobing
+
+li tong
+
+zhang xiaowei
+
+yu fei
+
+yang lihong
+
+yang haiou
+
+wang feng
+
+wang jue
+
+bu changjiang
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+16984
+
+harbin engineering university
+
+16985
+
+Harbin engineering university
+
+16992
+
+harbin engineering university
+
+17015
+
+Henan Institute of Science and Technology
+
+China
+
+China
+
+China
+
+China
+
+li qiangxiao
+
+Li qiangda
+
+ge bin
+
+Hongwei Jiao
+
+17018
+
+Central University of Finance and Economics
+
+China
+
+Chengzhan Wang
+
+17044
+
+Beijing University of Posts and
+
+17053
+
+Nanjing University
+
+17138
+
+University of Wisconsin-La Crosse
+
+17166
+
+Beijing University of Chemical Technology
+
+17170
+
+Beijing University of Chemical Technology
+
+17172
+
+Beijing University of Chemical Technology
+
+China
+
+China
+
+USA
+
+China
+
+China
+
+China
+
+lixia wang
+
+ying chen
+
+Robert Allen
+
+Xin Hua JIANG
+
+Bin HUANG
+
+Yong Li SUN
+
+17174
+
+Central University of Finance and Economics
+
+China
+
+Zhaoxu Sun
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+2012
+
+ICM Contest Results
+
+Ctrl #
+
+Institution
+
+Country
+
+Advisor
+
+Problem
+
+Designation
+
+17211
+
+Central University of Finance and Economics
+
+China
+
+Xiaoming Fan
+
+17223
+
+Northeast Yucai School
+
+17231
+
+Wofford College
+
+17244
+
+Wofford College
+
+17269
+
+Jilin University
+
+17275
+
+beijing normal university
+
+17280
+
+South China University of Technology
+
+17340
+
+Nanjing Forestry University
+
+17346
+
+Nanjing Forestry University
+
+China
+
+USA
+
+USA
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Min Lu
+
+Angela Shiflet
+
+Anne Catlla
+
+Xiankun Du
+
+dongying wei
+
+Xinhui Mao
+
+Jianzhu Sun
+
+Jinfeng Bao
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+Successful Participant
+
+
