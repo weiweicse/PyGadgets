@@ -1,0 +1,12 @@
+# python
+__pycache__/
+*.pyc
+
+# generic files to ignore
+*~
+*/.DS_Store
+*.DS_Store
+*.lock
+*.swp
+*.out
+*.log
